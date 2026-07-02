@@ -666,7 +666,7 @@ function randomWord() {
     }
     className="bg-red-600 px-6 py-3 rounded-xl"
   >
-    CN Word
+   🔊 CN Word
   </button>
 )}
 
@@ -680,7 +680,7 @@ function randomWord() {
     }
     className="bg-red-700 px-6 py-3 rounded-xl"
   >
-    CN Sentence
+   🔊 CN Sentence
   </button>
 )}
 
