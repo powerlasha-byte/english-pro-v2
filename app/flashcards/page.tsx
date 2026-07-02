@@ -649,7 +649,7 @@ function randomWord() {
     }
     className="bg-indigo-600 px-6 py-3 rounded-xl hover:bg-indigo-500 transition"
   >
-    RU Sentence
+    🔊 RU Sentence
   </button>
 )}
 
