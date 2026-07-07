@@ -7,7 +7,7 @@ export default function Sidebar() {
         📚 English Pro
       </h1>
 
-      <p className="text-slate-400 mt-2">
+      <p className="mt-2 text-slate-400">
         by Lasha 🚀
       </p>
 
@@ -15,44 +15,59 @@ export default function Sidebar() {
 
         <Link
           href="/"
-          className="block w-full text-left p-3 rounded-xl bg-violet-600"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
         >
           🏠 Dashboard
         </Link>
 
         <Link
           href="/flashcards"
-          className="block w-full text-left p-3 rounded-xl hover:bg-slate-800"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
         >
           📚 Flashcards
         </Link>
 
         <Link
           href="/english-practice"
-          className="block w-full text-left p-3 rounded-xl hover:bg-slate-800"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
         >
           💬 English Practice
         </Link>
 
-        <button className="w-full text-left p-3 rounded-xl hover:bg-slate-800">
+        <Link
+          href="/favorites"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
+          ⭐ Favorite Sentences
+        </Link>
+
+        <Link
+          href="/bi-english"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
           💼 BI English
-        </button>
+        </Link>
 
-        <button className="w-full text-left p-3 rounded-xl hover:bg-slate-800">
+        <Link
+          href="/russian"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
           🇷🇺 Russian
-        </button>
+        </Link>
 
-        <button className="w-full text-left p-3 rounded-xl hover:bg-slate-800">
-          🎙️ Speaking
-        </button>
+        <Link
+          href="/speaking"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
+          🎙 Speaking
+        </Link>
 
-        <button className="w-full text-left p-3 rounded-xl hover:bg-slate-800">
+        <Link
+          href="/statistics"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
           📊 Statistics
-        </button>
-
-        <button className="w-full text-left p-3 rounded-xl hover:bg-slate-800">
-          ⭐ Favorites
-        </button>
+        </Link>
 
       </nav>
     </aside>

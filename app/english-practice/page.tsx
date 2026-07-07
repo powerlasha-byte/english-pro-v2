@@ -8,6 +8,9 @@ import CategoryFilter from "./CategoryFilter";
 import SearchBar from "./SearchBar";
 
 import { allSentences } from "../data/practice";
+import useFavorites from "./useFavorites";
+import useXP from "./useXP";
+import PremiumHeader from "../components/PremiumHeader";
 
 export default function EnglishPractice() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -19,50 +22,66 @@ export default function EnglishPractice() {
     ...Array.from(new Set(allSentences.map((x) => x.category))),
   ];
 
-  const filteredSentences = useMemo(() => {
-    return allSentences.filter((item) => {
-      const categoryMatch =
-        selectedCategory === "All" ||
-        item.category === selectedCategory;
+  const {
+  toggleFavorite,
+  isFavorite,
+} = useFavorites();
 
-      const searchMatch =
-        item.english.toLowerCase().includes(search.toLowerCase()) ||
-        item.georgian.toLowerCase().includes(search.toLowerCase());
+const {
+  addXP,
+} = useXP();
 
-      return categoryMatch && searchMatch;
-    });
-  }, [selectedCategory, search]);
+const filteredSentences = useMemo(() => {
+  return allSentences.filter((item) => {
+    const categoryMatch =
+      selectedCategory === "All" ||
+      item.category === selectedCategory;
 
-  const current =
-    filteredSentences.length > 0
-      ? filteredSentences[currentIndex]
-      : null;
+    const searchMatch =
+      item.english.toLowerCase().includes(search.toLowerCase()) ||
+      item.georgian.toLowerCase().includes(search.toLowerCase());
 
-  const nextSentence = () => {
-    if (currentIndex < filteredSentences.length - 1) {
-      setCurrentIndex((prev) => prev + 1);
-    }
-  };
+   
+return categoryMatch && searchMatch;
+  });
+}, [selectedCategory, search]);
 
-  const previousSentence = () => {
-    if (currentIndex > 0) {
-      setCurrentIndex((prev) => prev - 1);
-    }
-  };
+
+const current =
+  filteredSentences.length > 0
+    ? filteredSentences[currentIndex]
+    : null;
+
+const nextSentence = () => {
+  if (currentIndex < filteredSentences.length - 1) {
+    setCurrentIndex((prev) => prev + 1);
+    addXP(2);
+  }
+};
+
+const previousSentence = () => {
+  if (currentIndex > 0) {
+    setCurrentIndex((prev) => prev - 1);
+  }
+};
+
+const randomSentence = () => {
+  if (filteredSentences.length === 0) return;
+
+  const randomIndex = Math.floor(
+    Math.random() * filteredSentences.length
+  );
+
+  setCurrentIndex(randomIndex);
+  addXP(1);
+};
+
 
   return (
     <Layout>
       <div className="space-y-6">
 
-        <div>
-          <h1 className="text-4xl font-bold">
-            English Practice
-          </h1>
-
-          <p className="mt-2 text-slate-400">
-            Practice real business conversations.
-          </p>
-        </div>
+        <PremiumHeader />
 
         <SearchBar
           value={search}
@@ -70,7 +89,16 @@ export default function EnglishPractice() {
             setSearch(value);
             setCurrentIndex(0);
           }}
-        />
+        /> 
+
+        <div className="flex justify-end">
+  <button
+    onClick={randomSentence}
+    className="rounded-xl bg-emerald-600 px-5 py-3 text-sm font-semibold hover:bg-emerald-500 transition"
+  >
+    🎲 Random
+  </button>
+</div>
 
         <CategoryFilter
           categories={categories}
@@ -83,10 +111,21 @@ export default function EnglishPractice() {
 
         {current ? (
           <>
-            <PracticeCard
-              english={current.english}
-              georgian={current.georgian}
-            />
+
+
+
+          <PracticeCard
+  english={current.english}
+  georgian={current.georgian}
+  favorite={isFavorite(current.english)}
+  onFavorite={() => {
+  toggleFavorite(current.english);
+  addXP(5);
+}}
+/>
+
+
+            
 
             <div className="flex items-center justify-between">
 
