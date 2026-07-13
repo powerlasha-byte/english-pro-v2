@@ -11,11 +11,13 @@ import { allSentences } from "../data/practice";
 import useFavorites from "./useFavorites";
 import useXP from "./useXP";
 import PremiumHeader from "../components/PremiumHeader";
+import AchievementPopup from "../components/AchievementPopup";
 
 export default function EnglishPractice() {
   const [currentIndex, setCurrentIndex] = useState(0);
   const [selectedCategory, setSelectedCategory] = useState("All");
   const [search, setSearch] = useState("");
+  const [showAchievement, setShowAchievement] = useState(false);
 
   const categories = [
     "All",
@@ -39,7 +41,9 @@ const filteredSentences = useMemo(() => {
 
     const searchMatch =
       item.english.toLowerCase().includes(search.toLowerCase()) ||
-      item.georgian.toLowerCase().includes(search.toLowerCase());
+      item.georgian.toLowerCase().includes(search.toLowerCase()); 
+
+      
 
    
 return categoryMatch && searchMatch;
@@ -77,8 +81,20 @@ const randomSentence = () => {
 };
 
 
+console.log("AchievementPopup =", AchievementPopup);
+
   return (
+
+    
     <Layout>
+
+    <AchievementPopup
+      show={showAchievement}
+      title="First Favorite ⭐"
+      reward="+5 XP"
+    />
+
+
       <div className="space-y-6">
 
         <PremiumHeader />
@@ -92,6 +108,12 @@ const randomSentence = () => {
         /> 
 
         <div className="flex justify-end">
+
+
+
+
+
+
   <button
     onClick={randomSentence}
     className="rounded-xl bg-emerald-600 px-5 py-3 text-sm font-semibold hover:bg-emerald-500 transition"
@@ -118,10 +140,20 @@ const randomSentence = () => {
   english={current.english}
   georgian={current.georgian}
   favorite={isFavorite(current.english)}
-  onFavorite={() => {
+
+onFavorite={() => {
   toggleFavorite(current.english);
   addXP(5);
+
+  setShowAchievement(true);
+
+  setTimeout(() => {
+    setShowAchievement(false);
+  }, 2500);
 }}
+
+
+ 
 />
 
 
