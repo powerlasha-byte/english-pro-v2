@@ -1,40 +1,26 @@
 "use client";
 
-import { useEffect, useState } from "react";
 import Layout from "../components/Layout";
 import PracticeCard from "../english-practice/PracticeCard";
 import { allSentences } from "../data/practice";
+import { useApp } from "../context/AppContext";
 
 export default function FavoritesPage() {
-  const [favorites, setFavorites] = useState<string[]>([]);
-
-  useEffect(() => {
-    const saved = localStorage.getItem("practice-favorites");
-
-    if (saved) {
-      setFavorites(JSON.parse(saved));
-    }
-  }, []);
+  const { favorites, setFavorites } = useApp();
 
   const favoriteSentences = allSentences.filter((item) =>
     favorites.includes(item.english)
   );
 
   const removeFavorite = (english: string) => {
-    const updated = favorites.filter((x) => x !== english);
-
-    setFavorites(updated);
-
-    localStorage.setItem(
-      "practice-favorites",
-      JSON.stringify(updated)
+    setFavorites((prev) =>
+      prev.filter((x) => x !== english)
     );
   };
 
   return (
     <Layout>
       <div className="space-y-6">
-
         <div>
           <h1 className="text-4xl font-bold">
             ⭐ Favorite Sentences
@@ -64,7 +50,6 @@ export default function FavoritesPage() {
             ))}
           </div>
         )}
-
       </div>
     </Layout>
   );

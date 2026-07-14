@@ -12,6 +12,7 @@ import useFavorites from "./useFavorites";
 import useXP from "./useXP";
 import PremiumHeader from "../components/PremiumHeader";
 import AchievementPopup from "../components/AchievementPopup";
+ 
 
 export default function EnglishPractice() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -29,9 +30,11 @@ export default function EnglishPractice() {
   isFavorite,
 } = useFavorites();
 
-const {
-  addXP,
-} = useXP();
+const { addXP } = useXP();
+
+ 
+
+
 
 const filteredSentences = useMemo(() => {
   return allSentences.filter((item) => {
@@ -141,6 +144,7 @@ console.log("AchievementPopup =", AchievementPopup);
   georgian={current.georgian}
   favorite={isFavorite(current.english)}
 
+ 
 onFavorite={() => {
   toggleFavorite(current.english);
   addXP(5);
@@ -151,7 +155,6 @@ onFavorite={() => {
     setShowAchievement(false);
   }, 2500);
 }}
-
 
  
 />
