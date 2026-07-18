@@ -10,4 +10,6 @@ export const allSentences = [
   ...powerbiSentences,
   ...bankingSentences,
   ...everydaySentences,
-];
+]; 
+
+ 

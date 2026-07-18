@@ -9,12 +9,12 @@ export default function FavoritesPage() {
   const { favorites, setFavorites } = useApp();
 
   const favoriteSentences = allSentences.filter((item) =>
-    favorites.includes(item.english)
+    favorites.includes(item.id)
   );
 
-  const removeFavorite = (english: string) => {
+  const removeFavorite = (id: string) => {
     setFavorites((prev) =>
-      prev.filter((x) => x !== english)
+      prev.filter((x) => x !== id)
     );
   };
 
@@ -41,11 +41,11 @@ export default function FavoritesPage() {
           <div className="space-y-6">
             {favoriteSentences.map((sentence) => (
               <PracticeCard
-                key={sentence.english}
+                key={sentence.id}
                 english={sentence.english}
                 georgian={sentence.georgian}
                 favorite={true}
-                onFavorite={() => removeFavorite(sentence.english)}
+                onFavorite={() => removeFavorite(sentence.id)}
               />
             ))}
           </div>

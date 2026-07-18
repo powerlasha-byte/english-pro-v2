@@ -3,21 +3,18 @@
 import { useApp } from "../context/AppContext";
 
 export default function useFavorites() {
-  const {
-    favorites,
-    setFavorites,
-  } = useApp();
+  const { favorites, setFavorites } = useApp();
 
-  const toggleFavorite = (english: string) => {
+  const toggleFavorite = (id: string) => {
     setFavorites((prev) =>
-      prev.includes(english)
-        ? prev.filter((x) => x !== english)
-        : [...prev, english]
+      prev.includes(id)
+        ? prev.filter((x) => x !== id)
+        : [...prev, id]
     );
   };
 
-  const isFavorite = (english: string) => {
-    return favorites.includes(english);
+  const isFavorite = (id: string) => {
+    return favorites.includes(id);
   };
 
   return {

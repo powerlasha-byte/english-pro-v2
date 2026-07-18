@@ -1,6 +1,7 @@
 "use client";
 
 import { createContext, useContext, useEffect, useState } from "react";
+import { checkAchievements } from "../services/achievementEngine";
 
 type AppContextType = {
   xp: number;
@@ -26,6 +27,16 @@ export function AppProvider({
   const [xp, setXP] = useState(0);
   const [favorites, setFavorites] = useState<string[]>([]);
   const [achievements, setAchievements] = useState<string[]>([]);
+
+  const unlockAchievement = (id: string) => {
+    setAchievements((prev) =>
+      prev.includes(id) ? prev : [...prev, id]
+    );
+  };
+
+  const isUnlocked = (id: string) => {
+    return achievements.includes(id);
+  };
 
   useEffect(() => {
     const savedXP = Number(localStorage.getItem("xp") || 0);
@@ -61,15 +72,28 @@ export function AppProvider({
     );
   }, [achievements]);
 
+  useEffect(() => {
+  checkAchievements({
+    favorites,
+    xp,
+    unlockAchievement,
+  });
+}, [favorites, xp]);
+
   return (
     <AppContext.Provider
       value={{
         xp,
         setXP,
+
         favorites,
         setFavorites,
+
         achievements,
         setAchievements,
+
+        unlockAchievement,
+        isUnlocked,
       }}
     >
       {children}

@@ -12,7 +12,6 @@ import useFavorites from "./useFavorites";
 import useXP from "./useXP";
 import PremiumHeader from "../components/PremiumHeader";
 import AchievementPopup from "../components/AchievementPopup";
- 
 
 export default function EnglishPractice() {
   const [currentIndex, setCurrentIndex] = useState(0);
@@ -25,81 +24,61 @@ export default function EnglishPractice() {
     ...Array.from(new Set(allSentences.map((x) => x.category))),
   ];
 
-  const {
-  toggleFavorite,
-  isFavorite,
-} = useFavorites();
+  const { toggleFavorite, isFavorite } = useFavorites();
+  const { addXP } = useXP();
 
-const { addXP } = useXP();
+  const filteredSentences = useMemo(() => {
+    return allSentences.filter((item) => {
+      const categoryMatch =
+        selectedCategory === "All" ||
+        item.category === selectedCategory;
 
- 
+      const searchMatch =
+        item.english.toLowerCase().includes(search.toLowerCase()) ||
+        item.georgian.toLowerCase().includes(search.toLowerCase());
 
+      return categoryMatch && searchMatch;
+    });
+  }, [selectedCategory, search]);
 
+  const current =
+    filteredSentences.length > 0
+      ? filteredSentences[currentIndex]
+      : null;
 
-const filteredSentences = useMemo(() => {
-  return allSentences.filter((item) => {
-    const categoryMatch =
-      selectedCategory === "All" ||
-      item.category === selectedCategory;
+  const nextSentence = () => {
+    if (currentIndex < filteredSentences.length - 1) {
+      setCurrentIndex((prev) => prev + 1);
+      addXP(2);
+    }
+  };
 
-    const searchMatch =
-      item.english.toLowerCase().includes(search.toLowerCase()) ||
-      item.georgian.toLowerCase().includes(search.toLowerCase()); 
+  const previousSentence = () => {
+    if (currentIndex > 0) {
+      setCurrentIndex((prev) => prev - 1);
+    }
+  };
 
-      
+  const randomSentence = () => {
+    if (filteredSentences.length === 0) return;
 
-   
-return categoryMatch && searchMatch;
-  });
-}, [selectedCategory, search]);
+    const randomIndex = Math.floor(
+      Math.random() * filteredSentences.length
+    );
 
-
-const current =
-  filteredSentences.length > 0
-    ? filteredSentences[currentIndex]
-    : null;
-
-const nextSentence = () => {
-  if (currentIndex < filteredSentences.length - 1) {
-    setCurrentIndex((prev) => prev + 1);
-    addXP(2);
-  }
-};
-
-const previousSentence = () => {
-  if (currentIndex > 0) {
-    setCurrentIndex((prev) => prev - 1);
-  }
-};
-
-const randomSentence = () => {
-  if (filteredSentences.length === 0) return;
-
-  const randomIndex = Math.floor(
-    Math.random() * filteredSentences.length
-  );
-
-  setCurrentIndex(randomIndex);
-  addXP(1);
-};
-
-
-console.log("AchievementPopup =", AchievementPopup);
+    setCurrentIndex(randomIndex);
+    addXP(1);
+  };
 
   return (
-
-    
     <Layout>
-
-    <AchievementPopup
-      show={showAchievement}
-      title="First Favorite ⭐"
-      reward="+5 XP"
-    />
-
+      <AchievementPopup
+        show={showAchievement}
+        title="First Favorite ⭐"
+        reward="+5 XP"
+      />
 
       <div className="space-y-6">
-
         <PremiumHeader />
 
         <SearchBar
@@ -108,22 +87,16 @@ console.log("AchievementPopup =", AchievementPopup);
             setSearch(value);
             setCurrentIndex(0);
           }}
-        /> 
+        />
 
         <div className="flex justify-end">
-
-
-
-
-
-
-  <button
-    onClick={randomSentence}
-    className="rounded-xl bg-emerald-600 px-5 py-3 text-sm font-semibold hover:bg-emerald-500 transition"
-  >
-    🎲 Random
-  </button>
-</div>
+          <button
+            onClick={randomSentence}
+            className="rounded-xl bg-emerald-600 px-5 py-3 text-sm font-semibold transition hover:bg-emerald-500"
+          >
+            🎲 Random
+          </button>
+        </div>
 
         <CategoryFilter
           categories={categories}
@@ -136,34 +109,23 @@ console.log("AchievementPopup =", AchievementPopup);
 
         {current ? (
           <>
+            <PracticeCard
+              english={current.english}
+              georgian={current.georgian}
+              favorite={isFavorite(current.id)}
+              onFavorite={() => {
+                toggleFavorite(current.id);
+                addXP(5);
 
+                setShowAchievement(true);
 
-
-          <PracticeCard
-  english={current.english}
-  georgian={current.georgian}
-  favorite={isFavorite(current.english)}
-
- 
-onFavorite={() => {
-  toggleFavorite(current.english);
-  addXP(5);
-
-  setShowAchievement(true);
-
-  setTimeout(() => {
-    setShowAchievement(false);
-  }, 2500);
-}}
-
- 
-/>
-
-
-            
+                setTimeout(() => {
+                  setShowAchievement(false);
+                }, 2500);
+              }}
+            />
 
             <div className="flex items-center justify-between">
-
               <button
                 onClick={previousSentence}
                 disabled={currentIndex === 0}
@@ -185,7 +147,6 @@ onFavorite={() => {
               >
                 Next ➜
               </button>
-
             </div>
           </>
         ) : (
@@ -193,7 +154,6 @@ onFavorite={() => {
             No sentences found.
           </div>
         )}
-
       </div>
     </Layout>
   );
