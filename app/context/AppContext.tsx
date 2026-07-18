@@ -11,6 +11,9 @@ type AppContextType = {
 
   achievements: string[];
   setAchievements: React.Dispatch<React.SetStateAction<string[]>>;
+
+  unlockAchievement: (id: string) => void;
+  isUnlocked: (id: string) => boolean;
 };
 
 const AppContext = createContext<AppContextType | null>(null);

@@ -1,11 +1,5 @@
 export const OfficeSentences = [
-  {
-    id: 1,
-    english: "Could you please send me the updated report before the meeting?",
-    georgian: "შეგიძლია გთხოვ შეხვედრამდე განახლებული რეპორტი გამომიგზავნო?",
-    category: "OfficeSentences",
-    level: "Easy",
-  },
+
   {
     id: 2,
     english: "I'll check it and get back to you.",

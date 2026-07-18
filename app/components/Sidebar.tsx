@@ -68,6 +68,11 @@ export default function Sidebar() {
         >
           📊 Statistics
         </Link>
+    
+        <Link href="/achievements">
+         🏆 Achievements
+        </Link>
+
 
       </nav>
     </aside>
