@@ -1,12 +1,12 @@
 import { meetings } from "./meetingSentences";
-import { sqlSentences } from "./sqlSentences";
+import { OfficeSentences } from "./OfficeSentences";
 import { powerbiSentences } from "./powerBiSentences";
 import { bankingSentences } from "./bankingSentences";
 import { everydaySentences } from "./everydaySentences";
 
 export const allSentences = [
   ...meetings,
-  ...sqlSentences,
+  ...OfficeSentences,
   ...powerbiSentences,
   ...bankingSentences,
   ...everydaySentences,
