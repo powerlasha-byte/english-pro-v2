@@ -9,37 +9,53 @@ export default function AchievementsPage() {
 
   return (
     <Layout>
-      <div className="max-w-5xl mx-auto p-6">
-        <h1 className="text-3xl font-bold mb-6">
-          🏆 Achievements
-        </h1>
+      <div className="max-w-6xl mx-auto p-6">
+        <div className="mb-8">
+          <h1 className="text-4xl font-bold text-white">
+            🏆 Achievements
+          </h1>
 
-        <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-5">
+          <p className="mt-2 text-slate-400">
+            Unlock achievements while improving your English.
+          </p>
+        </div>
+
+        <div className="grid gap-6 md:grid-cols-2 xl:grid-cols-3">
           {achievements.map((achievement) => {
             const unlocked = isUnlocked(achievement.id);
 
             return (
               <div
                 key={achievement.id}
-                className={`rounded-xl border p-5 transition ${
+                className={`rounded-3xl border p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl ${
                   unlocked
-                    ? "bg-green-50 border-green-400"
-                    : "bg-gray-100 border-gray-300 opacity-70"
+                    ? "border-emerald-500 bg-emerald-900/20"
+                    : "border-slate-700 bg-slate-800"
                 }`}
               >
-                <div className="text-5xl mb-3">
+                {/* Icon */}
+                <div className="mb-5 text-6xl">
                   {achievement.icon}
                 </div>
 
-                <h2 className="font-bold text-lg">
+                {/* Title */}
+                <h2 className="text-2xl font-bold text-white">
                   {achievement.title}
                 </h2>
 
-                <p className="text-sm text-gray-600 mt-2">
+                {/* Description */}
+                <p className="mt-3 text-slate-400">
                   {achievement.description}
                 </p>
 
-                <div className="mt-4 font-semibold">
+                {/* Status */}
+                <div
+                  className={`mt-6 inline-flex items-center rounded-full px-4 py-2 text-sm font-semibold ${
+                    unlocked
+                      ? "bg-emerald-500/20 text-emerald-400"
+                      : "bg-slate-700 text-slate-400"
+                  }`}
+                >
                   {unlocked ? "✅ Unlocked" : "🔒 Locked"}
                 </div>
               </div>
