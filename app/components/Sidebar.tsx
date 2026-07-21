@@ -68,6 +68,13 @@ export default function Sidebar() {
         >
           📊 Statistics
         </Link>
+
+       <Link
+  href="/direct-method"
+  className="block w-full rounded-xl p-3 hover:bg-slate-800"
+>
+  📘 Direct Method
+</Link>
     
         <Link href="/achievements">
          🏆 Achievements
