@@ -1,7 +1,7 @@
 export const exercises = [
   {
     id: 1,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "You _____ go to a lawyer if you need legal advice.",
     answer: "have to",
     explanation:
@@ -9,7 +9,7 @@ export const exercises = [
   },
   {
     id: 2,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "Dogs are _____ bones and meat.",
     answer: "fed",
     explanation:
@@ -17,7 +17,7 @@ export const exercises = [
   },
   {
     id: 3,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "Computers often need to be _____.",
     answer: "upgraded",
     explanation:
@@ -25,7 +25,7 @@ export const exercises = [
   },
   {
     id: 4,
-    question: "Choose the correct word:",
+    title: "Choose the correct word:",
     sentence: "My teacher gave me good ______.",
     answer: "advice",
     explanation:
@@ -33,7 +33,7 @@ export const exercises = [
   },
   {
     id: 5,
-    question: "Choose the correct word:",
+    title: "Choose the correct word:",
     sentence: "I'd ______ you to study every day.",
     answer: "advise",
     explanation:
@@ -41,7 +41,7 @@ export const exercises = [
   },
   {
     id: 6,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "People usually _____ to their parents when they need help.",
     answer: "turn",
     explanation:
@@ -49,7 +49,7 @@ export const exercises = [
   },
   {
     id: 7,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "Many people _____ the accident.",
     answer: "survived",
     explanation:
@@ -57,7 +57,7 @@ export const exercises = [
   },
   {
     id: 8,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "I'd be _____ to help you.",
     answer: "glad",
     explanation:
@@ -65,7 +65,7 @@ export const exercises = [
   },
   {
     id: 9,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "The dog tried to _____ the stranger.",
     answer: "bite",
     explanation:
@@ -73,7 +73,7 @@ export const exercises = [
   },
   {
     id: 10,
-    question: "Complete the sentence:",
+    title: "Complete the sentence:",
     sentence: "Children learn many things in ______.",
     answer: "kindergarten",
     explanation:

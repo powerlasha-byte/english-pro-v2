@@ -35,7 +35,6 @@ export default function ExercisesPage() {
   return (
     <Layout>
       <div className="max-w-5xl mx-auto p-8">
-
         <div className="mb-6">
           <BackButton
             href={`/direct-method/unit/${id}`}
@@ -44,62 +43,68 @@ export default function ExercisesPage() {
         </div>
 
         <div className="rounded-3xl border border-violet-500 bg-slate-900 p-8">
-
           <p className="text-violet-400 font-semibold">
             Exercise {current + 1} / {exercises.length}
           </p>
 
+          {/* Main Title */}
           <h1 className="mt-3 text-5xl font-bold text-white">
-            ✍️ Translate into English
+            ✍️ Complete the sentence:
           </h1>
 
+          {/* Exercise */}
           <div className="mt-10 rounded-2xl bg-slate-800 p-8">
-
-            <div className="flex items-center justify-between">
-
-              <h2 className="text-4xl font-bold text-white">
-                {exercise.question}
-              </h2>
+            <div className="flex items-start justify-between gap-6">
+              <div className="flex-1">
+                <p className="text-3xl font-bold text-white">
+                  {exercise.sentence}
+                </p>
+              </div>
 
               <button
-                onClick={() => speak(exercise.question)}
-                className="rounded-xl bg-violet-600 px-5 py-3 text-white hover:bg-violet-500"
+                onClick={() => speak(exercise.sentence)}
+                className="rounded-xl bg-violet-600 px-5 py-3 text-white transition hover:bg-violet-500"
               >
                 🔊
               </button>
-
             </div>
-
           </div>
 
+          {/* Show Answer */}
           <button
             onClick={() => setShowAnswer(!showAnswer)}
-            className="mt-8 rounded-xl bg-slate-700 px-6 py-3 text-white hover:bg-slate-600"
+            className="mt-8 rounded-xl bg-slate-700 px-6 py-3 text-white transition hover:bg-slate-600"
           >
             {showAnswer ? "🙈 Hide Answer" : "👁 Show Answer"}
           </button>
 
+          {/* Answer */}
           {showAnswer && (
             <div className="mt-8 rounded-2xl bg-slate-800 p-8">
+              <div className="flex items-start justify-between gap-6">
+                <div className="flex-1">
+                  <h2 className="text-4xl font-bold text-violet-400">
+                    {exercise.answer}
+                  </h2>
 
-              <div className="flex items-center justify-between">
-
-                <h2 className="text-4xl font-bold text-violet-400">
-                  {exercise.answer}
-                </h2>
+                  {exercise.explanation && (
+                    <p className="mt-5 text-lg text-slate-300">
+                      {exercise.explanation}
+                    </p>
+                  )}
+                </div>
 
                 <button
                   onClick={() => speak(exercise.answer)}
-                  className="rounded-xl bg-emerald-600 px-5 py-3 text-white hover:bg-emerald-500"
+                  className="rounded-xl bg-emerald-600 px-5 py-3 text-white transition hover:bg-emerald-500"
                 >
                   🔊
                 </button>
-
               </div>
-
             </div>
           )}
 
+          {/* Progress */}
           <div className="mt-10">
             <div className="h-3 overflow-hidden rounded-full bg-slate-700">
               <div
@@ -115,12 +120,12 @@ export default function ExercisesPage() {
             </p>
           </div>
 
+          {/* Navigation */}
           <div className="mt-10 flex justify-between">
-
             <button
               disabled={current === 0}
               onClick={previous}
-              className="rounded-xl bg-slate-700 px-6 py-3 text-white disabled:opacity-40"
+              className="rounded-xl bg-slate-700 px-6 py-3 text-white transition disabled:opacity-40"
             >
               ← Previous
             </button>
@@ -128,15 +133,12 @@ export default function ExercisesPage() {
             <button
               disabled={current === exercises.length - 1}
               onClick={next}
-              className="rounded-xl bg-violet-600 px-6 py-3 text-white hover:bg-violet-500 disabled:opacity-40"
+              className="rounded-xl bg-violet-600 px-6 py-3 text-white transition hover:bg-violet-500 disabled:opacity-40"
             >
               Next →
             </button>
-
           </div>
-
         </div>
-
       </div>
     </Layout>
   );
