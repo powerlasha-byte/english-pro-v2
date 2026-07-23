@@ -2,8 +2,10 @@
 
 import Link from "next/link";
 import { useEffect, useMemo, useState } from "react";
+import { useLogout } from "@/app/hooks/useLogout";
 
 export default function DashboardPage() {
+  const { handleLogout } = useLogout();
   const [xp, setXp] = useState(0);
   const [streak, setStreak] = useState(0);
   const [learned, setLearned] = useState(0);
@@ -44,12 +46,24 @@ export default function DashboardPage() {
     <main className="min-h-screen bg-slate-950 text-white p-10">
 
       {/* Back Button */}
-      <Link
-        href="/"
-        className="inline-block mb-8 bg-slate-800 px-5 py-3 rounded-xl hover:bg-slate-700 transition"
-      >
-        ← Home
-      </Link>
+       
+
+<div className="mb-8 flex justify-between items-center">
+  <Link
+    href="/"
+    className="bg-slate-800 px-5 py-3 rounded-xl hover:bg-slate-700 transition"
+  >
+    ← Home
+  </Link>
+
+  <button
+    onClick={handleLogout}
+    className="rounded-xl bg-red-600 px-5 py-3 text-white hover:bg-red-700 transition"
+  >
+    🚪 Logout
+  </button>
+</div>
+
 
       {/* Title */}
       <h1 className="text-5xl font-bold text-violet-400 mb-12">

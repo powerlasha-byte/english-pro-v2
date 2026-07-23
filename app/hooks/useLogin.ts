@@ -6,7 +6,6 @@ import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 
 import { createClient } from "@/app/lib/supabase/client";
-
 import {
   loginSchema,
   LoginFormData,
@@ -43,29 +42,16 @@ export function useLogin() {
       }
 
       const {
-        data: { user },
-      } = await supabase.auth.getUser();
+        data: { session },
+      } = await supabase.auth.getSession();
 
-      if (!user) {
-        setAuthError("User not found.");
-        return;
-      }
+      console.log("SESSION:", session);
 
-      if (!user.email_confirmed_at) {
-        await supabase.auth.signOut();
-
-        setAuthError(
-          "Please verify your email address before signing in."
-        );
-
-        return;
-      }
-
-      router.push("/dashboard");
+      router.replace("/dashboard");
       router.refresh();
     } catch (err) {
       console.error(err);
-      setAuthError("Something went wrong. Please try again.");
+      setAuthError("Something went wrong.");
     } finally {
       setLoading(false);
     }

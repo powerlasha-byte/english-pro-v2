@@ -11,14 +11,14 @@ import {
 import { useLogin } from "@/app/hooks/useLogin";
 
 export default function LoginPage() {
- const {
-  register,
-  handleSubmit,
-  formState: { errors },
-  onSubmit,
-  loading,
-  authError,
-} = useLogin();
+  const {
+    register,
+    handleSubmit,
+    formState: { errors },
+    onSubmit,
+    loading,
+    authError,
+  } = useLogin();
 
   return (
     <main className="flex min-h-screen items-center justify-center bg-slate-950 px-6 py-10">
@@ -41,15 +41,11 @@ export default function LoginPage() {
           </Card.Header>
 
           <Card.Content>
-
-{authError && (
-  <div className="mb-4 rounded-lg border border-red-500/30 bg-red-500/10 p-3">
-    <p className="text-sm text-red-400">
-      {authError}
-    </p>
-  </div>
-)}
-
+            {authError && (
+              <div className="mb-4 rounded-lg border border-red-500/30 bg-red-500/10 p-3">
+                <p className="text-sm text-red-400">{authError}</p>
+              </div>
+            )}
 
             <Input
               label="Email"
@@ -82,8 +78,9 @@ export default function LoginPage() {
               fullWidth
               type="submit"
               rightIcon="→"
+              disabled={loading}
             >
-              Sign In
+              {loading ? "Signing In..." : "Sign In →"}
             </Button>
 
             <div className="mt-5 text-center">
