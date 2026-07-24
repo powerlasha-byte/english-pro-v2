@@ -1,16 +1,16 @@
-import Layout from "./components/Layout";
-import Header from "./components/Header";
-import DashboardCards from "./components/DashboardCards";
-import WordOfDay from "./components/WordOfDay";
+import { redirect } from "next/navigation";
+import { createClient } from "@/app/lib/supabase/server";
 
-export default function Home() {
-  return (
-    <Layout>
-      <Header />
+export default async function Home() {
+  const supabase = await createClient();
 
-      <DashboardCards />
+  const {
+    data: { session },
+  } = await supabase.auth.getSession();
 
-      <WordOfDay />
-    </Layout>
-  );
+  if (!session) {
+    redirect("/login");
+  }
+
+  redirect("/dashboard");
 }

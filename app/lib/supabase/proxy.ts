@@ -14,54 +14,25 @@ export async function updateSession(request: NextRequest) {
         getAll() {
           return request.cookies.getAll();
         },
+
         setAll(cookiesToSet) {
-          cookiesToSet.forEach(({ name, value }) =>
-            request.cookies.set(name, value)
-          );
+          cookiesToSet.forEach(({ name, value }) => {
+            request.cookies.set(name, value);
+          });
 
           response = NextResponse.next({
             request,
           });
 
-          cookiesToSet.forEach(({ name, value, options }) =>
-            response.cookies.set(name, value, options)
-          );
+          cookiesToSet.forEach(({ name, value, options }) => {
+            response.cookies.set(name, value, options);
+          });
         },
       },
     }
   );
 
-  // Get current user
-  const {
-    data: { user },
-  } = await supabase.auth.getUser();
-
-  const pathname = request.nextUrl.pathname;
-
-  // Public pages
-  const publicRoutes = [
-    "/login",
-    "/register",
-    "/forgot-password",
-  ];
-
-  const isPublicRoute = publicRoutes.some((route) =>
-    pathname.startsWith(route)
-  );
-
-  // If user is NOT logged in and tries to access a protected page
-  if (!user && !isPublicRoute) {
-    const url = request.nextUrl.clone();
-    url.pathname = "/login";
-    return NextResponse.redirect(url);
-  }
-
-  // If user IS logged in and tries to open login/register
-  if (user && isPublicRoute) {
-    const url = request.nextUrl.clone();
-    url.pathname = "/dashboard";
-    return NextResponse.redirect(url);
-  }
+  await supabase.auth.getSession();
 
   return response;
 }

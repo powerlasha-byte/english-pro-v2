@@ -41,12 +41,6 @@ export function useLogin() {
         return;
       }
 
-      const {
-        data: { session },
-      } = await supabase.auth.getSession();
-
-      console.log("SESSION:", session);
-
       router.replace("/dashboard");
       router.refresh();
     } catch (err) {
