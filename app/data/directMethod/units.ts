@@ -17,7 +17,7 @@ export const units = [
     {
     id: 3,
     title: "Unit 3",
-    description: "Legal • Advice • Survival",
+    description: "Reported speech • Trial • Rock",
     image: "📘",
     locked: false,
   },
@@ -25,7 +25,7 @@ export const units = [
       {
     id: 4,
     title: "Unit 4",
-    description: "Legal • Advice • Survival",
+    description: "Floor • Storey • Roof",
     image: "📘",
     locked: false,
   },
