@@ -46,4 +46,37 @@ export const units = [
   locked: false,
 },
 
+
+{
+  id: 7,
+  title: "Unit 7",
+  description: "Imagination, Growth, GDP, Root, So That",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 8,
+  title: "Unit 8",
+  description: "Volleyball, Humour, Universe, Features",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 9,
+  title: "Unit 9",
+  description: "Universal, Social Networking, Beef, Figures",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 10,
+  title: "Unit 10",
+  description: "Third Conditional, Blogs, Calories, Vegetarians",
+  image: "📘",
+  locked: false,
+},
+
+
+
+
 ];

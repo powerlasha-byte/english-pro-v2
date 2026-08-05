@@ -28,6 +28,26 @@ import { questions as questions6 } from "./unit/6/questions";
 import { grammar as grammar6 } from "./unit/6/grammar";
 import { exercises as exercises6 } from "./unit/6/exercises";
 
+import { vocabulary as vocabulary7 } from "./unit/7/vocabulary";
+import { questions as questions7 } from "./unit/7/questions";
+import { grammar as grammar7 } from "./unit/7/grammar";
+import { exercises as exercises7 } from "./unit/7/exercises";
+
+import { vocabulary as vocabulary8 } from "./unit/8/vocabulary";
+import { questions as questions8 } from "./unit/8/questions";
+import { grammar as grammar8 } from "./unit/8/grammar";
+import { exercises as exercises8 } from "./unit/8/exercises";
+
+import { vocabulary as vocabulary9 } from "./unit/9/vocabulary";
+import { questions as questions9 } from "./unit/9/questions";
+import { grammar as grammar9 } from "./unit/9/grammar";
+import { exercises as exercises9 } from "./unit/9/exercises";
+
+import { vocabulary as vocabulary10 } from "./unit/10/vocabulary";
+import { questions as questions10 } from "./unit/10/questions";
+import { grammar as grammar10 } from "./unit/10/grammar";
+import { exercises as exercises10 } from "./unit/10/exercises";
+
 export const directMethodData = {
   1: {
     vocabulary: vocabulary1,
@@ -64,5 +84,29 @@ export const directMethodData = {
     questions: questions6,
     grammar: grammar6,
     exercises: exercises6,
+  },
+  7: {
+   vocabulary: vocabulary7,
+    questions: questions7,
+    grammar: grammar7,
+    exercises: exercises7,
+  },
+  8: {
+    vocabulary: vocabulary8,
+    questions: questions8,
+    grammar: grammar8,
+    exercises: exercises8,
+  },
+  9: {
+    vocabulary: vocabulary9,
+    questions: questions9,
+    grammar: grammar9,
+    exercises: exercises9,
+  },
+  10: {
+    vocabulary: vocabulary10,
+    questions: questions10,
+    grammar: grammar10,
+    exercises: exercises10,
   },
 };
