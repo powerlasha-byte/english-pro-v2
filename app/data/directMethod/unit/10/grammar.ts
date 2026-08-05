@@ -5,31 +5,27 @@ export const grammar = [
     georgianTitle: "მესამე პირობითი",
 
     rule:
-      "We use the Third Conditional to talk about imaginary situations in the past. It describes things that did not happen and their imaginary results.",
+      "We use the Third Conditional to talk about imaginary situations in the past. It describes things that did not happen and their imaginary results.\n\nStructure:\nIf + Past Perfect, would have + Past Participle",
 
     georgianRule:
-      "Third Conditional გამოიყენება წარსულში წარმოსახვითი სიტუაციების აღსაწერად. საუბარია იმაზე, რაც არ მოხდა და იმაზე, რა მოხდებოდა, რომ მომხდარიყო.",
-
-    structure: [
-      "If + Past Perfect, would have + Past Participle",
-      "If I had studied harder, I would have passed the exam.",
-    ],
+      "Third Conditional გამოიყენება წარსულში წარმოსახვითი სიტუაციების აღსაწერად. საუბარია იმაზე, რაც არ მოხდა და იმაზე, რა მოხდებოდა, რომ მომხდარიყო.\n\nფორმულა:\nIf + Past Perfect, would have + Past Participle",
 
     examples: [
       {
+        english: "If I had studied harder, I would have passed the exam.",
+        georgian: "უფრო კარგად რომ მესწავლა, გამოცდას ჩავაბარებდი.",
+      },
+      {
         english: "If I'd had more money, I'd have bought a better car.",
-        georgian:
-          "მეტი ფული რომ მქონოდა, უკეთეს მანქანას ვიყიდდი.",
+        georgian: "მეტი ფული რომ მქონოდა, უკეთეს მანქანას ვიყიდდი.",
       },
       {
         english: "If she had left earlier, she wouldn't have missed the train.",
-        georgian:
-          "ადრე რომ გასულიყო, მატარებელს არ გააცდენდა.",
+        georgian: "ადრე რომ გასულიყო, მატარებელს არ გააცდენდა.",
       },
       {
         english: "If we had booked earlier, we would have paid less.",
-        georgian:
-          "ადრე რომ დაგვეჯავშნა, ნაკლებს გადავიხდიდით.",
+        georgian: "ადრე რომ დაგვეჯავშნა, ნაკლებს გადავიხდიდით.",
       },
     ],
   },
@@ -40,17 +36,16 @@ export const grammar = [
     georgianTitle: "Past Perfect",
 
     rule:
-      "Past Perfect describes an action completed before another action in the past.",
+      "Past Perfect describes an action completed before another action in the past.\n\nStructure:\nSubject + had + Past Participle",
 
     georgianRule:
-      "Past Perfect აღწერს მოქმედებას, რომელიც სხვა წარსულ მოქმედებამდე დასრულდა.",
-
-    structure: [
-      "Subject + had + Past Participle",
-      "She had finished before I arrived.",
-    ],
+      "Past Perfect აღწერს მოქმედებას, რომელიც სხვა წარსულ მოქმედებამდე დასრულდა.\n\nფორმულა:\nSubject + had + Past Participle",
 
     examples: [
+      {
+        english: "She had finished before I arrived.",
+        georgian: "ჩემ მისვლამდე მას ყველაფერი დასრულებული ჰქონდა.",
+      },
       {
         english: "They had already eaten before I arrived.",
         georgian: "ჩემ მოსვლამდე მათ უკვე ეჭამათ.",
@@ -98,15 +93,37 @@ export const grammar = [
     title: "Common Mistakes",
     georgianTitle: "ხშირი შეცდომები",
 
-    notes: [
-      "❌ If I would have known...",
-      "✅ If I had known...",
+    rule:
+      "Common mistakes when using the Third Conditional.",
 
-      "❌ If he would have called...",
-      "✅ If he had called...",
+    georgianRule:
+      "ხშირი შეცდომები Third Conditional-ის გამოყენებისას.",
 
-      "❌ If they had came...",
-      "✅ If they had come...",
+    examples: [
+      {
+        english: "❌ If I would have known...",
+        georgian: "❌ If I would have known...",
+      },
+      {
+        english: "✅ If I had known...",
+        georgian: "✅ If I had known...",
+      },
+      {
+        english: "❌ If he would have called...",
+        georgian: "❌ If he would have called...",
+      },
+      {
+        english: "✅ If he had called...",
+        georgian: "✅ If he had called...",
+      },
+      {
+        english: "❌ If they had came...",
+        georgian: "❌ If they had came...",
+      },
+      {
+        english: "✅ If they had come...",
+        georgian: "✅ If they had come...",
+      },
     ],
   },
 
@@ -115,26 +132,32 @@ export const grammar = [
     title: "Useful Expressions",
     georgianTitle: "სასარგებლო გამოთქმები",
 
-    expressions: [
+    rule:
+      "Useful English expressions used with the Third Conditional.",
+
+    georgianRule:
+      "სასარგებლო ინგლისური გამოთქმები, რომლებიც გამოიყენება Third Conditional-თან.",
+
+    examples: [
       {
         english: "If I had known...",
         georgian: "რომ მცოდნოდა...",
       },
       {
         english: "I would have...",
-        georgian: "...გავაკეთებდი",
+        georgian: "...გავაკეთებდი.",
       },
       {
-        english: "could have",
-        georgian: "შეეძლო",
+        english: "Could have...",
+        georgian: "შეეძლო...",
       },
       {
-        english: "might have",
-        georgian: "შესაძლოა გაეკეთებინა",
+        english: "Might have...",
+        georgian: "შესაძლოა გაეკეთებინა...",
       },
       {
-        english: "should have",
-        georgian: "უნდა გაეკეთებინა",
+        english: "Should have...",
+        georgian: "უნდა გაეკეთებინა...",
       },
     ],
   },

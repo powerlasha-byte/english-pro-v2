@@ -95,7 +95,7 @@ export default function GrammarPage() {
           <div className="mt-6 flex gap-4">
 
             <button
-              onClick={() => speak(lesson.rule)}
+             onClick={() => speak(lesson.rule ?? "")}
               className="rounded-xl bg-violet-600 px-5 py-3 text-white hover:bg-violet-500 transition"
             >
               🔊 Listen Rule
@@ -120,7 +120,7 @@ export default function GrammarPage() {
 
           <div className="space-y-6">
 
-            {lesson.examples.map((example, index) => (
+            {lesson.examples?.map((example, index) => (
               <div
                 key={index}
                 className="rounded-2xl bg-slate-800 p-5"

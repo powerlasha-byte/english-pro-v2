@@ -112,30 +112,36 @@ export const grammar = [
     title: "Useful Expressions",
     georgianTitle: "სასარგებლო გამოთქმები",
 
-    expressions: [
+    rule:
+      "Useful English expressions related to statistics, research and comparisons.",
+
+    georgianRule:
+      "სასარგებლო ინგლისური გამოთქმები, რომლებიც გამოიყენება სტატისტიკის, კვლევებისა და შედარებების დროს.",
+
+    examples: [
       {
-        english: "social networking",
-        georgian: "სოციალური ქსელები",
+        english: "Social networking.",
+        georgian: "სოციალური ქსელები.",
       },
       {
-        english: "conduct a survey",
-        georgian: "გამოკითხვის ჩატარება",
+        english: "Conduct a survey.",
+        georgian: "გამოკითხვის ჩატარება.",
       },
       {
-        english: "collect data",
-        georgian: "მონაცემების შეგროვება",
+        english: "Collect data.",
+        georgian: "მონაცემების შეგროვება.",
       },
       {
-        english: "show the results",
-        georgian: "შედეგების ჩვენება",
+        english: "Show the results.",
+        georgian: "შედეგების ჩვენება.",
       },
       {
-        english: "make a comparison",
-        georgian: "შედარების გაკეთება",
+        english: "Make a comparison.",
+        georgian: "შედარების გაკეთება.",
       },
       {
-        english: "according to statistics",
-        georgian: "სტატისტიკის მიხედვით",
+        english: "According to statistics.",
+        georgian: "სტატისტიკის მიხედვით.",
       },
     ],
   },

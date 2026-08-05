@@ -12,22 +12,16 @@ export const grammar = [
 
     examples: [
       {
-        english:
-          "Some sports such as volleyball and basketball are very popular.",
-        georgian:
-          "ზოგი სპორტი, მაგალითად ფრენბურთი და კალათბურთი, ძალიან პოპულარულია.",
+        english: "Some sports such as volleyball and basketball are very popular.",
+        georgian: "ზოგი სპორტი, მაგალითად ფრენბურთი და კალათბურთი, ძალიან პოპულარულია.",
       },
       {
-        english:
-          "Animals such as hippos and elephants are very large.",
-        georgian:
-          "ცხოველები, როგორიცაა ჰიპოპოტამები და სპილოები, ძალიან დიდები არიან.",
+        english: "Animals such as hippos and elephants are very large.",
+        georgian: "ცხოველები, როგორიცაა ჰიპოპოტამები და სპილოები, ძალიან დიდები არიან.",
       },
       {
-        english:
-          "Healthy food such as vegetables and fruit is important.",
-        georgian:
-          "ჯანსაღი საკვები, როგორიცაა ბოსტნეული და ხილი, მნიშვნელოვანია.",
+        english: "Healthy food such as vegetables and fruit is important.",
+        georgian: "ჯანსაღი საკვები, როგორიცაა ბოსტნეული და ხილი, მნიშვნელოვანია.",
       },
     ],
   },
@@ -45,22 +39,16 @@ export const grammar = [
 
     examples: [
       {
-        english:
-          "Sight is one of the five senses.",
-        georgian:
-          "მხედველობა ხუთი გრძნობიდან ერთ-ერთია.",
+        english: "Sight is one of the five senses.",
+        georgian: "მხედველობა ხუთი გრძნობიდან ერთ-ერთია.",
       },
       {
-        english:
-          "Volleyball is one of my favourite sports.",
-        georgian:
-          "ფრენბურთი ჩემი ერთ-ერთი საყვარელი სპორტია.",
+        english: "Volleyball is one of my favourite sports.",
+        georgian: "ფრენბურთი ჩემი ერთ-ერთი საყვარელი სპორტია.",
       },
       {
-        english:
-          "This is one of the best books I've read.",
-        georgian:
-          "ეს ერთ-ერთი საუკეთესო წიგნია, რაც წამიკითხავს.",
+        english: "This is one of the best books I've read.",
+        georgian: "ეს ერთ-ერთი საუკეთესო წიგნია, რაც წამიკითხავს.",
       },
     ],
   },
@@ -78,22 +66,16 @@ export const grammar = [
 
     examples: [
       {
-        english:
-          "Dogs can wag their tails.",
-        georgian:
-          "ძაღლებს შეუძლიათ კუდის ქნევა.",
+        english: "Dogs can wag their tails.",
+        georgian: "ძაღლებს შეუძლიათ კუდის ქნევა.",
       },
       {
-        english:
-          "Plants can't grow without roots.",
-        georgian:
-          "მცენარეები ფესვების გარეშე ვერ იზრდებიან.",
+        english: "Plants can't grow without roots.",
+        georgian: "მცენარეები ფესვების გარეშე ვერ იზრდებიან.",
       },
       {
-        english:
-          "People can explore the universe with technology.",
-        georgian:
-          "ადამიანებს ტექნოლოგიით სამყაროს კვლევა შეუძლიათ.",
+        english: "People can explore the universe with technology.",
+        georgian: "ადამიანებს ტექნოლოგიით სამყაროს კვლევა შეუძლიათ.",
       },
     ],
   },
@@ -111,22 +93,16 @@ export const grammar = [
 
     examples: [
       {
-        english:
-          "I'm extremely tired.",
-        georgian:
-          "უკიდურესად დაღლილი ვარ.",
+        english: "I'm extremely tired.",
+        georgian: "უკიდურესად დაღლილი ვარ.",
       },
       {
-        english:
-          "This task is extremely important.",
-        georgian:
-          "ეს დავალება უკიდურესად მნიშვნელოვანია.",
+        english: "This task is extremely important.",
+        georgian: "ეს დავალება უკიდურესად მნიშვნელოვანია.",
       },
       {
-        english:
-          "The weather is extremely cold today.",
-        georgian:
-          "დღეს ამინდი ძალიან ცივია.",
+        english: "The weather is extremely cold today.",
+        georgian: "დღეს ამინდი ძალიან ცივია.",
       },
     ],
   },
@@ -136,26 +112,32 @@ export const grammar = [
     title: "Useful Expressions",
     georgianTitle: "სასარგებლო გამოთქმები",
 
-    expressions: [
+    rule:
+      "Useful English expressions that are frequently used in everyday conversation.",
+
+    georgianRule:
+      "სასარგებლო ინგლისური გამოთქმები, რომლებიც ხშირად გამოიყენება ყოველდღიურ საუბარში.",
+
+    examples: [
       {
-        english: "jump for joy",
-        georgian: "სიხარულისგან ახტომა",
+        english: "Jump for joy.",
+        georgian: "სიხარულისგან ახტომა.",
       },
       {
-        english: "sense of humour",
-        georgian: "იუმორის გრძნობა",
+        english: "Sense of humour.",
+        georgian: "იუმორის გრძნობა.",
       },
       {
-        english: "wag your tail",
-        georgian: "კუდის ქნევა",
+        english: "Wag your tail.",
+        georgian: "კუდის ქნევა.",
       },
       {
-        english: "fall asleep",
-        georgian: "დაძინება",
+        english: "Fall asleep.",
+        georgian: "დაძინება.",
       },
       {
-        english: "at least",
-        georgian: "მინიმუმ",
+        english: "At least.",
+        georgian: "მინიმუმ.",
       },
     ],
   },
