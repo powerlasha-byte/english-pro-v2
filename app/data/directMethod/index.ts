@@ -48,6 +48,35 @@ import { questions as questions10 } from "./unit/10/questions";
 import { grammar as grammar10 } from "./unit/10/grammar";
 import { exercises as exercises10 } from "./unit/10/exercises";
 
+import { vocabulary as vocabulary11 } from "./unit/11/vocabulary";
+import { questions as questions11 } from "./unit/11/questions";
+import { grammar as grammar11 } from "./unit/11/grammar";
+import { exercises as exercises11 } from "./unit/11/exercises";
+
+import { vocabulary as vocabulary12 } from "./unit/12/vocabulary";
+import { questions as questions12 } from "./unit/12/questions";
+import { grammar as grammar12 } from "./unit/12/grammar";
+import { exercises as exercises12 } from "./unit/12/exercises";
+
+import { vocabulary as vocabulary13 } from "./unit/13/vocabulary";
+import { questions as questions13 } from "./unit/13/questions";
+import { grammar as grammar13 } from "./unit/13/grammar";
+import { exercises as exercises13 } from "./unit/13/exercises";
+
+import { vocabulary as vocabulary14 } from "./unit/14/vocabulary";
+import { questions as questions14 } from "./unit/14/questions";
+import { grammar as grammar14 } from "./unit/14/grammar";
+import { exercises as exercises14 } from "./unit/14/exercises";
+
+import { vocabulary as vocabulary15 } from "./unit/15/vocabulary";
+import { questions as questions15 } from "./unit/15/questions";
+import { grammar as grammar15 } from "./unit/15/grammar";
+import { exercises as exercises15 } from "./unit/15/exercises";
+
+
+
+
+
 export const directMethodData = {
   1: {
     vocabulary: vocabulary1,
@@ -109,4 +138,42 @@ export const directMethodData = {
     grammar: grammar10,
     exercises: exercises10,
   },
+
+  11: {
+    vocabulary: vocabulary11,
+    questions: questions11,
+    grammar: grammar11,
+    exercises: exercises11,
+  },
+
+  12: {
+    vocabulary: vocabulary12,
+    questions: questions12,
+    grammar: grammar12,
+    exercises: exercises12,
+  },
+
+  13: {
+    vocabulary: vocabulary13,
+    questions: questions13,
+    grammar: grammar13,
+    exercises: exercises13,
+  },
+
+  14: {
+    vocabulary: vocabulary14,
+    questions: questions14,
+    grammar: grammar14,
+    exercises: exercises14,
+  },
+
+  15: {
+    vocabulary: vocabulary15,
+    questions: questions15,
+    grammar: grammar15,
+    exercises: exercises15,
+  },
+
+
+
 };

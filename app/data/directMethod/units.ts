@@ -76,7 +76,41 @@ export const units = [
   locked: false,
 },
 
-
+{
+  id: 11,
+  title: "Unit 11",
+  description: "Climate, Weather, Rainforest, Environment",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 12,
+  title: "Unit 12",
+  description: "Technology, Internet, Computers, Innovation",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 13,
+  title: "Unit 13",
+  description: "Travel, Holidays, Transport, Adventure",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 14,
+  title: "Unit 14",
+  description: "Health, Lifestyle, Fitness, Medicine",
+  image: "📘",
+  locked: false,
+},
+{
+  id: 15,
+  title: "Unit 15",
+  description: "Business, Economy, Jobs, Success",
+  image: "📘",
+  locked: false,
+},
 
 
 ];
