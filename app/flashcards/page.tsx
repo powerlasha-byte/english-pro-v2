@@ -433,7 +433,7 @@ function randomWord() {
 <div className="bg-slate-800 rounded-2xl p-6 flex items-center justify-between mb-6">
   <div>
     <p className="text-slate-400 text-sm mb-2">
-      en  
+      🇬🇧  
     </p>
 
     <h2 className="text-6xl font-bold text-violet-300">
@@ -557,7 +557,7 @@ function randomWord() {
   <div>
 
     <p className="text-slate-400 text-sm">
-      en 
+      🇬🇧 
     </p>
 
     <p className="text-lg mt-2">
