@@ -433,7 +433,7 @@ function randomWord() {
 <div className="bg-slate-800 rounded-2xl p-6 flex items-center justify-between mb-6">
   <div>
     <p className="text-slate-400 text-sm mb-2">
-      🇺🇸 English Word
+      en  
     </p>
 
     <h2 className="text-6xl font-bold text-violet-300">
@@ -475,7 +475,7 @@ function randomWord() {
      <div className="bg-slate-800 rounded-2xl p-5">
 
   <p className="text-slate-400 text-sm">
-    🇬🇪 Georgian
+    🇬🇪
   </p>
 
   <p className="text-2xl font-semibold mt-2">
@@ -489,7 +489,7 @@ function randomWord() {
   <div>
 
     <p className="text-slate-400 text-sm">
-      🇷🇺 Russian
+      🇷🇺 
     </p>
 
     <p className="text-2xl font-semibold mt-2">
@@ -514,7 +514,7 @@ function randomWord() {
   <div>
 
     <p className="text-slate-400 text-sm">
-      🇨🇳 Chinese
+      🇨🇳 
     </p>
 
     <p className="text-2xl font-semibold mt-2">
@@ -537,7 +537,7 @@ function randomWord() {
 <div className="bg-yellow-500/10 border border-yellow-500/20 rounded-2xl p-4">
 
   <p className="text-yellow-400 text-sm">
-    🇨🇳 Word Pinyin
+    🇨🇳 
   </p>
 
   <p className="italic text-yellow-200 mt-2">
@@ -557,7 +557,7 @@ function randomWord() {
   <div>
 
     <p className="text-slate-400 text-sm">
-      🇺🇸 English Sentence
+      en 
     </p>
 
     <p className="text-lg mt-2">
@@ -583,7 +583,7 @@ function randomWord() {
 <div>
 
 <p className="text-slate-400 text-sm">
-🇷🇺 Russian Sentence
+🇷🇺 
 </p>
 
 <p className="text-lg mt-2">
@@ -607,7 +607,7 @@ lang="ru-RU"
 <div className="bg-slate-800 rounded-2xl p-5">
 
 <p className="text-slate-400 text-sm">
-🇬🇪 Georgian Sentence
+🇬🇪 
 </p>
 
 <p className="text-lg mt-2">
@@ -631,7 +631,7 @@ lang="ru-RU"
 <div>
 
 <p className="text-slate-400 text-sm">
-🇨🇳 Chinese Sentence
+🇨🇳 
 </p>
 
 <p className="text-lg mt-2">
@@ -656,7 +656,7 @@ lang="zh-CN"
 <div className="bg-yellow-500/10 border border-yellow-500/20 rounded-2xl p-4">
 
   <p className="text-yellow-400 text-sm">
-    🇨🇳 Sentence Pinyin
+    🇨🇳
   </p>
 
   <p className="italic text-yellow-200 mt-2">
