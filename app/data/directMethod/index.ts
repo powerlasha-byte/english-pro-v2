@@ -73,8 +73,116 @@ import { questions as questions15 } from "./unit/15/questions";
 import { grammar as grammar15 } from "./unit/15/grammar";
 import { exercises as exercises15 } from "./unit/15/exercises";
 
+import { vocabulary as vocabulary16 } from "./unit/16/vocabulary";
+import { questions as questions16 } from "./unit/16/questions";
+import { grammar as grammar16 } from "./unit/16/grammar";
+import { exercises as exercises16 } from "./unit/16/exercises";
 
+ 
+import { vocabulary as vocabulary17 } from "./unit/17/vocabulary";
+import { questions as questions17 } from "./unit/17/questions";
+import { grammar as grammar17 } from "./unit/17/grammar";
+import { exercises as exercises17 } from "./unit/17/exercises";
 
+import { vocabulary as vocabulary18 } from "./unit/18/vocabulary";
+import { questions as questions18 } from "./unit/18/questions";
+import { grammar as grammar18 } from "./unit/18/grammar";
+import { exercises as exercises18 } from "./unit/18/exercises";
+
+import { vocabulary as vocabulary19 } from "./unit/19/vocabulary";
+import { questions as questions19 } from "./unit/19/questions";
+import { grammar as grammar19 } from "./unit/19/grammar";
+import { exercises as exercises19 } from "./unit/19/exercises";
+
+import { vocabulary as vocabulary20 } from "./unit/20/vocabulary";
+import { questions as questions20 } from "./unit/20/questions";
+import { grammar as grammar20 } from "./unit/20/grammar";
+import { exercises as exercises20 } from "./unit/20/exercises";
+
+import { vocabulary as vocabulary21 } from "./unit/21/vocabulary";
+import { questions as questions21 } from "./unit/21/questions";
+import { grammar as grammar21 } from "./unit/21/grammar";
+import { exercises as exercises21 } from "./unit/21/exercises";
+
+import { vocabulary as vocabulary22 } from "./unit/22/vocabulary";
+import { questions as questions22 } from "./unit/22/questions";
+import { grammar as grammar22 } from "./unit/22/grammar";
+import { exercises as exercises22 } from "./unit/22/exercises";
+
+import { vocabulary as vocabulary23 } from "./unit/23/vocabulary";
+import { questions as questions23 } from "./unit/23/questions";
+import { grammar as grammar23 } from "./unit/23/grammar";
+import { exercises as exercises23 } from "./unit/23/exercises";
+
+import { vocabulary as vocabulary24 } from "./unit/24/vocabulary";
+import { questions as questions24 } from "./unit/24/questions";
+import { grammar as grammar24 } from "./unit/24/grammar";
+import { exercises as exercises24 } from "./unit/24/exercises";
+
+import { vocabulary as vocabulary25 } from "./unit/25/vocabulary";
+import { questions as questions25 } from "./unit/25/questions";
+import { grammar as grammar25 } from "./unit/25/grammar";
+import { exercises as exercises25 } from "./unit/25/exercises";
+
+import { vocabulary as vocabulary26 } from "./unit/26/vocabulary";
+import { questions as questions26 } from "./unit/26/questions";
+import { grammar as grammar26 } from "./unit/26/grammar";
+import { exercises as exercises26 } from "./unit/26/exercises";
+
+import { vocabulary as vocabulary27 } from "./unit/27/vocabulary";
+import { questions as questions27 } from "./unit/27/questions";
+import { grammar as grammar27 } from "./unit/27/grammar";
+import { exercises as exercises27 } from "./unit/27/exercises";
+
+import { vocabulary as vocabulary28 } from "./unit/28/vocabulary";
+import { questions as questions28 } from "./unit/28/questions";
+import { grammar as grammar28 } from "./unit/28/grammar";
+import { exercises as exercises28 } from "./unit/28/exercises";
+
+import { vocabulary as vocabulary29 } from "./unit/29/vocabulary";
+import { questions as questions29 } from "./unit/29/questions";
+import { grammar as grammar29 } from "./unit/29/grammar";
+import { exercises as exercises29 } from "./unit/29/exercises";
+
+import { vocabulary as vocabulary30 } from "./unit/30/vocabulary";
+import { questions as questions30 } from "./unit/30/questions";
+import { grammar as grammar30 } from "./unit/30/grammar";
+import { exercises as exercises30 } from "./unit/30/exercises";
+
+import { vocabulary as vocabulary31 } from "./unit/31/vocabulary";
+import { questions as questions31 } from "./unit/31/questions";
+import { grammar as grammar31 } from "./unit/31/grammar";
+import { exercises as exercises31 } from "./unit/31/exercises";
+
+import { vocabulary as vocabulary32 } from "./unit/32/vocabulary";
+import { questions as questions32 } from "./unit/32/questions";
+import { grammar as grammar32 } from "./unit/32/grammar";
+import { exercises as exercises32 } from "./unit/32/exercises";
+
+import { vocabulary as vocabulary33 } from "./unit/33/vocabulary";
+import { questions as questions33 } from "./unit/33/questions";
+import { grammar as grammar33 } from "./unit/33/grammar";
+import { exercises as exercises33 } from "./unit/33/exercises";
+
+import { vocabulary as vocabulary34 } from "./unit/34/vocabulary";
+import { questions as questions34 } from "./unit/34/questions";
+import { grammar as grammar34 } from "./unit/34/grammar";
+import { exercises as exercises34 } from "./unit/34/exercises";
+
+import { vocabulary as vocabulary35 } from "./unit/35/vocabulary";
+import { questions as questions35 } from "./unit/35/questions";
+import { grammar as grammar35 } from "./unit/35/grammar";
+import { exercises as exercises35 } from "./unit/35/exercises";
+
+import { vocabulary as vocabulary36 } from "./unit/36/vocabulary";
+import { questions as questions36 } from "./unit/36/questions";
+import { grammar as grammar36 } from "./unit/36/grammar";
+import { exercises as exercises36 } from "./unit/36/exercises";
+
+import { vocabulary as vocabulary37 } from "./unit/37/vocabulary";
+import { questions as questions37 } from "./unit/37/questions";
+import { grammar as grammar37 } from "./unit/37/grammar";
+import { exercises as exercises37 } from "./unit/37/exercises";
 
 
 export const directMethodData = {
@@ -174,6 +282,137 @@ export const directMethodData = {
     exercises: exercises15,
   },
 
+16: {
+  vocabulary: vocabulary16,
+  questions: questions16,
+  grammar: grammar16,
+  exercises: exercises16,
+},
+17: {
+  vocabulary: vocabulary17,
+  questions: questions17,
+  grammar: grammar17,
+  exercises: exercises17,
+},
+18: {
+  vocabulary: vocabulary18,
+  questions: questions18,
+  grammar: grammar18,
+  exercises: exercises18,
+},
+19: {
+  vocabulary: vocabulary19,
+  questions: questions19,
+  grammar: grammar19,
+  exercises: exercises19,
+},
+20: {
+  vocabulary: vocabulary20,
+  questions: questions20,
+  grammar: grammar20,
+  exercises: exercises20,
+},
+21: {
+  vocabulary: vocabulary21,
+  questions: questions21,
+  grammar: grammar21,
+  exercises: exercises21,
+},
+22: {
+  vocabulary: vocabulary22,
+  questions: questions22,
+  grammar: grammar22,
+  exercises: exercises22,
+},
+23: {
+  vocabulary: vocabulary23,
+  questions: questions23,
+  grammar: grammar23,
+  exercises: exercises23,
+},
+24: {
+  vocabulary: vocabulary24,
+  questions: questions24,
+  grammar: grammar24,
+  exercises: exercises24,
+},
+25: {
+  vocabulary: vocabulary25,
+  questions: questions25,
+  grammar: grammar25,
+  exercises: exercises25,
+},
+26: {
+  vocabulary: vocabulary26,
+  questions: questions26,
+  grammar: grammar26,
+  exercises: exercises26,
+},
+27: {
+  vocabulary: vocabulary27,
+  questions: questions27,
+  grammar: grammar27,
+  exercises: exercises27,
+},
+28: {
+  vocabulary: vocabulary28,
+  questions: questions28,
+  grammar: grammar28,
+  exercises: exercises28,
+},
+29: {
+  vocabulary: vocabulary29,
+  questions: questions29,
+  grammar: grammar29,
+  exercises: exercises29,
+},
+30: {
+  vocabulary: vocabulary30,
+  questions: questions30,
+  grammar: grammar30,
+  exercises: exercises30,
+},
+31: {
+  vocabulary: vocabulary31,
+  questions: questions31,
+  grammar: grammar31,
+  exercises: exercises31,
+},
+32: {
+  vocabulary: vocabulary32,
+  questions: questions32,
+  grammar: grammar32,
+  exercises: exercises32,
+},
+33: {
+  vocabulary: vocabulary33,
+  questions: questions33,
+  grammar: grammar33,
+  exercises: exercises33,
+},
+34: {
+  vocabulary: vocabulary34,
+  questions: questions34,
+  grammar: grammar34,
+  exercises: exercises34,
+},
+35: {
+  vocabulary: vocabulary35,
+  questions: questions35,
+  grammar: grammar35,
+  exercises: exercises35,
+},
+36: {
+  vocabulary: vocabulary36,
+  questions: questions36,
+  grammar: grammar36,
+  exercises: exercises36,
+},
+37: {
+  vocabulary: vocabulary37,
+  questions: questions37,
+  grammar: grammar37,
+  exercises: exercises37,
+},
 
-
-};
+}
