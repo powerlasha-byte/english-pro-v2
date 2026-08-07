@@ -1,6 +1,7 @@
 "use client";
 
-import Link from "next/link";
+ import Link from "next/link";
+import SpeakerButton from "@/app/components/SpeakerButton";
 import { useEffect, useMemo, useState } from "react";
 import { allWords } from "../data";
 import { categories } from "../data/categories";
@@ -288,22 +289,7 @@ function randomWord() {
     }
   }
 
- function speak(
-  text: string,
-  lang = "en-US"
-) {
-  window.speechSynthesis.cancel();
 
-  const utterance =
-    new SpeechSynthesisUtterance(text);
-
-  utterance.lang = lang;
-  utterance.rate = 0.9;
-
-  window.speechSynthesis.speak(
-    utterance
-  );
-}
 
   return (
     <main className="min-h-screen bg-slate-950 text-white p-10">
@@ -444,12 +430,23 @@ function randomWord() {
   />
 </div>
 
+<div className="bg-slate-800 rounded-2xl p-6 flex items-center justify-between mb-6">
+  <div>
+    <p className="text-slate-400 text-sm mb-2">
+      🇺🇸 English Word
+    </p>
 
-          <h2 className="text-6xl font-bold text-violet-300">
-            {
-              current.english
-            }
-          </h2>
+    <h2 className="text-6xl font-bold text-violet-300">
+      {current.english}
+    </h2>
+  </div>
+
+  <SpeakerButton
+    text={current.english}
+    lang="en-US"
+  />
+</div>
+ 
 
           <div className="flex gap-3 mt-5 flex-wrap">
             <span className="bg-violet-700 px-3 py-1 rounded-full text-sm">
@@ -475,108 +472,207 @@ function randomWord() {
 
     {/* Word Translations */}
     <div className="grid gap-3">
-      <div className="bg-slate-800 p-4 rounded-xl">
-        <p className="text-slate-400 text-sm">
-          
-        </p>
-        <p className="text-2xl font-semibold">
-          {current.georgian}
-        </p>
-      </div>
+     <div className="bg-slate-800 rounded-2xl p-5">
 
-      <div className="bg-slate-800 p-4 rounded-xl">
-        <p className="text-slate-400 text-sm">
-          
-        </p>
-        <p className="text-2xl font-semibold">
-          {current.russian}
-        </p>
-      </div>
+  <p className="text-slate-400 text-sm">
+    🇬🇪 Georgian
+  </p>
+
+  <p className="text-2xl font-semibold mt-2">
+    {current.georgian}
+  </p>
+
+</div>
+
+<div className="bg-slate-800 rounded-2xl p-5 flex items-center justify-between">
+
+  <div>
+
+    <p className="text-slate-400 text-sm">
+      🇷🇺 Russian
+    </p>
+
+    <p className="text-2xl font-semibold mt-2">
+      {current.russian}
+    </p>
+
+  </div>
+
+  <SpeakerButton
+      text={current.russian}
+      lang="ru-RU"
+  />
+
+</div>
 
  
 
 {(current as any).chinese && (
-  <div className="bg-slate-800 p-4 rounded-xl">
+
+<div className="bg-slate-800 rounded-2xl p-5 flex items-center justify-between">
+
+  <div>
+
     <p className="text-slate-400 text-sm">
-       Chinese
+      🇨🇳 Chinese
     </p>
 
-    
-
-    <p className="text-2xl font-semibold">
+    <p className="text-2xl font-semibold mt-2">
       {(current as any).chinese}
     </p>
-  </div>
-)} 
 
- {(current as any).chinesePinyin && (
-  <p className="text-lg text-yellow-300 italic mt-2">
-    📖 {(current as any).chinesePinyin}
+  </div>
+
+  <SpeakerButton
+    text={(current as any).chinese}
+    lang="zh-CN"
+  />
+
+</div>
+
+)}
+
+{(current as any).chinesePinyin && (
+
+<div className="bg-yellow-500/10 border border-yellow-500/20 rounded-2xl p-4">
+
+  <p className="text-yellow-400 text-sm">
+    🇨🇳 Word Pinyin
   </p>
+
+  <p className="italic text-yellow-200 mt-2">
+    {(current as any).chinesePinyin}
+  </p>
+
+</div>
+
 )}
 
 
     </div> 
 
 
+ <div className="bg-slate-800 rounded-2xl p-5 flex items-center justify-between">
+
+  <div>
+
+    <p className="text-slate-400 text-sm">
+      🇺🇸 English Sentence
+    </p>
+
+    <p className="text-lg mt-2">
+      {current.sentence}
+    </p>
+
+  </div>
+
+  <SpeakerButton
+      text={current.sentence}
+      lang="en-US"
+  />
+
+</div>
+
  
 
+      
+        {(current as any).russianSentence && (
 
-    {/* Sentences */}
-    <div className="space-y-3">
-      <div className="bg-slate-800 p-4 rounded-xl">
-        <p className="text-slate-400 text-sm">
-          Sentence
-        </p>
-        <p className="text-lg">
-          {current.sentence}
-        </p>
-      </div>
+<div className="bg-slate-800 rounded-2xl p-5 flex items-center justify-between">
 
-      {(current as any).russianSentence && (
-        <div className="bg-slate-800 p-4 rounded-xl">
-          <p className="text-slate-400 text-sm">
-            
-          </p>
-          <p className="text-lg">
-            {(current as any).russianSentence}
-          </p>
-        </div>
-      )}
+<div>
 
-      {(current as any).georgianSentence && (
-        <div className="bg-slate-800 p-4 rounded-xl">
-          <p className="text-slate-400 text-sm">
-            
-          </p>
-          <p className="text-lg">
-            {(current as any).georgianSentence}
-          </p>
-        </div>
-      )}
+<p className="text-slate-400 text-sm">
+🇷🇺 Russian Sentence
+</p>
+
+<p className="text-lg mt-2">
+{(current as any).russianSentence}
+</p>
+
+</div>
+
+<SpeakerButton
+text={(current as any).russianSentence}
+lang="ru-RU"
+/>
+
+</div>
+
+)}
+
+ 
+{(current as any).georgianSentence && (
+
+<div className="bg-slate-800 rounded-2xl p-5">
+
+<p className="text-slate-400 text-sm">
+🇬🇪 Georgian Sentence
+</p>
+
+<p className="text-lg mt-2">
+{(current as any).georgianSentence}
+</p>
+
+</div>
+
+)}
+
+
+
+
+
+
 
 {(current as any).chineseSentence && (
-  <div className="bg-slate-800 p-4 rounded-xl">
-    <p className="text-slate-400 text-sm">
-       Chinese Sentence
-    </p>
 
-    <p className="text-lg">
-      {(current as any).chineseSentence}
-    </p>
-  </div>
+<div className="bg-slate-800 rounded-2xl p-5 flex items-center justify-between">
+
+<div>
+
+<p className="text-slate-400 text-sm">
+🇨🇳 Chinese Sentence
+</p>
+
+<p className="text-lg mt-2">
+{(current as any).chineseSentence}
+</p>
+
+</div>
+
+<SpeakerButton
+text={(current as any).chineseSentence}
+lang="zh-CN"
+/>
+
+</div>
+
 )}
+
+
 
 {(current as any).chineseSentencePinyin && (
-  <p className="text-lg text-yellow-300 italic mt-2">
-    📖 {(current as any).chineseSentencePinyin}
+
+<div className="bg-yellow-500/10 border border-yellow-500/20 rounded-2xl p-4">
+
+  <p className="text-yellow-400 text-sm">
+    🇨🇳 Sentence Pinyin
   </p>
+
+  <p className="italic text-yellow-200 mt-2">
+    {(current as any).chineseSentencePinyin}
+  </p>
+
+</div>
+
 )}
+
+
 
 
     </div>
 
-  </div>
+   
 )} 
 
 
@@ -589,104 +685,33 @@ function randomWord() {
        
 
           <div className="flex flex-wrap gap-4 mt-10">
-            <button
-              onClick={() =>
-                setShowTranslation(
-                  true
-                )
-              }
-              className="bg-violet-600 px-6 py-3 rounded-xl"
-            >
-              Show Translation
-            </button>
-
-            <button
-              onClick={() =>
-                speak(
-                  current.english
-                )
-              }
-              className="bg-emerald-600 px-6 py-3 rounded-xl"
-            >
-              🔊 EN Word
-            </button>
-
-            <button
-              onClick={() =>
-                speak(
-                  current.sentence
-                )
-              }
-              className="bg-cyan-600 px-6 py-3 rounded-xl"
-            >
-              🔊 EN Sentence
-            </button>
-
-
-    
-<button
+        <button
   onClick={() =>
-    speak(
-      current.russian,
-      "ru-RU"
+    setShowTranslation(
+      !showTranslation
     )
   }
-  className="bg-indigo-700 px-5 py-3 rounded-xl"
+  className="bg-violet-600 px-6 py-3 rounded-xl"
 >
-  🔊 RU Word
-    
+  {showTranslation
+    ? "🙈 Hide Translation"
+    : "👀 Show Translation"}
 </button>
 
-           {(current as any)
-  .russianSentence && (
-  <button
-    onClick={() =>
-      speak(
-        (current as any)
-          .russianSentence,
-        "ru-RU"
-      )
-    }
-    className="bg-indigo-600 px-6 py-3 rounded-xl hover:bg-indigo-500 transition"
-  >
-    🔊 RU Sentence
-  </button>
-)}
+      
+
+ 
+           
+ 
+
+    
+ 
 
 
+ 
 
 
-{(current as any).chinese && (
-  <button
-    onClick={() =>
-      speak(
-        (current as any).chinese,
-        "zh-CN"
-      )
-    }
-    className="bg-red-600 px-6 py-3 rounded-xl"
-  >
-   🔊 CN Word
-  </button>
-)}
-
-{(current as any).chineseSentence && (
-  <button
-    onClick={() =>
-      speak(
-        (current as any).chineseSentence,
-        "zh-CN"
-      )
-    }
-    className="bg-red-700 px-6 py-3 rounded-xl"
-  >
-   🔊 CN Sentence
-  </button>
-)}
-
-
-
-
+ 
 
 
  
