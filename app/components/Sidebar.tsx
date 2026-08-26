@@ -69,17 +69,38 @@ export default function Sidebar() {
           📊 Statistics
         </Link>
 
-       <Link
-  href="/direct-method"
-  className="block w-full rounded-xl p-3 hover:bg-slate-800"
->
-  📘 Direct Method
-</Link>
-    
-        <Link href="/achievements">
-         🏆 Achievements
-        </Link>
+        {/* Direct Method */}
+        <div className="space-y-2">
 
+          <div className="block w-full rounded-xl p-3 text-slate-200">
+            📚 Direct Method
+          </div>
+
+          <div className="ml-4 space-y-2">
+
+            <Link
+              href="/direct-method"
+              className="block w-full rounded-xl p-3 hover:bg-slate-800"
+            >
+              📘 Direct Method 4
+            </Link>
+
+            <Link
+              href="/direct-method-3"
+              className="block w-full rounded-xl p-3 hover:bg-slate-800"
+            >
+              📗 Direct Method 3
+            </Link>
+
+          </div>
+        </div>
+
+        <Link
+          href="/achievements"
+          className="block w-full rounded-xl p-3 hover:bg-slate-800"
+        >
+          🏆 Achievements
+        </Link>
 
       </nav>
     </aside>

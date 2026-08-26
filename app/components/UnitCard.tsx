@@ -10,9 +10,14 @@ type Props = {
     image: string;
     locked: boolean;
   };
+
+  basePath?: string;
 };
 
-export default function UnitCard({ unit }: Props) {
+export default function UnitCard({
+  unit,
+  basePath = "/direct-method",
+}: Props) {
   return (
     <div
       className={`rounded-3xl border p-6 transition-all duration-300 hover:-translate-y-1 hover:shadow-xl ${
@@ -35,7 +40,7 @@ export default function UnitCard({ unit }: Props) {
 
       {!unit.locked ? (
         <Link
-          href={`/direct-method/unit/${unit.id}`}
+          href={`${basePath}/unit/${unit.id}`}
           className="mt-6 inline-flex rounded-xl bg-violet-600 px-5 py-3 text-white transition hover:bg-violet-500"
         >
           ▶ Continue

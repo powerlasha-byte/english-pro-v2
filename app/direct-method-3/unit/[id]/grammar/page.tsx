@@ -45,13 +45,13 @@ export default function GrammarPage() {
           />
         </div>
 
-        <div className="rounded-3xl border border-violet-500 bg-slate-900 p-8">
+        <div className="rounded-3xl border border-emerald-500 bg-slate-900 p-8">
 
           <div className="flex items-center justify-between">
 
             <div>
 
-              <p className="text-violet-400 font-semibold">
+              <p className="text-emerald-400 font-semibold">
                 Lesson {current + 1} / {grammar.length}
               </p>
 
@@ -60,7 +60,7 @@ export default function GrammarPage() {
               </h1>
 
               {showGeorgian && (
-                <p className="mt-2 text-2xl text-violet-400">
+                <p className="mt-2 text-2xl text-emerald-400">
                   {lesson.georgianTitle}
                 </p>
               )}
@@ -69,7 +69,7 @@ export default function GrammarPage() {
 
             <button
               onClick={() => speak(lesson.title)}
-              className="rounded-xl bg-violet-600 px-5 py-3 text-white hover:bg-violet-500 transition"
+              className="rounded-xl bg-emerald-600 px-5 py-3 text-white hover:bg-emerald-500 transition"
             >
               🔊 Listen
             </button>
@@ -96,7 +96,7 @@ export default function GrammarPage() {
 
             <button
               onClick={() => speak(lesson.rule)}
-              className="rounded-xl bg-violet-600 px-5 py-3 text-white hover:bg-violet-500 transition"
+              className="rounded-xl bg-emerald-600 px-5 py-3 text-white hover:bg-emerald-500 transition"
             >
               🔊 Listen Rule
             </button>
@@ -161,7 +161,7 @@ export default function GrammarPage() {
             <div className="h-3 overflow-hidden rounded-full bg-slate-700">
 
               <div
-                className="h-full bg-violet-500 transition-all"
+                className="h-full bg-emerald-500 transition-all"
                 style={{
                   width: `${((current + 1) / grammar.length) * 100}%`,
                 }}
@@ -188,7 +188,7 @@ export default function GrammarPage() {
             <button
               onClick={nextLesson}
               disabled={current === grammar.length - 1}
-              className="rounded-xl bg-violet-600 px-6 py-3 text-white hover:bg-violet-500 disabled:opacity-40"
+              className="rounded-xl bg-emerald-600 px-6 py-3 text-white hover:bg-emerald-500 disabled:opacity-40"
             >
               Next →
             </button>
