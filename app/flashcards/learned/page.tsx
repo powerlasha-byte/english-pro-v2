@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { allWords } from "../../data";
+import { allWords } from "../../data/flashcards";
 
 export default function LearnedPage() {
   const [words, setWords] =

@@ -3,8 +3,8 @@
  import Link from "next/link";
 import SpeakerButton from "@/app/components/SpeakerButton";
 import { useEffect, useMemo, useState } from "react";
-import { allWords } from "../data";
-import { categories } from "../data/categories";
+import { allWords } from "../data/flashcards";
+import { categories } from "../data/flashcards/categories";
 
 export default function FlashcardsPage() {
   const [search, setSearch] = useState("");
@@ -397,7 +397,7 @@ function randomWord() {
 </Link>
 
 <Link
-  href="/quiz"
+  href="/flashcards/quiz"
   className="bg-red-600 px-5 py-3 rounded-xl"
 >
   🎯 Quiz

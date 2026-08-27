@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { useEffect, useState } from "react";
-import { allWords } from "../data";
+import { allWords } from "../../data/flashcards";
 
 export default function QuizPage() {
   const [score, setScore] = useState(0);
@@ -156,7 +156,7 @@ export default function QuizPage() {
       <div className="mt-8">
 
         <Link
-          href="/wrong"
+          href="/flashcards/wrong"
           className="bg-red-600 hover:bg-red-500 px-5 py-3 rounded-xl"
         >
           ❌ Wrong Answers

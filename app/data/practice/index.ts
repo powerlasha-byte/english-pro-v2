@@ -3,6 +3,7 @@ import { OfficeSentences } from "./OfficeSentences";
 import { powerbiSentences } from "./powerBiSentences";
 import { bankingSentences } from "./bankingSentences";
 import { everydaySentences } from "./everydaySentences";
+import { idiomSentences } from "./idiomSentences";
 
 export const allSentences = [
   ...meetings,
@@ -10,6 +11,7 @@ export const allSentences = [
   ...powerbiSentences,
   ...bankingSentences,
   ...everydaySentences,
+  ...idiomSentences,
 ]; 
 
  

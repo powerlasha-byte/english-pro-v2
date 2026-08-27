@@ -2,7 +2,7 @@ export const categories = [
   "All",
   "BI",
   "SQL",
-  "DAX",
+  "Spoken English",
   "Business",
   "Data Warehouse",
   "PL-300",

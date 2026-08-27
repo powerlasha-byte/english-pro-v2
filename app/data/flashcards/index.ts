@@ -1,7 +1,7 @@
 import { words } from "./words";
 import { biWords } from "./biWords";
 import { sqlWords } from "./sqlWords";
-import { daxWords } from "./daxWords";
+import { SpokenEnglishWords } from "./SpokenEnglishWords";
 import { businessWords } from "./businessWords";
 import { dataWarehouseWords } from "./dataWarehouseWords";
 import { pl300Words } from "./pl300Words";
@@ -14,7 +14,7 @@ export const allWords = [
   ...words,
   ...biWords,
   ...sqlWords,
-  ...daxWords,
+  ...SpokenEnglishWords,
   ...businessWords,
   ...dataWarehouseWords,
   ...pl300Words,

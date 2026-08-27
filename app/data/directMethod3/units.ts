@@ -6,4 +6,11 @@ export const units = [
     image: "📘",
     locked: false,
   },
+  {
+    id: 2,
+    title: "Unit 2",
+    description: "Reactions, Allergies, Everyday Expressions and Second Conditional",
+    image: "📘",
+    locked: false,
+  },
 ];
