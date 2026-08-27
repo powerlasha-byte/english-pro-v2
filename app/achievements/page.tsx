@@ -1,7 +1,7 @@
 "use client";
 
 import Layout from "../components/Layout";
-import { achievements } from "../data/achievements";
+import { achievements } from "../data/flashcards/achievements";
 import { useApp } from "../context/AppContext";
 
 export default function AchievementsPage() {
