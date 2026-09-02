@@ -6,7 +6,7 @@ import { useParams } from "next/navigation";
 import Layout from "@/app/components/Layout";
 import BackButton from "@/app/components/BackButton";
 import { speak } from "@/app/lib/speak";
-import { getUnitData } from "@/app/lib/directMethod3";
+import { getUnitData } from "@/app/lib/directMethod";
 
 export default function GrammarPage() {
   const { id } = useParams();
