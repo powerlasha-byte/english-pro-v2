@@ -39,10 +39,10 @@ export default function GrammarPage() {
       <div className="max-w-5xl mx-auto p-8">
 
         <div className="mb-6">
-          <BackButton
-            href={`/direct-method-3/unit/${id}`}
-            label="Back to Unit"
-          />
+         <BackButton 
+  href={`/direct-method/unit/${id}`} 
+  label="Back to Unit" 
+/>
         </div>
 
         <div className="rounded-3xl border border-violet-500 bg-slate-900 p-8">
