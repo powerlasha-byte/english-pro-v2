@@ -95,6 +95,25 @@ export default function Sidebar() {
           </div>
         </div>
 
+        {/* English in Context */}
+        <div className="space-y-2">
+
+          <div className="block w-full rounded-xl p-3 text-slate-200">
+            🧠 English in Context
+          </div>
+
+          <div className="ml-4 space-y-2">
+
+            <Link
+              href="/english-in-context"
+              className="block w-full rounded-xl p-3 hover:bg-slate-800"
+            >
+              📘 Context Library
+            </Link>
+
+          </div>
+        </div>
+
         <Link
           href="/achievements"
           className="block w-full rounded-xl p-3 hover:bg-slate-800"
