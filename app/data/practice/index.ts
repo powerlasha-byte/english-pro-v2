@@ -5,6 +5,7 @@ import { bankingSentences } from "./bankingSentences";
 import { everydaySentences } from "./everydaySentences";
 import { idiomSentences } from "./idiomSentences";
 import { idiomsInContextSentences } from "./idiomsInContextSentences";
+import { wordsInContextSentences } from "./wordsInContextSentences";
 
 export const allSentences = [
   ...meetings,
@@ -14,6 +15,7 @@ export const allSentences = [
   ...everydaySentences,
   ...idiomSentences,
   ...idiomsInContextSentences,
+  ...wordsInContextSentences,
 ];
 
  
