@@ -498,4 +498,503 @@ export const idiomsInContextSentences = [
     category: "Idioms in Context",
     level: "Medium",
   },
-];
+   {
+    id: "idiom-context-051",
+    english:
+      "We've finished the introductions, so let's get down to business.",
+    georgian:
+      "წარდგენები დავასრულეთ, ამიტომ მოდი, საქმეზე გადავიდეთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-052",
+    english:
+      "We don't have a fixed plan for tomorrow, so let's go with the flow.",
+    georgian:
+      "ხვალისთვის ზუსტი გეგმა არ გვაქვს, ამიტომ მოდი, სიტუაციას მივყვეთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-053",
+    english:
+      "We don't know exactly when the client will respond, so let's play it by ear.",
+    georgian:
+      "ზუსტად არ ვიცით, როდის გვიპასუხებს კლიენტი, ამიტომ სიტუაციის მიხედვით გადავწყვიტოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-054",
+    english:
+      "Before making a final decision, we need to think it through carefully.",
+    georgian:
+      "საბოლოო გადაწყვეტილების მიღებამდე ეს საკითხი კარგად უნდა გავაანალიზოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-055",
+    english:
+      "Let's not jump to conclusions before we have all the information.",
+    georgian:
+      "ნუ გავაკეთებთ ნაჩქარევ დასკვნებს, სანამ ყველა ინფორმაცია არ გვექნება.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-056",
+    english:
+      "The client rejected our first proposal, so we're back to square one.",
+    georgian:
+      "კლიენტმა ჩვენი პირველი შეთავაზება უარყო, ამიტომ ისევ თავიდან მოგვიწია დაწყება.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-057",
+    english:
+      "If we reduce the cost and improve the service, it will be a win-win situation.",
+    georgian:
+      "თუ ხარჯს შევამცირებთ და სერვისს გავაუმჯობესებთ, ორივე მხარე მოგებული დარჩება.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-058",
+    english:
+      "The new solution is cheaper and faster, so choosing it is a no-brainer.",
+    georgian:
+      "ახალი გადაწყვეტა უფრო იაფი და სწრაფია, ამიტომ მისი არჩევა აშკარა გადაწყვეტილებაა.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-059",
+    english:
+      "Improving the entire system sounds simple, but it's easier said than done.",
+    georgian:
+      "მთელი სისტემის გაუმჯობესება მარტივად ჟღერს, მაგრამ გაკეთება უფრო რთულია.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-060",
+    english:
+      "Before the presentation, let's get our ducks in a row.",
+    georgian:
+      "პრეზენტაციამდე მოდი, ყველაფერი კარგად დავალაგოთ და მოვამზადოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-061",
+    english:
+      "The main report is ready, but we still need to iron out a few details.",
+    georgian:
+      "მთავარი რეპორტი მზად არის, მაგრამ რამდენიმე დეტალი ჯერ კიდევ დასაზუსტებელია.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-062",
+    english:
+      "The project is almost finished, but we still have a few loose ends to tie up.",
+    georgian:
+      "პროექტი თითქმის დასრულებულია, მაგრამ რამდენიმე დარჩენილი საკითხი გვაქვს მოსაგვარებელი.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-063",
+    english:
+      "The current approach isn't working, so let's go back to the drawing board.",
+    georgian:
+      "მიმდინარე მიდგომა არ მუშაობს, ამიტომ მოდი, თავიდან დავგეგმოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-064",
+    english:
+      "Let's call a spade a spade: the current process is too slow.",
+    georgian:
+      "მოდი, ყველაფერს თავისი სახელი დავარქვათ: არსებული პროცესი ძალიან ნელია.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-065",
+    english:
+      "Managing this project is a different ball game compared with the previous one.",
+    georgian:
+      "ამ პროექტის მართვა წინა პროექტთან შედარებით სრულიად სხვა საკითხია.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-066",
+    english:
+      "I think we're barking up the wrong tree by looking for the problem in the database.",
+    georgian:
+      "ვფიქრობ, პრობლემას მონაცემთა ბაზაში რომ ვეძებთ, არასწორი მიმართულებით მივდივართ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-067",
+    english:
+      "We shouldn't put all our eggs in one basket, so let's prepare another option.",
+    georgian:
+      "ყველა იმედი ერთ ვარიანტზე არ უნდა დავამყაროთ, ამიტომ კიდევ ერთი ვარიანტი მოვამზადოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-068",
+    english:
+      "Before choosing a solution, let's weigh the pros and cons.",
+    georgian:
+      "გადაწყვეტილების არჩევამდე მოდი, დადებითი და უარყოფითი მხარეები შევაფასოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-069",
+    english:
+      "Let's take it one step at a time and solve the easiest problem first.",
+    georgian:
+      "მოდი, ეტაპობრივად მივყვეთ და ჯერ ყველაზე მარტივი პრობლემა გადავჭრათ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-070",
+    english:
+      "We need to stay on top of things while the manager is away.",
+    georgian:
+      "მენეჯერის არყოფნის დროს ყველაფერს ყურადღებით უნდა მივადევნოთ თვალი.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-071",
+    english:
+      "We're focused on the launch right now, so let's put this issue on the back burner.",
+    georgian:
+      "ახლა გაშვებაზე ვართ კონცენტრირებული, ამიტომ ეს საკითხი დროებით გადავდოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-072",
+    english:
+      "We don't have a clear solution yet, so let's put our heads together.",
+    georgian:
+      "ჯერ მკაფიო გამოსავალი არ გვაქვს, ამიტომ მოდი, ერთად მოვიფიქროთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-073",
+    english:
+      "Let's bounce some ideas around before we make a final decision.",
+    georgian:
+      "საბოლოო გადაწყვეტილებამდე მოდი, იდეები ერთმანეთთან გავცვალოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-074",
+    english:
+      "The proposal looks good, but let's run it by the manager first.",
+    georgian:
+      "შეთავაზება კარგია, მაგრამ ჯერ მენეჯერთან გადავამოწმოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-075",
+    english:
+      "We're running out of time, so let's take this discussion offline.",
+    georgian:
+      "დრო გვეწურება, ამიტომ მოდი, ეს საკითხი ცალკე განვიხილოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-076",
+    english:
+      "Our clients expect high-quality service, so we need to raise the bar.",
+    georgian:
+      "ჩვენი კლიენტები მაღალი ხარისხის სერვისს ელიან, ამიტომ სტანდარტი უნდა ავწიოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-077",
+    english:
+      "After several difficult weeks, we're finally making headway on the project.",
+    georgian:
+      "რამდენიმე რთული კვირის შემდეგ, საბოლოოდ პროექტში წინსვლას ვაღწევთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-078",
+    english:
+      "We have a lot of tasks, but we need to keep the project on track.",
+    georgian:
+      "ბევრი დავალება გვაქვს, მაგრამ პროექტი სწორ მიმართულებაზე უნდა შევინარჩუნოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-079",
+    english:
+      "We're ahead of schedule, so we may be able to finish the project early.",
+    georgian:
+      "გრაფიკს წინ ვუსწრებთ, ამიტომ შეიძლება პროექტი დროზე ადრე დავასრულოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-080",
+    english:
+      "We're behind schedule, so we need to prioritize the most important tasks.",
+    georgian:
+      "გრაფიკს ჩამოვრჩებით, ამიტომ ყველაზე მნიშვნელოვან დავალებებს პრიორიტეტი უნდა მივანიჭოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-081",
+    english:
+      "We're working on a tight deadline, so we need to move quickly.",
+    georgian:
+      "ძალიან მოკლე დედლაინის პირობებში ვმუშაობთ, ამიტომ სწრაფად უნდა ვიმოქმედოთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-082",
+    english:
+      "We don't completely agree, but let's meet halfway and find a solution.",
+    georgian:
+      "სრულად არ ვთანხმდებით, მაგრამ მოდი, კომპრომისზე წავიდეთ და გამოსავალი ვიპოვოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-083",
+    english:
+      "We see eye to eye on most of the important issues.",
+    georgian:
+      "მნიშვნელოვანი საკითხების უმეტესობაზე ერთ აზრზე ვართ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-084",
+    english:
+      "The new policy is still a gray area, so we need some clarification.",
+    georgian:
+      "ახალი პოლიტიკა ჯერ კიდევ ბუნდოვანი საკითხია, ამიტომ განმარტება გვჭირდება.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-085",
+    english:
+      "There was a learning curve when I started using the new reporting tool.",
+    georgian:
+      "ახალი რეპორტინგის ხელსაწყოს გამოყენების დაწყებისას გარკვეული სწავლის პროცესი დამჭირდა.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-086",
+    english:
+      "I don't have the exact number yet, but here's a rough estimate.",
+    georgian:
+      "ზუსტი რიცხვი ჯერ არ მაქვს, მაგრამ აი დაახლოებით შეფასება.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-087",
+    english:
+      "We have to follow the company's procedures and do everything by the book.",
+    georgian:
+      "კომპანიის პროცედურები უნდა დავიცვათ და ყველაფერი წესების შესაბამისად გავაკეთოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-088",
+    english:
+      "We don't need to go overboard with the presentation; let's keep it simple.",
+    georgian:
+      "პრეზენტაციაში ზედმეტი არ უნდა მოგვივიდეს; მოდი, მარტივად გავაკეთოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-089",
+    english:
+      "This investment may be expensive now, but it will save us money in the long run.",
+    georgian:
+      "ეს ინვესტიცია ახლა შეიძლება ძვირი იყოს, მაგრამ გრძელვადიან პერსპექტივაში ფულს დაგვიზოგავს.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-090",
+    english:
+      "For the time being, we'll continue using the current system.",
+    georgian:
+      "ამ დროისთვის არსებული სისტემის გამოყენებას გავაგრძელებთ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-091",
+    english:
+      "From the get-go, we knew this project would be challenging.",
+    georgian:
+      "თავიდანვე ვიცოდით, რომ ეს პროექტი რთული იქნებოდა.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-092",
+    english:
+      "Thanks for helping us at short notice; we really appreciate it.",
+    georgian:
+      "მადლობა, რომ მოკლე გაფრთხილების მიუხედავად დაგვეხმარე; ამას ნამდვილად ვაფასებთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-093",
+    english:
+      "Please keep me posted if the client makes any changes to the requirements.",
+    georgian:
+      "გთხოვ, საქმის კურსში ჩამაყენე, თუ კლიენტი მოთხოვნებში რაიმე ცვლილებას შეიტანს.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-094",
+    english:
+      "The client canceled the meeting out of the blue.",
+    georgian:
+      "კლიენტმა შეხვედრა სრულიად მოულოდნელად გააუქმა.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-095",
+    english:
+      "There is still a gray area in the new process that we need to clarify.",
+    georgian:
+      "ახალ პროცესში ჯერ კიდევ არის ბუნდოვანი საკითხი, რომელიც უნდა დავაზუსტოთ.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-096",
+    english:
+      "Keep the client's requirements in mind when you prepare the report.",
+    georgian:
+      "რეპორტის მომზადებისას კლიენტის მოთხოვნები გაითვალისწინე.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-097",
+    english:
+      "Bear in mind that the numbers may change after the final refresh.",
+    georgian:
+      "გაითვალისწინე, რომ საბოლოო რეფრეშის შემდეგ რიცხვები შეიძლება შეიცვალოს.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-098",
+    english:
+      "She went above and beyond to make sure the client was satisfied.",
+    georgian:
+      "მან მოლოდინზე ბევრად მეტი გააკეთა, რომ კლიენტი კმაყოფილი ყოფილიყო.",
+    category: "Idioms in Context",
+    level: "Medium",
+  },
+
+  {
+    id: "idiom-context-099",
+    english:
+      "It took me a few weeks to learn the ropes, but now I can handle the process myself.",
+    georgian:
+      "რამდენიმე კვირა დამჭირდა საქმის სპეციფიკის სასწავლად, მაგრამ ახლა პროცესს დამოუკიდებლად ვმართავ.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+
+  {
+    id: "idiom-context-100",
+    english:
+      "Once you know the ropes, the daily tasks become much easier.",
+    georgian:
+      "როცა საქმის სპეციფიკას კარგად გაიგებ, ყოველდღიური დავალებები ბევრად მარტივი ხდება.",
+    category: "Idioms in Context",
+    level: "Easy",
+  },
+]

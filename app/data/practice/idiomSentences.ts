@@ -399,4 +399,403 @@ export const idiomSentences = [
     category: "Idioms",
     level: "Medium",
   },
-];
+{
+  id: "idiom-051",
+  english: "Get down to business.",
+  georgian: "საქმეზე გადასვლა / საქმეს სერიოზულად შევუდგეთ.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-052",
+  english: "Go with the flow.",
+  georgian: "მოვლენებს მივყვეთ / სიტუაციის მიხედვით ვიმოქმედოთ.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-053",
+  english: "Play it by ear.",
+  georgian: "სიტუაციის მიხედვით გადავწყვიტოთ.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-054",
+  english: "Think it through.",
+  georgian: "კარგად დაფიქრება / საკითხის ბოლომდე გაანალიზება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-055",
+  english: "Jump to conclusions.",
+  georgian: "ნაჩქარევი დასკვნის გაკეთება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-056",
+  english: "Back to square one.",
+  georgian: "თავიდან დაწყება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-057",
+  english: "A win-win situation.",
+  georgian: "სიტუაცია, სადაც ორივე მხარე იგებს.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-058",
+  english: "A no-brainer.",
+  georgian: "აშკარა / მარტივი გადაწყვეტილება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-059",
+  english: "Easier said than done.",
+  georgian: "თქმა უფრო ადვილია, ვიდრე გაკეთება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-060",
+  english: "Get your ducks in a row.",
+  georgian: "ყველაფრის სწორად ორგანიზება და მოწესრიგება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-061",
+  english: "Iron out the details.",
+  georgian: "დეტალების დაზუსტება / პრობლემების მოგვარება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-062",
+  english: "Tie up loose ends.",
+  georgian: "დარჩენილი საკითხების დასრულება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-063",
+  english: "Go back to the drawing board.",
+  georgian: "თავიდან დაგეგმვა / ახალი მიდგომით დაწყება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-064",
+  english: "Call a spade a spade.",
+  georgian: "ყველაფერს თავისი სახელი დავარქვათ.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-065",
+  english: "A different ball game.",
+  georgian: "სრულიად სხვა საკითხი / სიტუაცია.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-066",
+  english: "Bark up the wrong tree.",
+  georgian: "არასწორი მიმართულებით ძებნა / ფიქრი.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-067",
+  english: "Don't put all your eggs in one basket.",
+  georgian: "ყველა იმედი ერთ ვარიანტზე არ უნდა დავამყაროთ.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-068",
+  english: "Weigh the pros and cons.",
+  georgian: "დადებითი და უარყოფითი მხარეების შეფასება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-069",
+  english: "Take it one step at a time.",
+  georgian: "ეტაპობრივად მოქმედება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-070",
+  english: "Stay on top of things.",
+  georgian: "ყველაფრის კონტროლში ქონა / ყველაფრისთვის თვალის მიდევნება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-071",
+  english: "Put something on the back burner.",
+  georgian: "რაღაცის დროებით გადადება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-072",
+  english: "Put our heads together.",
+  georgian: "ერთად ფიქრი და გამოსავლის მოძებნა.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-073",
+  english: "Bounce ideas around.",
+  georgian: "იდეების ერთმანეთთან გაცვლა / განხილვა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-074",
+  english: "Run something by someone.",
+  georgian: "ვინმესთან იდეის / საკითხის გადამოწმება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-075",
+  english: "Take something offline.",
+  georgian: "საკითხის ცალკე განხილვა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-076",
+  english: "Raise the bar.",
+  georgian: "სტანდარტის / მოთხოვნის გაზრდა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-077",
+  english: "Make headway.",
+  georgian: "წინსვლა / პროგრესის მიღწევა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-078",
+  english: "Keep something on track.",
+  georgian: "რაღაცის სწორ მიმართულებაზე შენარჩუნება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-079",
+  english: "Ahead of schedule.",
+  georgian: "გრაფიკს წინ უსწრებ.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-080",
+  english: "Behind schedule.",
+  georgian: "გრაფიკს ჩამორჩენა.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-081",
+  english: "On a tight deadline.",
+  georgian: "ძალიან მოკლე დედლაინის პირობებში.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-082",
+  english: "Meet someone halfway.",
+  georgian: "კომპრომისზე წასვლა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-083",
+  english: "See eye to eye.",
+  georgian: "ერთ აზრზე ყოფნა / ერთნაირად ფიქრი.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-084",
+  english: "A gray area.",
+  georgian: "გაურკვეველი / ბუნდოვანი საკითხი.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-085",
+  english: "A learning curve.",
+  georgian: "რაღაცის სწავლისა და ათვისების პროცესი.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-086",
+  english: "A rough estimate.",
+  georgian: "დაახლოებით გათვლა / მიახლოებითი შეფასება.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-087",
+  english: "By the book.",
+  georgian: "წესების / პროცედურების ზუსტად დაცვით.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-088",
+  english: "Go overboard.",
+  georgian: "ზედმეტის გაკეთება / გადამეტება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-089",
+  english: "In the long run.",
+  georgian: "გრძელვადიან პერსპექტივაში.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-090",
+  english: "For the time being.",
+  georgian: "ამ დროისთვის / დროებით.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-091",
+  english: "From the get-go.",
+  georgian: "თავიდანვე.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-092",
+  english: "At short notice.",
+  georgian: "მოკლე გაფრთხილების / წინასწარი შეტყობინების გარეშე.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-093",
+  english: "On the same wavelength.",
+  georgian: "ერთნაირად ფიქრი / ერთ ტალღაზე ყოფნა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-094",
+  english: "Out of the blue.",
+  georgian: "სრულიად მოულოდნელად.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-095",
+  english: "A grey area.",
+  georgian: "ბუნდოვანი / მკაფიოდ განსაზღვრული არაა.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-096",
+  english: "Keep something in mind.",
+  georgian: "რაღაცის გათვალისწინება / მხედველობაში ქონა.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-097",
+  english: "Bear in mind.",
+  georgian: "გაითვალისწინე / გახსოვდეს.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-098",
+  english: "On the same wavelength.",
+  georgian: "ერთნაირად აზროვნება / ერთმანეთის კარგად გაგება.",
+  category: "Idioms",
+  level: "Medium",
+},
+
+{
+  id: "idiom-099",
+  english: "Learn the ropes.",
+  georgian: "საქმის წესების / სპეციფიკის სწავლა.",
+  category: "Idioms",
+  level: "Easy",
+},
+
+{
+  id: "idiom-100",
+  english: "Know the ropes.",
+  georgian: "საქმის წესების და სპეციფიკის კარგად ცოდნა.",
+  category: "Idioms",
+  level: "Easy",
+},
+]
