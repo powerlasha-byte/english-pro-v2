@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რამდენი ხანია შენს ქალაქში ცხოვრობ?",
     answer: "I've lived here for many years.",
     georgianAnswer: "აქ უკვე მრავალი წელია ვცხოვრობ.",
-    page: 61,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რამდენი ხანია ინგლისურს სწავლობ?",
     answer: "I've been learning English for several years.",
     georgianAnswer: "ინგლისურს უკვე რამდენიმე წელია ვსწავლობ.",
-    page: 61,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა არის ყველაზე გრძელი პერიოდი, როცა არ გძინებია?",
     answer: "The longest period I've gone without sleep is about twenty-four hours.",
     georgianAnswer: "ყველაზე დიდი პერიოდი, როცა არ მძინებია, დაახლოებით ოცდაოთხი საათია.",
-    page: 61,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რა არის ყველაზე გრძელი პერიოდი, როცა არ გიჭამია?",
     answer: "I've gone without eating for one day.",
     georgianAnswer: "ერთი დღე საჭმლის გარეშე გამიტარებია.",
-    page: 61,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რა არის ყველაზე გრძელი პერიოდი, როცა არ გილაპარაკია?",
     answer: "I've gone without speaking for several hours.",
     georgianAnswer: "რამდენიმე საათი არ მილაპარაკია.",
-    page: 61,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებს ჩვეულებრივ რეპორტიორი?",
     answer: "A reporter collects information and reports the news.",
     georgianAnswer: "რეპორტიორი ინფორმაციას აგროვებს და ახალ ამბებს აშუქებს.",
-    page: 62,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა განსხვავებაა რეპორტიორსა და ჟურნალისტს შორის?",
     answer: "A reporter usually reports the news, while a journalist may also write articles and investigate stories.",
     georgianAnswer: "რეპორტიორი ძირითადად ახალ ამბებს აშუქებს, ხოლო ჟურნალისტი ასევე სტატიებს წერს და თემებს იკვლევს.",
-    page: 62,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებს უცხოელი კორესპონდენტი?",
     answer: "A foreign correspondent reports news from another country.",
     georgianAnswer: "უცხოელი კორესპონდენტი სხვა ქვეყნიდან აშუქებს ახალ ამბებს.",
-    page: 62,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რატომ არის პირველწყაროდან მიღებული ინფორმაცია მნიშვნელოვანი?",
     answer: "Because it's usually more accurate and reliable.",
     georgianAnswer: "რადგან ის ჩვეულებრივ უფრო ზუსტი და სანდოა.",
-    page: 62,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ოდესმე წაგიკითხავს გაზეთში სტატია მაფიის შესახებ?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "კი, წამიკითხავს. / არა, არ წამიკითხავს.",
-    page: 62,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "იცნობ ვინმეს, ვინც კინაღამ დაიხრჩო?",
     answer: "No, I haven't.",
     georgianAnswer: "არა, არ ვიცნობ.",
-    page: 63,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "როგორ შეუძლიათ ადამიანებს არასასურველი ნივთების მოშორება?",
     answer: "They can recycle, donate or throw them away.",
     georgianAnswer: "შეუძლიათ გადაამუშაონ, გააჩუქონ ან გადააგდონ.",
-    page: 64,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ ინახავ თუ იშორებ ძველ ტანსაცმელს?",
     answer: "I usually get rid of clothes I don't wear anymore.",
     georgianAnswer: "ჩვეულებრივ იმ ტანსაცმელს ვიშორებ, რომელსაც აღარ ვიცვამ.",
-    page: 64,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ოდესმე შეგიგროვებია ინფორმაცია სასკოლო პროექტისთვის?",
     answer: "Yes, I have collected information for many projects.",
     georgianAnswer: "დიახ, ბევრი პროექტისთვის შემიგროვებია ინფორმაცია.",
-    page: 64,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "რამდენი ხანია გინდა ინგლისურად თავისუფლად ლაპარაკი?",
     answer: "I've wanted to speak English fluently for several years.",
     georgianAnswer: "რამდენიმე წელია ინგლისურად თავისუფლად ლაპარაკი მინდა.",
-    page: 64,
+    
   },
 ];

@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ყრუ ადამიანები ჩვეულებრივ როგორ ურთიერთობენ?",
     answer: "They usually communicate using sign language.",
     georgianAnswer: "ისინი ჩვეულებრივ ჟესტების ენით ურთიერთობენ.",
-    page: 89,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "შეუძლიათ თუ არა ზოგიერთ ყრუ ადამიანს სალაპარაკო ენის გაგება?",
     answer: "Yes, some deaf people can understand it by lip-reading.",
     georgianAnswer: "დიახ, ზოგიერთს ტუჩების კითხვით შეუძლია მისი გაგება.",
-    page: 89,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთო, თუ პირველად ვერ მიაღწიე წარმატებას?",
     answer: "I should keep trying and never give up.",
     georgianAnswer: "უნდა ვცადო ისევ და არასოდეს დავნებდე.",
-    page: 89,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "როგორ განვითარდა მედიცინა წლების განმავლობაში?",
     answer: "Medicine has advanced by improving treatments and technology.",
     georgianAnswer: "მედიცინა განვითარდა მკურნალობისა და ტექნოლოგიების გაუმჯობესებით.",
-    page: 90,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე თავი უხერხულად გიგრძნია?",
     answer: "Yes, I have felt self-conscious when speaking in front of many people.",
     georgianAnswer: "დიახ, ბევრ ადამიანთან საუბრისას თავი უხერხულად მიგრძნია.",
-    page: 90,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ვინ არის შენი საყვარელი კინორეჟისორი?",
     answer: "My favourite film director is Christopher Nolan.",
     georgianAnswer: "ჩემი საყვარელი კინორეჟისორი კრისტოფერ ნოლანია.",
-    page: 90,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ფილმს სალაროებში წარმატებულს?",
     answer: "A good story and great acting usually make a film successful.",
     georgianAnswer: "კარგი სიუჟეტი და შესანიშნავი მსახიობები ჩვეულებრივ ფილმს წარმატებულს ხდის.",
-    page: 90,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "გინდოდა ოდესმე ფილმის გადაღება, როგორც რეჟისორს?",
     answer: "Yes, I'd like to direct an action movie.",
     georgianAnswer: "დიახ, მსურდა სამოქმედო ფილმის გადაღება.",
-    page: 90,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რატომ აღფრთოვანდებიან ადამიანები წარმატებული რეჟისორებით?",
     answer: "Because they create memorable films.",
     georgianAnswer: "რადგან ისინი დაუვიწყარ ფილმებს ქმნიან.",
-    page: 90,
+    
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const questions = [
     georgianQuestion: "რა არის საუკეთესო რჩევა, რომელიც ოდესმე ვინმემ მოგცა?",
     answer: "Someone suggested that I should never stop learning.",
     georgianAnswer: "ვიღაცამ მირჩია, რომ არასოდეს შემეწყვიტა სწავლა.",
-    page: 91,
+    
   },
 ];

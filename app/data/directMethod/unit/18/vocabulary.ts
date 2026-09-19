@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈhæŋɡlaɪdɪŋ]",
     sentence: "Hang-gliding is an exciting extreme sport.",
     georgianSentence: "დელტაპლანით ფრენა საინტერესო ექსტრემალური სპორტია.",
-    page: 69,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈwɔːtəˌskiːɪŋ]",
     sentence: "I've never tried waterskiing.",
     georgianSentence: "წყლის თხილამურებით სრიალი არასდროს მიცდია.",
-    page: 69,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈbʌndʒi ˌdʒʌmpɪŋ]",
     sentence: "Bungee jumping is very risky.",
     georgianSentence: "ბანჯი ჯამპინგი ძალიან სარისკოა.",
-    page: 69,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈjəʊɡə]",
     sentence: "Yoga helps people relax.",
     georgianSentence: "იოგა ადამიანებს მოდუნებაში ეხმარება.",
-    page: 69,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈrɪski]",
     sentence: "Climbing without equipment is risky.",
     georgianSentence: "აღჭურვილობის გარეშე ცოცვა სარისკოა.",
-    page: 69,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ɡreɪn]",
     sentence: "A grain of sand got into my eye.",
     georgianSentence: "ქვიშის მარცვალი თვალში ჩამივარდა.",
-    page: 69,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[siːd]",
     sentence: "Plants grow from seeds.",
     georgianSentence: "მცენარეები თესლიდან იზრდება.",
-    page: 69,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ɪˈnɔːməs]",
     sentence: "They built an enormous bridge.",
     georgianSentence: "მათ უზარმაზარი ხიდი ააშენეს.",
-    page: 69,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈtɔːtəs]",
     sentence: "The tortoise moves very slowly.",
     georgianSentence: "კუ ძალიან ნელა მოძრაობს.",
-    page: 69,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[stɪl]",
     sentence: "She still lives in Tbilisi.",
     georgianSentence: "ის ჯერ კიდევ თბილისში ცხოვრობს.",
-    page: 69,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[plʌm]",
     sentence: "I like fresh plums.",
     georgianSentence: "მე ახალი ქლიავი მიყვარს.",
-    page: 70,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[piːtʃ]",
     sentence: "This peach is very sweet.",
     georgianSentence: "ეს ატამი ძალიან ტკბილია.",
-    page: 70,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ɡreɪps]",
     sentence: "We make wine from grapes.",
     georgianSentence: "ყურძნისგან ღვინოს ვამზადებთ.",
-    page: 70,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[piːl]",
     sentence: "Can you peel these potatoes?",
     georgianSentence: "შეგიძლია ეს კარტოფილი გაფცქვნა?",
-    page: 70,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[freʃ]",
     sentence: "I always buy fresh fruit.",
     georgianSentence: "ყოველთვის ახალ ხილს ვყიდულობ.",
-    page: 70,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ˈɡrædʒuəli]",
     sentence: "The weather changed gradually.",
     georgianSentence: "ამინდი თანდათან შეიცვალა.",
-    page: 70,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˌbɪt baɪ ˈbɪt]",
     sentence: "I saved money bit by bit.",
     georgianSentence: "ფულს ნელ-ნელა ვაგროვებდი.",
-    page: 70,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˈwʌndə]",
     sentence: "The Great Wall of China is a wonder.",
     georgianSentence: "ჩინეთის დიდი კედელი საოცრებაა.",
-    page: 71,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ˈmɪrəkl]",
     sentence: "The doctors called it a miracle.",
     georgianSentence: "ექიმებმა ამას სასწაული უწოდეს.",
-    page: 71,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "[ədˈmaɪə]",
     sentence: "I admire honest people.",
     georgianSentence: "მე პატიოსანი ადამიანებით აღფრთოვანებული ვარ.",
-    page: 71,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "[ˈsetl]",
     sentence: "We need to settle this problem.",
     georgianSentence: "ეს პრობლემა უნდა მოვაგვაროთ.",
-    page: 72,
+    
   },
   {
     id: 22,
@@ -195,6 +195,6 @@ export const vocabulary = [
     pronunciation: "[ˌaʊt əv ˈkɔːt]",
     sentence: "They settled the dispute out of court.",
     georgianSentence: "მათ დავა სასამართლოს გარეშე მოაგვარეს.",
-    page: 72,
+    
   },
 ];

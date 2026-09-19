@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "თავს ჭკვიან ადამიანად მიიჩნევ?",
     answer: "Yes, but I believe there's always more to learn.",
     georgianAnswer: "დიახ, მაგრამ ვფიქრობ, ყოველთვის არის რაღაც ახალი სასწავლი.",
-    page: 141,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა განსხვავებაა ჭკვიანსა და ბრძენ ადამიანს შორის?",
     answer: "A clever person learns quickly, while a wise person makes good decisions.",
     georgianAnswer: "ჭკვიანი ადამიანი სწრაფად სწავლობს, ხოლო ბრძენი სწორ გადაწყვეტილებებს იღებს.",
-    page: 141,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ოდესმე სიმართლე დაგიმალავს?",
     answer: "Yes, but only to avoid hurting someone's feelings.",
     georgianAnswer: "დიახ, მაგრამ მხოლოდ იმისთვის, რომ ვინმეს გრძნობები არ მეტკინა.",
-    page: 141,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ყოველთვის ცხოვრების ნათელ მხარეს უყურებ?",
     answer: "I try to stay positive even in difficult situations.",
     georgianAnswer: "რთულ სიტუაციებშიც კი ვცდილობ პოზიტიური დავრჩე.",
-    page: 142,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ვინ არის ყველაზე ჭკვიანი ადამიანი, რომელსაც იცნობ?",
     answer: "My mentor is one of the smartest people I know.",
     georgianAnswer: "ჩემი მენტორი ერთ-ერთი ყველაზე ჭკვიანი ადამიანია, ვისაც ვიცნობ.",
-    page: 142,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რა თვისებები უნდა ჰქონდეს კარგ გენერალურ დირექტორს?",
     answer: "Leadership, honesty, and good decision-making.",
     georgianAnswer: "ლიდერობა, პატიოსნება და კარგი გადაწყვეტილებების მიღების უნარი.",
-    page: 142,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რთული პრობლემა გადაგიჭრია?",
     answer: "Yes, solving difficult problems is part of my job.",
     georgianAnswer: "დიახ, რთული პრობლემების გადაჭრა ჩემი სამუშაოს ნაწილია.",
-    page: 142,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მტკიცებულება მნიშვნელოვანი?",
     answer: "Because it helps us discover the truth.",
     georgianAnswer: "რადგან ის სიმართლის დადგენაში გვეხმარება.",
-    page: 143,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ოდესმე დეტექტიური ფილმი გინახავს?",
     answer: "Yes, I enjoy detective stories very much.",
     georgianAnswer: "დიახ, დეტექტიური ისტორიები ძალიან მომწონს.",
-    page: 143,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რას გააკეთებდი, თუ მნიშვნელოვან მინიშნებას იპოვიდი?",
     answer: "I'd report it to the police immediately.",
     georgianAnswer: "დაუყოვნებლივ პოლიციას შევატყობინებდი.",
-    page: 143,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რატომ მიდიან ადამიანები ზოგჯერ არასწორ დასკვნამდე?",
     answer: "Because they don't have all the facts.",
     georgianAnswer: "რადგან ყველა ფაქტი არ იციან.",
-    page: 143,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, ინტელექტი უფრო მნიშვნელოვანია თუ გამოცდილება?",
     answer: "Both are important because they complement each other.",
     georgianAnswer: "ორივე მნიშვნელოვანია, რადგან ერთმანეთს ავსებენ.",
-    page: 143,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რთული გადაწყვეტილების მიღება მოგიწია?",
     answer: "Yes, and I always try to think carefully first.",
     georgianAnswer: "დიახ, და ყოველთვის ვცდილობ ჯერ კარგად დავფიქრდე.",
-    page: 143,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რა ეხმარება ადამიანებს უფრო ბრძენები გახდნენ?",
     answer: "Life experience and learning from mistakes.",
     georgianAnswer: "ცხოვრების გამოცდილება და შეცდომებიდან სწავლა.",
-    page: 143,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "რა არის ყველაზე მნიშვნელოვანი გაკვეთილი, რაც წელს ისწავლე?",
     answer: "I've learned that consistency is the key to success.",
     georgianAnswer: "ვისწავლე, რომ მუდმივობა წარმატების მთავარი გასაღებია.",
-    page: 143,
+    
   },
 ];

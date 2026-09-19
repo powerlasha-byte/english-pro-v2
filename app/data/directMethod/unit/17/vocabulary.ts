@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈbækwədz]",
     sentence: "The word 'ambulance' is written backwards.",
     georgianSentence: "სიტყვა 'ambulance' უკუღმა წერია.",
-    page: 65,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈfɔːwədz]",
     sentence: "He walked forwards without looking back.",
     georgianSentence: "ის წინ წავიდა უკან მოუხედავად.",
-    page: 65,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈkreɪfɪʃ]",
     sentence: "The crayfish is believed to walk backwards.",
     georgianSentence: "ითვლება, რომ კიბორჩხალა უკუღმა დადის.",
-    page: 65,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈæmbjələns]",
     sentence: "The ambulance arrived in a few minutes.",
     georgianSentence: "სასწრაფო დახმარების მანქანა რამდენიმე წუთში მოვიდა.",
-    page: 65,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˌʌpˈhɪl]",
     sentence: "Cycling uphill is exhausting.",
     georgianSentence: "აღმართზე ველოსიპედით ასვლა დამღლელია.",
-    page: 65,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˌdaʊnˈhɪl]",
     sentence: "Going downhill is much easier.",
     georgianSentence: "დაღმართზე სიარული ბევრად მარტივია.",
-    page: 65,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ɪɡˈzɔːstɪd]",
     sentence: "I was exhausted after work.",
     georgianSentence: "სამსახურის შემდეგ ძალიან დაღლილი ვიყავი.",
-    page: 65,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ɪɡˈzɔːstɪŋ]",
     sentence: "Running a marathon is exhausting.",
     georgianSentence: "მარათონის სირბილი ძალიან დამღლელია.",
-    page: 65,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[kəˈmjuːt]",
     sentence: "I commute to work every day.",
     georgianSentence: "სამსახურში ყოველდღე ვმგზავრობ.",
-    page: 66,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[kəˈmjuːtə]",
     sentence: "Many commuters use the underground.",
     georgianSentence: "ბევრი მგზავრი მეტროს იყენებს.",
-    page: 66,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ˈtentəhʊks]",
     sentence: "She was on tenterhooks waiting for the results.",
     georgianSentence: "შედეგების მოლოდინში ძალიან ნერვიულობდა.",
-    page: 66,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ˈsaɪdweɪz]",
     sentence: "The horse moved sideways.",
     georgianSentence: "ცხენი გვერდულად მოძრაობდა.",
-    page: 66,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[nɒd]",
     sentence: "He nodded to say yes.",
     georgianSentence: "მან თანხმობის ნიშნად თავი დააქნია.",
-    page: 66,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[weɪv]",
     sentence: "The waves were very high.",
     georgianSentence: "ტალღები ძალიან მაღალი იყო.",
-    page: 67,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[sɜːf]",
     sentence: "Many people surf in Hawaii.",
     georgianSentence: "ბევრი ადამიანი ჰავაიზე სერფინგობს.",
-    page: 67,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ˈsɜːfbɔːd]",
     sentence: "He bought a new surfboard.",
     georgianSentence: "მან ახალი სერფინგის დაფა იყიდა.",
-    page: 67,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈsiːsɪk]",
     sentence: "I felt seasick on the boat.",
     georgianSentence: "ნავში ზღვის ავადმყოფობა დამეწყო.",
-    page: 67,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[draʊn]",
     sentence: "The man almost drowned in the river.",
     georgianSentence: "კაცი კინაღამ მდინარეში დაიხრჩო.",
-    page: 68,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ʌnˈwɒntɪd]",
     sentence: "They got rid of unwanted clothes.",
     georgianSentence: "მათ არასასურველი ტანსაცმელი მოიშორეს.",
-    page: 68,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "[ɡet rɪd əv]",
     sentence: "We should get rid of old furniture.",
     georgianSentence: "ძველი ავეჯი უნდა მოვიშოროთ.",
-    page: 68,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "[ˈfeləʊ]",
     sentence: "He talked to his fellow passengers.",
     georgianSentence: "ის თავის თანამგზავრებს ესაუბრა.",
-    page: 68,
+    
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ export const vocabulary = [
     pronunciation: "[meɪt]",
     sentence: "John is my best mate.",
     georgianSentence: "ჯონი ჩემი საუკეთესო მეგობარია.",
-    page: 68,
+    
   },
   {
     id: 23,
@@ -204,7 +204,7 @@ export const vocabulary = [
     pronunciation: "[ˈpæsɪndʒə]",
     sentence: "All passengers left the train.",
     georgianSentence: "ყველა მგზავრი მატარებლიდან ჩავიდა.",
-    page: 68,
+    
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ export const vocabulary = [
     pronunciation: "[kiːp ɪn tʌtʃ]",
     sentence: "We still keep in touch.",
     georgianSentence: "ჩვენ დღემდე ვინარჩუნებთ კონტაქტს.",
-    page: 68,
+    
   },
   {
     id: 25,
@@ -222,6 +222,6 @@ export const vocabulary = [
     pronunciation: "[luːz tʌtʃ]",
     sentence: "We lost touch after school.",
     georgianSentence: "სკოლის შემდეგ ერთმანეთთან კონტაქტი დავკარგეთ.",
-    page: 68,
+    
   },
 ];

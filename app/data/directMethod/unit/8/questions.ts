@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "როდის ცეკვავენ ადამიანები სიხარულით?",
     answer: "People dance with joy when they are very happy.",
     georgianAnswer: "ადამიანები სიხარულით ცეკვავენ, როცა ძალიან ბედნიერები არიან.",
-    page: 30,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებენ ხშირად ენერგიული ბავშვები?",
     answer: "Lively children often jump for joy.",
     georgianAnswer: "ენერგიული ბავშვები ხშირად სიხარულისგან ხტებიან.",
-    page: 30,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ადვილია მუშაობა კოლეგასთან, რომელსაც იუმორის გრძნობა არ აქვს?",
     answer: "No, it isn't easy.",
     georgianAnswer: "არა, ადვილი არ არის.",
-    page: 30,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ფიქრობ, რომ ინგლისური იუმორი განსხვავებულია?",
     answer: "Yes, I think it is quite different.",
     georgianAnswer: "დიახ, ვფიქრობ, საკმაოდ განსხვავებულია.",
-    page: 30,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რამდენია ბინის ტიპური ზომა შენს ქვეყანაში?",
     answer: "It's usually about seventy square metres.",
     georgianAnswer: "ჩვეულებრივ დაახლოებით სამოცდაათი კვადრატული მეტრია.",
-    page: 30,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რომელი გრძნობები აქვთ უსინათლო ადამიანებს უკეთ განვითარებული?",
     answer: "Their hearing and touch are usually better developed.",
     georgianAnswer: "მათ ჩვეულებრივ უკეთ განვითარებული აქვთ სმენა და შეხება.",
-    page: 30,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რაზე არიან ბავშვები ყველაზე მეტად აღელვებულები შობას?",
     answer: "They are excited about presents and Santa Claus.",
     georgianAnswer: "ისინი საჩუქრებსა და სანტა კლაუსზე არიან აღელვებულები.",
-    page: 30,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "აღელვებული იქნებოდი საზღვარგარეთ რომ გემუშავა?",
     answer: "Yes, I'd be very excited.",
     georgianAnswer: "დიახ, ძალიან აღელვებული ვიქნებოდი.",
-    page: 30,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "იქნებოდა ამაღელვებელი კოსმოსში სიცოცხლის აღმოჩენა?",
     answer: "Yes, it would be extremely exciting.",
     georgianAnswer: "დიახ, ძალიან ამაღელვებელი იქნებოდა.",
-    page: 30,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ჩინეთში ხვეული თმა ტიპურია?",
     answer: "No, straight hair is more typical.",
     georgianAnswer: "არა, სწორი თმა უფრო ტიპურია.",
-    page: 31,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რომელ ცხოველებს აქვთ ხვეული კუდები?",
     answer: "Pigs and some dogs have curly tails.",
     georgianAnswer: "ღორებს და ზოგიერთ ძაღლს ხვეული კუდი აქვთ.",
-    page: 31,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებენ ძაღლები, როცა აღელვებულები არიან?",
     answer: "They wag their tails.",
     georgianAnswer: "კუდს აქნევენ.",
-    page: 31,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რა არის საზოგადოების ძირითადი ერთეული?",
     answer: "The family is the basic unit of society.",
     georgianAnswer: "ოჯახი საზოგადოების ძირითადი ერთეულია.",
-    page: 31,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "დაასახელე სიგრძის ერთეული.",
     answer: "A metre is a unit of length.",
     georgianAnswer: "მეტრი სიგრძის ერთეულია.",
-    page: 31,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რამდენი პოლიციელი შეიძლება მუშაობდეს ერთ პოლიციურ დანაყოფში?",
     answer: "There can be many police officers in one unit.",
     georgianAnswer: "ერთ დანაყოფში ბევრი პოლიციელი შეიძლება მუშაობდეს.",
-    page: 31,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "რა არის სამყარო?",
     answer: "The universe includes everything that exists.",
     georgianAnswer: "სამყარო მოიცავს ყველაფერს, რაც არსებობს.",
-    page: 32,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "ოდესღაც სამყარო უფრო პატარა იყო?",
     answer: "Scientists believe it was.",
     georgianAnswer: "მეცნიერები ფიქრობენ, რომ ასე იყო.",
-    page: 32,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რა ფუნქციას ეძებ ახალ ტელეფონში?",
     answer: "I look for a good camera and long battery life.",
     georgianAnswer: "ვეძებ კარგ კამერასა და ბატარეის ხანგრძლივ მუშაობას.",
-    page: 32,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "ადვილად იძინებ?",
     answer: "Yes, especially when I'm tired.",
     georgianAnswer: "დიახ, განსაკუთრებით როცა დაღლილი ვარ.",
-    page: 32,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ მინიმუმ შვიდი საათი გძინავს?",
     answer: "Yes, I usually do.",
     georgianAnswer: "დიახ, ჩვეულებრივ ასეა.",
-    page: 32,
+    
   },
 ];

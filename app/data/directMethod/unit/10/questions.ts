@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "გიყვარს ბლოგების კითხვა?",
     answer: "Yes, I enjoy reading blogs about technology and travel.",
     georgianAnswer: "დიახ, მიყვარს ტექნოლოგიებისა და მოგზაურობის შესახებ ბლოგების კითხვა.",
-    page: 35,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ადამიანს წარმატებულ ბლოგერს?",
     answer: "Writing useful and interesting content makes someone a successful blogger.",
     georgianAnswer: "სასარგებლო და საინტერესო კონტენტის წერა ადამიანს წარმატებულ ბლოგერად აქცევს.",
-    page: 35,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ტოვებ ხოლმე კომენტარებს ბლოგებზე?",
     answer: "Yes, when I really enjoy an article.",
     georgianAnswer: "დიახ, როცა სტატია ძალიან მომწონს.",
-    page: 35,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რატომ წერენ ბლოგერები ახალ პოსტებს რეგულარულად?",
     answer: "To keep their readers interested.",
     georgianAnswer: "იმისთვის, რომ მკითხველების ინტერესი შეინარჩუნონ.",
-    page: 35,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "მნიშვნელოვანია ჯანსაღი ცხოვრების წესი?",
     answer: "Yes, it helps people live longer and feel better.",
     georgianAnswer: "დიახ, ის ადამიანებს ეხმარება უფრო დიდხანს და უკეთ იცხოვრონ.",
-    page: 35,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რომელი საკვები შედის დაბალანსებულ კვებაში?",
     answer: "Fruit, vegetables, protein and whole grains are part of a balanced diet.",
     georgianAnswer: "ხილი, ბოსტნეული, ცილა და მარცვლეული დაბალანსებული კვების ნაწილია.",
-    page: 36,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რატომ არის ვიტამინები მნიშვნელოვანი?",
     answer: "They help our bodies stay healthy.",
     georgianAnswer: "ისინი ჩვენს ორგანიზმს ჯანმრთელობის შენარჩუნებაში ეხმარებიან.",
-    page: 36,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რეგულარულად ვარჯიშობ?",
     answer: "Yes, I exercise several times a week.",
     georgianAnswer: "დიახ, კვირაში რამდენჯერმე ვვარჯიშობ.",
-    page: 36,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა გვაძლევს ყველაზე მეტ ენერგიას?",
     answer: "Healthy food and enough sleep give us energy.",
     georgianAnswer: "ჯანსაღი საკვები და საკმარისი ძილი ენერგიას გვაძლევს.",
-    page: 36,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ კითხულობ პროდუქტის ინგრედიენტებს?",
     answer: "Yes, especially when buying healthy food.",
     georgianAnswer: "დიახ, განსაკუთრებით ჯანსაღი საკვების ყიდვისას.",
-    page: 36,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა მოხდებოდა ინგლისური რომ არ გესწავლა?",
     answer: "I wouldn't have improved my career opportunities.",
     georgianAnswer: "ჩემი კარიერული შესაძლებლობები არ გაუმჯობესდებოდა.",
-    page: 37,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ადრე რომ დაგეძინა, უკეთ იგრძნობდი თავს?",
     answer: "Yes, I would have felt much better.",
     georgianAnswer: "დიახ, ბევრად უკეთ ვიგრძნობდი თავს.",
-    page: 37,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "მეტი ფული რომ დაგეგროვებინა, რას იყიდდი?",
     answer: "I would have bought a new laptop.",
     georgianAnswer: "ახალ ლეპტოპს ვიყიდდი.",
-    page: 37,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რეისი რომ გაგეცდინა, რას გააკეთებდი?",
     answer: "I would have booked another ticket.",
     georgianAnswer: "სხვა ბილეთს დავჯავშნიდი.",
-    page: 37,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რა მოხდებოდა, ადამიანებს ინტერნეტი რომ არ გამოეგონებინათ?",
     answer: "Communication would have been much slower.",
     georgianAnswer: "კომუნიკაცია ბევრად ნელი იქნებოდა.",
-    page: 37,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "უფრო მეტი თავისუფალი დრო რომ გქონოდა, ბლოგერი გახდებოდი?",
     answer: "Yes, I probably would have.",
     georgianAnswer: "დიახ, ალბათ გავხდებოდი.",
-    page: 37,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "რატომ უნდა ივარჯიშონ ადამიანებმა ყოველ კვირას?",
     answer: "Because exercise improves fitness and health.",
     georgianAnswer: "რადგან ვარჯიში აუმჯობესებს ფიზიკურ ფორმასა და ჯანმრთელობას.",
-    page: 36,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "ორგანული საკვები ყოველთვის უფრო ჯანსაღია?",
     answer: "Not always, but many people believe it is.",
     georgianAnswer: "ყოველთვის არა, თუმცა ბევრს ასე მიაჩნია.",
-    page: 36,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "გირჩევნია სახლში მომზადება თუ გარეთ ჭამა?",
     answer: "I prefer cooking at home.",
     georgianAnswer: "სახლში მომზადება მირჩევნია.",
-    page: 36,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რა არის ჯანსაღი ცხოვრების წესის ყველაზე მნიშვნელოვანი ნაწილი?",
     answer: "Eating well, exercising and sleeping enough.",
     georgianAnswer: "ჯანსაღი კვება, ვარჯიში და საკმარისი ძილი.",
-    page: 36,
+    
   },
 ];

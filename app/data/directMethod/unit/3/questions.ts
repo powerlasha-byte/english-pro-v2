@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გიცდია ახალი მანქანა მის ყიდვამდე?",
     answer: "Yes, I've had a new car on trial before buying it.",
     georgianAnswer: "დიახ, ახალი მანქანა მიყიდვამდე გამომიცდია.",
-    page: 9,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რამდენი ხნით გქონდა საცდელად?",
     answer: "I had it on trial for one week.",
     georgianAnswer: "ერთი კვირის განმავლობაში მქონდა საცდელად.",
-    page: 9,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რთულია რამის სწავლა ცდისა და შეცდომის მეთოდით?",
     answer: "Yes, learning by trial and error can be difficult.",
     georgianAnswer: "დიახ, ცდისა და შეცდომის მეთოდით სწავლა შეიძლება რთული იყოს.",
-    page: 9,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "როგორ ისწავლიდი ახალი პროგრამის გამოყენებას?",
     answer: "I'd learn to use it by trial and error.",
     georgianAnswer: "მის გამოყენებას ცდისა და შეცდომის მეთოდით ვისწავლიდი.",
-    page: 9,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "გამოსადეგია თუ არა ცდისა და შეცდომის მეთოდი რთული პრობლემებისთვის?",
     answer: "No, it isn't very useful for complicated problems.",
     georgianAnswer: "არა, რთული პრობლემებისთვის ის ძალიან გამოსადეგი არ არის.",
-    page: 9,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "სჯერათ თუ არა მეცნიერებს, რომ ადამიანები ხეებიდან ჩამოვიდნენ?",
     answer: "Some scientists believe that humans came down from trees.",
     georgianAnswer: "ზოგიერთ მეცნიერს სჯერა, რომ ადამიანები ხეებიდან ჩამოვიდნენ.",
-    page: 9,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რისგან შედგება ძირითადად ნიადაგი?",
     answer: "Soil is mostly made of broken rock.",
     georgianAnswer: "ნიადაგი ძირითადად დამსხვრეული ქანებისგან შედგება.",
-    page: 9,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რატომ არის ნიადაგი მნიშვნელოვანი?",
     answer: "Plants cannot grow without soil.",
     georgianAnswer: "მცენარეები ნიადაგის გარეშე ვერ გაიზრდებიან.",
-    page: 9,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რას ჰკითხავდი ადამიანს, თუ მიწაზე მწოლიარეს იპოვიდი?",
     answer: "I'd ask, 'What's the matter?'",
     georgianAnswer: "ვკითხავდი: „რა მოხდა?“",
-    page: 9,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "როდის დადგა ქრისტეფორე კოლუმბმა ფეხი ამერიკის მიწაზე?",
     answer: "He set foot on American soil in 1493.",
     georgianAnswer: "მან ამერიკის მიწაზე ფეხი 1493 წელს დადგა.",
-    page: 10,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რომელ ქვეყნებს აქვთ განსაკუთრებით ნაყოფიერი ნიადაგი?",
     answer: "Ukraine and Canada have particularly fertile soil.",
     georgianAnswer: "უკრაინასა და კანადას განსაკუთრებით ნაყოფიერი ნიადაგი აქვთ.",
-    page: 10,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "არის თუ არა უდაბნოებში ბევრი ნაყოფიერი მიწა?",
     answer: "No, there isn't plenty of fertile land in deserts.",
     georgianAnswer: "არა, უდაბნოებში ბევრი ნაყოფიერი მიწა არ არის.",
-    page: 10,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "საკაბელო ტელევიზია უფრო ძვირია, ვიდრე სატელიტური?",
     answer: "Yes, cable TV is usually more expensive.",
     georgianAnswer: "დიახ, საკაბელო ტელევიზია, როგორც წესი, უფრო ძვირია.",
-    page: 10,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რამდენი ტელეარხი გაქვს?",
     answer: "I have about sixty TV channels.",
     georgianAnswer: "დაახლოებით სამოცი ტელეარხი მაქვს.",
-    page: 10,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "გაქვს HD არხები?",
     answer: "Yes, I have several HD channels.",
     georgianAnswer: "დიახ, რამდენიმე HD არხი მაქვს.",
-    page: 10,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "რატომ ამოწმებს პოლიცია ადამიანის სისხლში ალკოჰოლის დონეს?",
     answer: "They test it after a road accident.",
     georgianAnswer: "ისინი ამას ავტოსაგზაო შემთხვევის შემდეგ ამოწმებენ.",
-    page: 10,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "არიან თუ არა მენეჯერები ბედნიერები, როდესაც გაყიდვები იზრდება?",
     answer: "Yes, managers are happy when sales increase.",
     georgianAnswer: "დიახ, მენეჯერები ბედნიერები არიან, როდესაც გაყიდვები იზრდება.",
-    page: 10,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რა არის პირდაპირი ნათქვამი?",
     answer: "Direct speech repeats the speaker's exact words.",
     georgianAnswer: "პირდაპირი ნათქვამი ზუსტად იმეორებს მოსაუბრის სიტყვებს.",
-    page: 11,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "რა არის ირიბი ნათქვამი?",
     answer: "Reported speech tells what somebody said without using the exact words.",
     georgianAnswer: "ირიბი ნათქვამი გადმოსცემს სხვის ნათქვამს ზუსტი სიტყვების გამოყენების გარეშე.",
-    page: 11,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რა იცვლება ჩვეულებრივ ირიბ ნათქვამში?",
     answer: "The tense, pronouns and time expressions usually change.",
     georgianAnswer: "ჩვეულებრივ იცვლება დრო, ნაცვალსახელები და დროის აღმნიშვნელი სიტყვები.",
-    page: 11,
+    
   },
 ];

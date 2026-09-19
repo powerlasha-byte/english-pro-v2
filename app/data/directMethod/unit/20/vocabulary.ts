@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[fəˈbɪd]",
     sentence: "Smoking is forbidden in this building.",
     georgianSentence: "ამ შენობაში მოწევა აკრძალულია.",
-    page: 77,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[fəˈbeɪd]",
     sentence: "My parents forbade me to stay out late.",
     georgianSentence: "მშობლებმა გვიან გარეთ დარჩენა ამიკრძალეს.",
-    page: 77,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[fəˈbɪdn]",
     sentence: "It is forbidden to park here.",
     georgianSentence: "აქ პარკირება აკრძალულია.",
-    page: 77,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[dʒəʊk]",
     sentence: "He told a funny joke.",
     georgianSentence: "მან სასაცილო ხუმრობა თქვა.",
-    page: 77,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[nɒt ɡet ðə dʒəʊk]",
     sentence: "She didn't get the joke.",
     georgianSentence: "მან ხუმრობა ვერ გაიგო.",
-    page: 77,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈdʒiːniəs]",
     sentence: "Albert Einstein was a genius.",
     georgianSentence: "ალბერტ აინშტაინი გენიოსი იყო.",
-    page: 78,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈdʒiːniəs]",
     sentence: "It was an ingenious idea.",
     georgianSentence: "ეს გენიალური იდეა იყო.",
-    page: 78,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[tæp]",
     sentence: "Turn off the tap.",
     georgianSentence: "ონკანი დაკეტე.",
-    page: 78,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[sɪŋk]",
     sentence: "The dishes are in the sink.",
     georgianSentence: "ჭურჭელი ნიჟარაშია.",
-    page: 78,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈtelɪdʒənt]",
     sentence: "She is a very intelligent student.",
     georgianSentence: "ის ძალიან ჭკვიანი სტუდენტია.",
-    page: 78,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈtelɪdʒəns]",
     sentence: "Intelligence is important for solving problems.",
     georgianSentence: "პრობლემების გადაჭრისთვის ინტელექტი მნიშვნელოვანია.",
-    page: 78,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[hen]",
     sentence: "The hen laid three eggs.",
     georgianSentence: "დედალმა ქათამმა სამი კვერცხი დადო.",
-    page: 78,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˌtʃɪmpænˈziː]",
     sentence: "Chimpanzees are very intelligent animals.",
     georgianSentence: "შიმპანზეები ძალიან ჭკვიანი ცხოველები არიან.",
-    page: 79,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[əˈbɪləti]",
     sentence: "She has the ability to learn quickly.",
     georgianSentence: "მას სწრაფად სწავლის უნარი აქვს.",
-    page: 79,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈɪnstɪŋkt]",
     sentence: "Animals often act by instinct.",
     georgianSentence: "ცხოველები ხშირად ინსტინქტით მოქმედებენ.",
-    page: 79,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈspekt]",
     sentence: "Children should respect their parents.",
     georgianSentence: "ბავშვებმა მშობლებს პატივი უნდა სცენ.",
-    page: 79,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[triːt]",
     sentence: "Doctors treat their patients with care.",
     georgianSentence: "ექიმები პაციენტებს ყურადღებით ეპყრობიან.",
-    page: 79,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[smæk]",
     sentence: "Parents should never smack their children.",
     georgianSentence: "მშობლებმა არასოდეს უნდა დაარტყან ბავშვებს.",
-    page: 80,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[əˈsɔːlt]",
     sentence: "The police arrested him for assault.",
     georgianSentence: "პოლიციამ ის თავდასხმისთვის დააკავა.",
-    page: 80,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[ˈpʌnɪʃ]",
     sentence: "Teachers should not punish students unfairly.",
     georgianSentence: "მასწავლებლებმა მოსწავლეები უსამართლოდ არ უნდა დასაჯონ.",
-    page: 80,
+    
   },
 ];

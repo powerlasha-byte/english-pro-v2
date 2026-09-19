@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გაგიკეთებია ისეთი რამ, რაც მოგვიანებით ინანე?",
     answer: "Yes, I have. I should have thought more carefully.",
     georgianAnswer: "დიახ. უფრო კარგად უნდა მეფიქრა.",
-    page: 113,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "გასულ კვირას რას გააკეთებდი სხვანაირად?",
     answer: "I should have managed my time better.",
     georgianAnswer: "დრო უკეთ უნდა გამენაწილებინა.",
-    page: 113,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ოდესმე დაგვიწყებია რაიმე მნიშვნელოვანი?",
     answer: "Yes, I forgot my keys once.",
     georgianAnswer: "დიახ, ერთხელ გასაღებები დამავიწყდა.",
-    page: 113,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "სკოლაში რა არ უნდა გაგეკეთებინა?",
     answer: "I shouldn't have talked during the lesson.",
     georgianAnswer: "გაკვეთილის დროს არ უნდა მელაპარაკა.",
-    page: 113,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რატომ არის გადაწყვეტილების მიღებამდე დაფიქრება მნიშვნელოვანი?",
     answer: "Because it helps us avoid mistakes.",
     georgianAnswer: "რადგან შეცდომების თავიდან აცილებაში გვეხმარება.",
-    page: 114,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ცუდი გადაწყვეტილება მიგიღია?",
     answer: "Yes, but I learned from my mistake.",
     georgianAnswer: "დიახ, მაგრამ ჩემი შეცდომიდან ვისწავლე.",
-    page: 114,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა რჩევას მისცემდი შენს პატარა თავს?",
     answer: "I would tell myself to study harder.",
     georgianAnswer: "ვეტყოდი, რომ უფრო კარგად მესწავლა.",
-    page: 114,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ადამიანებმა ყოველთვის უნდა ისწავლონ თავიანთი შეცდომებიდან?",
     answer: "Yes, mistakes help us become better.",
     georgianAnswer: "დიახ, შეცდომები უკეთეს ადამიანებად გვაქცევს.",
-    page: 114,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რომელია ყველაზე დიდი შეცდომა, რაც ოდესმე დაგიშვია?",
     answer: "My biggest mistake was not preparing enough.",
     georgianAnswer: "ჩემი ყველაზე დიდი შეცდომა არასაკმარისი მომზადება იყო.",
-    page: 115,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ არ უნდა გავიმეოროთ ერთი და იგივე შეცდომები?",
     answer: "Because we should learn from our experience.",
     georgianAnswer: "რადგან გამოცდილებიდან უნდა ვისწავლოთ.",
-    page: 115,
+    
   },
  
     {
@@ -86,7 +86,7 @@ export const questions = [
     georgianQuestion: "ოდესმე მნიშვნელოვანი შესაძლებლობა გაგიშვია ხელიდან?",
     answer: "Yes, I should have accepted it when I had the chance.",
     georgianAnswer: "დიახ, როცა შესაძლებლობა მქონდა, უნდა მიმეღო.",
-    page: 115,
+    
   },
   {
     id: 12,
@@ -94,7 +94,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთონ ადამიანებმა მნიშვნელოვანი გადაწყვეტილების მიღებამდე?",
     answer: "They should think carefully and consider all the options.",
     georgianAnswer: "კარგად უნდა დაფიქრდნენ და ყველა ვარიანტი განიხილონ.",
-    page: 115,
+    
   },
   {
     id: 13,
@@ -102,7 +102,7 @@ export const questions = [
     georgianQuestion: "უნდა ისწავლონ თუ არა ბავშვებმა მშობლების შეცდომებიდან?",
     answer: "Yes, it can help them avoid making the same mistakes.",
     georgianAnswer: "დიახ, ეს მათ იგივე შეცდომების თავიდან აცილებაში დაეხმარება.",
-    page: 115,
+    
   },
   {
     id: 14,
@@ -110,7 +110,7 @@ export const questions = [
     georgianQuestion: "რა რჩევას უგულებელყოფენ ადამიანები ხშირად?",
     answer: "People often ignore advice about saving money and staying healthy.",
     georgianAnswer: "ადამიანები ხშირად უგულებელყოფენ რჩევებს ფულის დაზოგვასა და ჯანმრთელობაზე.",
-    page: 116,
+    
   },
   {
     id: 15,
@@ -118,7 +118,7 @@ export const questions = [
     georgianQuestion: "უნდა მოიხადონ თუ არა ადამიანებმა ბოდიში შეცდომის დაშვების შემდეგ?",
     answer: "Yes, apologizing shows responsibility and respect.",
     georgianAnswer: "დიახ, ბოდიშის მოხდა პასუხისმგებლობასა და პატივისცემას აჩვენებს.",
-    page: 116,
+    
   },
   {
     id: 16,
@@ -126,7 +126,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმეს დაბადების დღე დაგვიწყებია?",
     answer: "Yes, and I should have written it in my calendar.",
     georgianAnswer: "დიახ, კალენდარში უნდა ჩამეწერა.",
-    page: 116,
+    
   },
   {
     id: 17,
@@ -134,7 +134,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთო, თუ დაპირებას დებ?",
     answer: "You should always keep your promise.",
     georgianAnswer: "დაპირება ყოველთვის უნდა შეასრულო.",
-    page: 116,
+    
   },
   {
     id: 18,
@@ -142,7 +142,7 @@ export const questions = [
     georgianQuestion: "რატომ ნანობენ ადამიანები ზოგჯერ თავიანთ გადაწყვეტილებებს?",
     answer: "Because they later realize they made the wrong choice.",
     georgianAnswer: "რადგან მოგვიანებით ხვდებიან, რომ არასწორი არჩევანი გააკეთეს.",
-    page: 116,
+    
   },
   {
     id: 19,
@@ -150,7 +150,7 @@ export const questions = [
     georgianQuestion: "ყოველთვის უნდა თქვა სიმართლე?",
     answer: "Yes, honesty helps people trust each other.",
     georgianAnswer: "დიახ, პატიოსნება ადამიანებს ერთმანეთის ნდობაში ეხმარება.",
-    page: 116,
+    
   },
   {
     id: 20,
@@ -158,6 +158,6 @@ export const questions = [
     georgianQuestion: "რა ისწავლე შენი ყველაზე დიდი შეცდომიდან?",
     answer: "I learned to think carefully before making important decisions.",
     georgianAnswer: "ვისწავლე, რომ მნიშვნელოვანი გადაწყვეტილებების მიღებამდე კარგად უნდა დავფიქრდე.",
-    page: 116,
+    
   },
 ];

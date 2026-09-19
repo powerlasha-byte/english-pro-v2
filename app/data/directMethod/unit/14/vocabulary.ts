@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈbeɪbi sɪt]",
     sentence: "My sister baby-sits for our neighbours every weekend.",
     georgianSentence: "ჩემი და ყოველ შაბათ-კვირას მეზობლების ბავშვებს უვლის.",
-    page: 53,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈbeɪbiˌsɪtə]",
     sentence: "We hired a babysitter for the evening.",
     georgianSentence: "საღამოსთვის ძიძა ავიყვანეთ.",
-    page: 53,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˌəʊ ˈpeə]",
     sentence: "She worked as an au pair in France.",
     georgianSentence: "ის საფრანგეთში au pair-ად მუშაობდა.",
-    page: 53,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[lʊk ˈɑːftə]",
     sentence: "Can you look after my dog tomorrow?",
     georgianSentence: "ხვალ ჩემს ძაღლს მოუვლი?",
-    page: 53,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈmænɪdʒ]",
     sentence: "She manages a large company.",
     georgianSentence: "ის დიდ კომპანიას მართავს.",
-    page: 54,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈmænɪdʒmənt]",
     sentence: "Good management is essential for success.",
     georgianSentence: "კარგი მენეჯმენტი წარმატებისთვის აუცილებელია.",
-    page: 54,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˈfeɪljə]",
     sentence: "Failure teaches valuable lessons.",
     georgianSentence: "წარუმატებლობა მნიშვნელოვან გაკვეთილებს გვასწავლის.",
-    page: 54,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˈnæni]",
     sentence: "The nanny takes care of the children.",
     georgianSentence: "ძიძა ბავშვებზე ზრუნავს.",
-    page: 54,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈnætʃrəl rɪˈzɔːsɪz]",
     sentence: "We should protect natural resources.",
     georgianSentence: "ბუნებრივი რესურსები უნდა დავიცვათ.",
-    page: 54,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈlɪmɪt]",
     sentence: "There is a speed limit on this road.",
     georgianSentence: "ამ გზაზე სიჩქარის შეზღუდვაა.",
-    page: 54,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ʌnˈkɒmən]",
     sentence: "This flower is uncommon in this region.",
     georgianSentence: "ეს ყვავილი ამ რეგიონში იშვიათია.",
-    page: 54,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ɪˈlektrɪk]",
     sentence: "They bought an electric bicycle.",
     georgianSentence: "მათ ელექტრო ველოსიპედი იყიდეს.",
-    page: 55,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ɪˌlekˈtrɪsəti]",
     sentence: "The electricity went off during the storm.",
     georgianSentence: "ქარიშხლის დროს ელექტროენერგია გაითიშა.",
-    page: 55,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[kʌt ɒf]",
     sentence: "The village was cut off by the snow.",
     georgianSentence: "სოფელი თოვლის გამო მოწყდა გარე სამყაროს.",
-    page: 55,
+    
   },
   {
     id: 15,
@@ -132,6 +132,6 @@ export const vocabulary = [
     pronunciation: "[iːl]",
     sentence: "An electric eel can produce electricity.",
     georgianSentence: "ელექტრულ გველთევზას ელექტროენერგიის გამომუშავება შეუძლია.",
-    page: 55,
+    
   },
 ];

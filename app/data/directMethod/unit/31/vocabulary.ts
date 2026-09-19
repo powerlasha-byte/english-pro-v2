@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[dɪsˈɡʌstɪŋ]",
     sentence: "The food smelled disgusting.",
     georgianSentence: "საჭმელს ამაზრზენი სუნი ასდიოდა.",
-    page: 117,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈɡɔːdʒəs]",
     sentence: "She looked gorgeous in her new dress.",
     georgianSentence: "ახალ კაბაში ის ულამაზესად გამოიყურებოდა.",
-    page: 117,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈhænsəm]",
     sentence: "He's a handsome young man.",
     georgianSentence: "ის სიმპათიური ახალგაზრდა მამაკაცია.",
-    page: 117,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[əˈtræktɪv]",
     sentence: "She's very attractive.",
     georgianSentence: "ის ძალიან მიმზიდველია.",
-    page: 117,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˌɡʊd ˈlʊkɪŋ]",
     sentence: "He's a good-looking actor.",
     georgianSentence: "ის კარგი გარეგნობის მსახიობია.",
-    page: 117,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈpredʒədɪs]",
     sentence: "We shouldn't judge people with prejudice.",
     georgianSentence: "ადამიანები ცრურწმენით არ უნდა შევაფასოთ.",
-    page: 118,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˌmɪsʌndəˈstændɪŋ]",
     sentence: "It was only a misunderstanding.",
     georgianSentence: "ეს უბრალოდ გაუგებრობა იყო.",
-    page: 118,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈkʌrɪdʒ]",
     sentence: "Teachers encourage students to ask questions.",
     georgianSentence: "მასწავლებლები მოსწავლეებს კითხვების დასმას ახალისებენ.",
-    page: 118,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[mɒθ]",
     sentence: "A moth flew around the light.",
     georgianSentence: "ჩრჩილი ნათურის გარშემო დაფრინავდა.",
-    page: 118,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[rəʊl]",
     sentence: "The ball rolled down the hill.",
     georgianSentence: "ბურთი გორაკიდან დაგორდა.",
-    page: 118,
+    
   },
 
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "[ɪmˈpreʃən]",
     sentence: "She made a great first impression.",
     georgianSentence: "მან შესანიშნავი პირველი შთაბეჭდილება მოახდინა.",
-    page: 119,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "[ˌpɜːsəˈnæləti]",
     sentence: "She has a friendly personality.",
     georgianSentence: "მას მეგობრული ხასიათი აქვს.",
-    page: 119,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "[ˈkærəktə]",
     sentence: "Good character is more important than appearance.",
     georgianSentence: "კარგი ხასიათი გარეგნობაზე მნიშვნელოვანია.",
-    page: 119,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "[əˈpɪərəns]",
     sentence: "You shouldn't judge people by their appearance.",
     georgianSentence: "ადამიანები გარეგნობით არ უნდა შეაფასო.",
-    page: 119,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "[ˈkɒnfɪdənt]",
     sentence: "She's confident when speaking in public.",
     georgianSentence: "საჯაროდ საუბრისას ის თავდაჯერებულია.",
-    page: 120,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "[ˈkaɪndnəs]",
     sentence: "Kindness costs nothing.",
     georgianSentence: "სიკეთე არაფერს ღირს.",
-    page: 120,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈspekt]",
     sentence: "Children should respect their parents.",
     georgianSentence: "ბავშვებმა მშობლებს პატივი უნდა სცენ.",
-    page: 120,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "[ˈɒnɪst]",
     sentence: "He's an honest person.",
     georgianSentence: "ის პატიოსანი ადამიანია.",
-    page: 120,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "[ˈwiːknəs]",
     sentence: "Everyone has strengths and weaknesses.",
     georgianSentence: "ყველას აქვს ძლიერი და სუსტი მხარეები.",
-    page: 120,
+    
   },
   {
     id: 20,
@@ -178,6 +178,6 @@ export const vocabulary = [
     pronunciation: "[streŋθ]",
     sentence: "Patience is one of her greatest strengths.",
     georgianSentence: "მოთმინება მისი ერთ-ერთი ყველაზე ძლიერი მხარეა.",
-    page: 120,
+    
   },
 ];

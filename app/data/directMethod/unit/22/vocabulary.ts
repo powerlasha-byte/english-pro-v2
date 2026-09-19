@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈdʒenərəs]",
     sentence: "She is always generous with her time.",
     georgianSentence: "ის ყოველთვის გულუხვია თავისი დროით.",
-    page: 85,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈselfɪʃ]",
     sentence: "A selfish person thinks only about themselves.",
     georgianSentence: "ეგოისტი ადამიანი მხოლოდ საკუთარ თავზე ფიქრობს.",
-    page: 85,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ɡɪft]",
     sentence: "Thank you for the wonderful gift.",
     georgianSentence: "მადლობა შესანიშნავი საჩუქრისთვის.",
-    page: 85,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[əkˈsept]",
     sentence: "She accepted my invitation.",
     georgianSentence: "მან ჩემი მოწვევა მიიღო.",
-    page: 85,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[dəʊnt lʊk ə ɡɪft hɔːs ɪn ðə maʊθ]",
     sentence: "Just accept it—don't look a gift horse in the mouth.",
     georgianSentence: "უბრალოდ მიიღე — ნაჩუქარ ცხენს კბილებში არ უყურებენ.",
-    page: 85,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈmɪdnaɪt]",
     sentence: "The party ended after midnight.",
     georgianSentence: "წვეულება შუაღამის შემდეგ დასრულდა.",
-    page: 85,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[trəˈdɪʃən]",
     sentence: "This tradition is over a hundred years old.",
     georgianSentence: "ეს ტრადიცია ას წელზე მეტისაა.",
-    page: 85,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[trəˈdɪʃənəl]",
     sentence: "We ate traditional food.",
     georgianSentence: "ჩვენ ტრადიციული საჭმელი მივირთვით.",
-    page: 85,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ʃæmˈpeɪn]",
     sentence: "They opened a bottle of champagne.",
     georgianSentence: "მათ შამპანურის ბოთლი გახსნეს.",
-    page: 85,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˌnjuː jɪəz ˈiːv]",
     sentence: "We celebrate together on New Year's Eve.",
     georgianSentence: "ჩვენ ახალი წლის ღამეს ერთად აღვნიშნავთ.",
-    page: 85,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈklaɪn]",
     sentence: "Sales began to decline last month.",
     georgianSentence: "გაყიდვებმა გასულ თვეს კლება დაიწყო.",
-    page: 85,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[lʌk]",
     sentence: "Good luck with your exam!",
     georgianSentence: "წარმატებებს გისურვებ გამოცდაზე!",
-    page: 86,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈlʌki]",
     sentence: "You're lucky to have such good friends.",
     georgianSentence: "იღბლიანი ხარ, რომ ასეთი კარგი მეგობრები გყავს.",
-    page: 86,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ˈlædə]",
     sentence: "He climbed the ladder carefully.",
     georgianSentence: "ის ფრთხილად ავიდა კიბეზე.",
-    page: 86,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˌsuːpəˈstɪʃən]",
     sentence: "Some people believe in old superstitions.",
     georgianSentence: "ზოგ ადამიანს ძველი ცრურწმენების სჯერა.",
-    page: 86,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ˌsuːpəˈstɪʃəs]",
     sentence: "She is very superstitious.",
     georgianSentence: "ის ძალიან ცრუმორწმუნეა.",
-    page: 86,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[spæm]",
     sentence: "I delete spam every morning.",
     georgianSentence: "ყოველ დილით სპამს ვშლი.",
-    page: 87,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˈɪnbɒks]",
     sentence: "My inbox is full of emails.",
     georgianSentence: "ჩემი შემოსული წერილები სავსეა.",
-    page: 87,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈliːt]",
     sentence: "Delete the message if you don't need it.",
     georgianSentence: "თუ არ გჭირდება, შეტყობინება წაშალე.",
-    page: 87,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "[ˈmenʃən]",
     sentence: "She mentioned your name during the meeting.",
     georgianSentence: "მან შეხვედრის დროს შენი სახელი ახსენა.",
-    page: 87,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "[əˈmʌŋ ˈʌðə θɪŋz]",
     sentence: "We talked about work, travel, and, among other things, our future plans.",
     georgianSentence: "ვისაუბრეთ სამუშაოზე, მოგზაურობაზე და, სხვა საკითხებთან ერთად, ჩვენს სამომავლო გეგმებზეც.",
-    page: 87,
+    
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ export const vocabulary = [
     pronunciation: "[kəˈmjuːnɪkeɪt]",
     sentence: "It's important to communicate clearly.",
     georgianSentence: "მნიშვნელოვანია, რომ მკაფიოდ იკომუნიკაციო.",
-    page: 87,
+    
   },
   {
     id: 23,
@@ -204,6 +204,6 @@ export const vocabulary = [
     pronunciation: "[kəˌmjuːnɪˈkeɪʃən]",
     sentence: "Good communication improves teamwork.",
     georgianSentence: "კარგი კომუნიკაცია გუნდურ მუშაობას აუმჯობესებს.",
-    page: 87,
+    
   },
 ];

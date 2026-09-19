@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ჰოსტელში დაგრჩენია?",
     answer: "Yes, I have. It was clean and inexpensive.",
     georgianAnswer: "დიახ, დავრჩენილვარ. სუფთა და იაფი იყო.",
-    page: 101,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "შოპინგის დროს ჩვეულებრივ ფასდაკლებებს ეძებ?",
     answer: "Yes, I always try to find good discounts.",
     georgianAnswer: "დიახ, ყოველთვის ვცდილობ კარგი ფასდაკლებები ვიპოვო.",
-    page: 101,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ადამიანს მოწიფულს?",
     answer: "Experience and responsibility make a person mature.",
     georgianAnswer: "გამოცდილება და პასუხისმგებლობა ადამიანს მოწიფულს ხდის.",
-    page: 101,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმესთვის შეტყობინება დაგიტოვებია?",
     answer: "Yes, I often leave messages for my friends.",
     georgianAnswer: "დიახ, მეგობრებისთვის ხშირად ვტოვებ შეტყობინებებს.",
-    page: 102,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რას ელოდები კარგი მასწავლებლისგან?",
     answer: "I expect a good teacher to be patient and helpful.",
     georgianAnswer: "კარგი მასწავლებლისგან მოთმინებასა და დახმარებას ველოდები.",
-    page: 102,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ოდესმე შეძელი ისეთი რამის გაკეთება, რაც რთული იყო?",
     answer: "Yes, I was able to solve a difficult problem.",
     georgianAnswer: "დიახ, რთული პრობლემის გადაჭრა შევძელი.",
-    page: 103,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ვინ არის ყველაზე მამაცი ადამიანი, რომელსაც იცნობ?",
     answer: "I think my father is the bravest person I know.",
     georgianAnswer: "ვფიქრობ, მამაჩემი ყველაზე მამაცი ადამიანია, ვისაც ვიცნობ.",
-    page: 103,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რა შესაძლებლობების ქონა გინდა მომავალში?",
     answer: "I'd like to have the opportunity to work abroad.",
     georgianAnswer: "მსურს მქონდეს საზღვარგარეთ მუშაობის შესაძლებლობა.",
-    page: 103,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ ვინ გამოგივლის აეროპორტიდან ან სადგურიდან?",
     answer: "A member of my family usually picks me up.",
     georgianAnswer: "ჩემი ოჯახის წევრი ჩვეულებრივ გამომივლის.",
-    page: 104,
+    
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const questions = [
     georgianQuestion: "ოდესმე გქონია ცხოვრებაში შესანიშნავი შესაძლებლობა?",
     answer: "Yes, studying English has given me many opportunities.",
     georgianAnswer: "დიახ, ინგლისურის სწავლამ ბევრი შესაძლებლობა მომცა.",
-    page: 104,
+    
   },
 ];

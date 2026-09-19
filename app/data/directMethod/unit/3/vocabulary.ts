@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/ˈtraɪəl/",
     sentence: "Learning by trial and error takes time.",
     georgianSentence: "ცდისა და შეცდომის გზით სწავლას დრო სჭირდება.",
-    page: 9,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˌtraɪəl ən ˈerə(r)/",
     sentence: "I learned to use the software by trial and error.",
     georgianSentence: "პროგრამის გამოყენება ცდისა და შეცდომის მეთოდით ვისწავლე.",
-    page: 9,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒmplɪkeɪtɪd/",
     sentence: "This is a complicated problem.",
     georgianSentence: "ეს რთული პრობლემაა.",
-    page: 9,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈmænjuəl/",
     sentence: "Read the manual before using the machine.",
     georgianSentence: "აპარატის გამოყენებამდე ინსტრუქცია წაიკითხე.",
-    page: 9,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ɡraʊnd/",
     sentence: "The children sat on the ground.",
     georgianSentence: "ბავშვები მიწაზე ისხდნენ.",
-    page: 9,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/rɒk/",
     sentence: "The mountain is made of rock.",
     georgianSentence: "მთა კლდისგან შედგება.",
-    page: 9,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/sɔɪl/",
     sentence: "Plants grow in good soil.",
     georgianSentence: "მცენარეები კარგ ნიადაგში იზრდებიან.",
-    page: 9,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/ˈfɜːtaɪl/",
     sentence: "This region has fertile land.",
     georgianSentence: "ამ რეგიონს ნაყოფიერი მიწა აქვს.",
-    page: 9,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/set fʊt/",
     sentence: "He set foot on American soil in 1493.",
     georgianSentence: "მან 1493 წელს ამერიკის მიწაზე ფეხი დადგა.",
-    page: 10,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/pəˈtɪkjələli/",
     sentence: "This area is particularly fertile.",
     georgianSentence: "ეს ტერიტორია განსაკუთრებით ნაყოფიერია.",
-    page: 10,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/ˈlevəl/",
     sentence: "The water level is rising.",
     georgianSentence: "წყლის დონე იმატებს.",
-    page: 10,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/ˈkeɪbl/",
     sentence: "The cable runs underground.",
     georgianSentence: "კაბელი მიწის ქვეშ გადის.",
-    page: 10,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/ˌkeɪbl ˌtiː ˈviː/",
     sentence: "My grandparents still use cable TV.",
     georgianSentence: "ბებია და ბაბუა ისევ საკაბელო ტელევიზიას იყენებენ.",
-    page: 10,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/ˈsætəlaɪt ˌtiː ˈviː/",
     sentence: "Satellite TV offers many channels.",
     georgianSentence: "სატელიტური ტელევიზია ბევრ არხს გვთავაზობს.",
-    page: 10,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/ˈtʃænəl/",
     sentence: "What's your favorite TV channel?",
     georgianSentence: "რომელია შენი საყვარელი ტელეარხი?",
-    page: 10,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/ˌeɪtʃ ˈdiː/",
     sentence: "This movie is available in HD.",
     georgianSentence: "ეს ფილმი HD ხარისხშია ხელმისაწვდომი.",
-    page: 10,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/ˌhaɪ defɪˈnɪʃn/",
     sentence: "High definition provides a clearer picture.",
     georgianSentence: "მაღალი გარჩევადობა უფრო მკაფიო გამოსახულებას იძლევა.",
-    page: 10,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈpɔːt/",
     sentence: "The newspaper reported the accident.",
     georgianSentence: "გაზეთმა ავარიის შესახებ გაავრცელა ინფორმაცია.",
-    page: 11,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈpɔːtɪd spiːtʃ/",
     sentence: "Reported speech changes the tense.",
     georgianSentence: "ირიბ ნათქვამში დრო ხშირად იცვლება.",
-    page: 11,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "/dəˈrekt spiːtʃ/",
     sentence: "Direct speech uses quotation marks.",
     georgianSentence: "პირდაპირ ნათქვამში ბრჭყალები გამოიყენება.",
-    page: 11,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "/ɪnˈvɜːtɪd ˈkɒməz/",
     sentence: "Put the sentence in inverted commas.",
     georgianSentence: "წინადადება ბრჭყალებში ჩასვი.",
-    page: 11,
+    
   },
   {
     id: 22,
@@ -195,6 +195,6 @@ export const vocabulary = [
     pronunciation: "/ðen/",
     sentence: "He was living in London then.",
     georgianSentence: "ის მაშინ ლონდონში ცხოვრობდა.",
-    page: 11,
+    
   },
 ];

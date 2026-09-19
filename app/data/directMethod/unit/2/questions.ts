@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "სად უნდა წავიდე, თუ იურიდიული რჩევა მჭირდება?",
     answer: "You have to go to a lawyer if you need legal advice.",
     georgianAnswer: "თუ იურიდიული რჩევა გჭირდება, ადვოკატთან უნდა მიხვიდე.",
-    page: 2,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "იღებენ თუ არა მთავრობები სამართლებრივ ზომებს იმ ადამიანების წინააღმდეგ, რომლებიც გადასახადების გადახდაზე უარს ამბობენ?",
     answer: "Yes, governments take legal action against people who refuse to pay taxes.",
     georgianAnswer: "დიახ, მთავრობები სამართლებრივ ზომებს იღებენ იმ ადამიანების წინააღმდეგ, რომლებიც გადასახადების გადახდაზე უარს ამბობენ.",
-    page: 2,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ვინ იღებს სამართლებრივ გადაწყვეტილებებს სასამართლოში?",
     answer: "A judge makes legal decisions in a court of law.",
     georgianAnswer: "სამართლებრივ გადაწყვეტილებებს სასამართლოში მოსამართლე იღებს.",
-    page: 2,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "იქნებოდა თუ არა სამართლიანი, მოსამართლეს მტკიცებულებების გარეშე რომ გადაეწყვიტა ადამიანი დამნაშავეა თუ არა?",
     answer: "No, it wouldn't be fair. It would also be illegal.",
     georgianAnswer: "არა, ეს სამართლიანი არ იქნებოდა. ეს უკანონოც იქნებოდა.",
-    page: 2,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "აქვს თუ არა ყველას სამართლიანი სასამართლოს უფლება?",
     answer: "Yes, all people have the right to a fair trial.",
     georgianAnswer: "დიახ, ყველას აქვს სამართლიანი სასამართლოს უფლება.",
-    page: 2,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "სამართლიანია თუ არა, რომ ადამიანმა სასამართლომდე გარკვეული დრო ციხეში გაატაროს?",
     answer: "Yes, it's fair that a person has to spend some time in prison before their trial.",
     georgianAnswer: "დიახ, ზოგჯერ სამართლიანია, რომ ადამიანმა სასამართლომდე გარკვეული დრო ციხეში გაატაროს.",
-    page: 2,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "შესაძლებელია თუ არა დღეს წარმოებული საკვებით ყველა მშიერის გამოკვება?",
     answer: "Yes, it's possible to feed all the hungry with the amount of food produced today.",
     georgianAnswer: "დიახ, შესაძლებელია დღეს წარმოებული საკვებით ყველა მშიერის გამოკვება.",
-    page: 2,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რომელი ცხოველები არ კვებავენ თავიანთ ნაშიერებს?",
     answer: "Some birds, crocodiles, frogs, and fish don't feed their young.",
     georgianAnswer: "ზოგი ფრინველი, ნიანგი, ბაყაყი და თევზი არ კვებავს თავის ნაშიერს.",
-    page: 2,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რით კვებავენ ძაღლებს?",
     answer: "Dogs are fed bones and meat.",
     georgianAnswer: "ძაღლებს ძვლებითა და ხორცით კვებავენ.",
-    page: 2,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია თუ არა 500 დოლარით თვეში დიდი ოჯახის გამოკვება?",
     answer: "Yes, you can feed a large family on $500 a month.",
     georgianAnswer: "დიახ, შესაძლებელია 500 დოლარით თვეში დიდი ოჯახის გამოკვება.",
-    page: 2,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რომელ ნივთებს სჭირდებათ ხშირად განახლება?",
     answer: "Computers and software often need to be upgraded.",
     georgianAnswer: "კომპიუტერებსა და პროგრამებს ხშირად სჭირდებათ განახლება.",
-    page: 2,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რატომ ანახლებენ კომპიუტერებს?",
     answer: "Computers are upgraded in order to make them more efficient.",
     georgianAnswer: "კომპიუტერებს უფრო ეფექტურობისთვის ანახლებენ.",
-    page: 2,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "თუ კომპიუტერი ძალიან ნელა მუშაობს, რისი განახლება დაგჭირდება?",
     answer: "I'd probably need to upgrade the hard drive or the memory.",
     georgianAnswer: "ალბათ მყარი დისკის ან მეხსიერების განახლება დამჭირდება.",
-    page: 2,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რამდენად ხშირად ანახლებ ანტივირუსს?",
     answer: "I upgrade my antivirus software once a year.",
     georgianAnswer: "ანტივირუსს წელიწადში ერთხელ ვაახლებ.",
-    page: 2,
+    
   },
 
     {
@@ -118,7 +118,7 @@ export const questions = [
     georgianQuestion: "გსმენია ვინმეზე, ვინც თვითმფრინავის ჩამოვარდენას გადაურჩა?",
     answer: "Yes, I've heard about someone who survived a plane crash.",
     georgianAnswer: "დიახ, მსმენია ვინმეზე, ვინც თვითმფრინავის ჩამოვარდენას გადაურჩა.",
-    page: 2,
+    
   },
   {
     id: 16,
@@ -126,7 +126,7 @@ export const questions = [
     georgianQuestion: "რომელმა ევროპულმა ქვეყნებმა ძლივს გადაიტანეს 2008 წლის ეკონომიკური კრიზისი?",
     answer: "Ireland, Iceland and Greece have hardly survived the economic crisis of 2008.",
     georgianAnswer: "ირლანდიამ, ისლანდიამ და საბერძნეთმა ძლივს გადაიტანეს 2008 წლის ეკონომიკური კრიზისი.",
-    page: 2,
+    
   },
   {
     id: 17,
@@ -134,7 +134,7 @@ export const questions = [
     georgianQuestion: "რა დაგჭირდებოდა გადარჩენისთვის, რობინზონ კრუზოს მსგავსად უკაცრიელ კუნძულზე რომ აღმოჩენილიყავი?",
     answer: "I would need tools to survive if I were shipwrecked on a desert island like Robinson Crusoe.",
     georgianAnswer: "უკაცრიელ კუნძულზე რომ მოვხვედრილიყავი, გადასარჩენად ხელსაწყოები დამჭირდებოდა.",
-    page: 2,
+    
   },
   {
     id: 18,
@@ -142,7 +142,7 @@ export const questions = [
     georgianQuestion: "როგორ ცდილობდა ტომ ჰენქსის პერსონაჟი ფილმში 'Cast Away' უკაცრიელ კუნძულზე გადარჩენას?",
     answer: "He tried to survive by using things and tools he found in the crashed plane.",
     georgianAnswer: "ის ცდილობდა გადარჩენას ჩამოვარდნილ თვითმფრინავში ნაპოვნი ნივთებისა და ხელსაწყოების გამოყენებით.",
-    page: 2,
+    
   },
   {
     id: 19,
@@ -150,7 +150,7 @@ export const questions = [
     georgianQuestion: "როგორ ეხმარებიან ადამიანები ცხოველებს ზამთრის გადატანაში?",
     answer: "People help animals to survive winter by feeding them.",
     georgianAnswer: "ადამიანები ცხოველებს ზამთრის გადატანაში მათი გამოკვებით ეხმარებიან.",
-    page: 2,
+    
   },
   {
     id: 20,
@@ -158,7 +158,7 @@ export const questions = [
     georgianQuestion: "რით იკვებებოდა ფილმის 'Supersize Me' მთავარი პერსონაჟი?",
     answer: "The main character of 'Supersize Me' was fed on hamburgers and chips.",
     georgianAnswer: "'Supersize Me'-ის მთავარი პერსონაჟი ჰამბურგერებითა და კარტოფილი ფრისით იკვებებოდა.",
-    page: 2,
+    
   },
   {
     id: 21,
@@ -166,7 +166,7 @@ export const questions = [
     georgianQuestion: "რას ვიყენებთ ტანსაცმლის გასაუთოებლად?",
     answer: "We use a steam iron for ironing clothes.",
     georgianAnswer: "ტანსაცმლის გასაუთოებლად ორთქლის უთოს ვიყენებთ.",
-    page: 2,
+    
   },
   {
     id: 22,
@@ -174,7 +174,7 @@ export const questions = [
     georgianQuestion: "გაგიხარდებოდა შვიდი პერანგის გაუთოება რომ მოგიწიოს?",
     answer: "Yes, I'd be glad if I had to iron seven shirts.",
     georgianAnswer: "დიახ, გამიხარდებოდა, შვიდი პერანგის გაუთოება რომ მომიწიოს.",
-    page: 2,
+    
   },
   {
     id: 23,
@@ -182,7 +182,7 @@ export const questions = [
     georgianQuestion: "გამოიცანი, პირველად როდის შეიქმნა უთო?",
     answer: "The iron was first developed in Greece in the 4th century BC.",
     georgianAnswer: "უთო პირველად საბერძნეთში, ჩვენს წელთაღრიცხვამდე IV საუკუნეში შეიქმნა.",
-    page: 2,
+    
   },
   {
     id: 24,
@@ -190,7 +190,7 @@ export const questions = [
     georgianQuestion: "რას იფიქრებდი ადამიანზე, რომელიც წინდებს აუთოებს?",
     answer: "I'd think they were eccentric.",
     georgianAnswer: "ვიფიქრებდი, რომ ის ექსცენტრული ადამიანია.",
-    page: 2,
+    
   },
   {
     id: 25,
@@ -198,7 +198,7 @@ export const questions = [
     georgianQuestion: "ცოტა ექსცენტრული ხომ არ იქნებოდა ცუდად გაუთოებული ვარდისფერი პერანგითა და მოკლე ყვითელი ქვედაბოლოთი აქ მოსვლა?",
     answer: "Yes, I guess it would be very eccentric.",
     georgianAnswer: "დიახ, ვფიქრობ, ძალიან ექსცენტრული იქნებოდა.",
-    page: 2,
+    
   },
   {
     id: 26,
@@ -206,7 +206,7 @@ export const questions = [
     georgianQuestion: "შენი აზრით, რომელი მომღერალია ყველაზე ექსცენტრული ჩაცმის სტილით ცნობილი?",
     answer: "Lady Gaga is known for the most eccentric fashion style.",
     georgianAnswer: "ლედი გაგა ყველაზე ექსცენტრული ჩაცმის სტილით არის ცნობილი.",
-    page: 2,
+    
   },
   {
     id: 27,
@@ -214,7 +214,7 @@ export const questions = [
     georgianQuestion: "რას გვირჩევენ ექიმები, თუ გვინდა ჯანმრთელები ვიყოთ?",
     answer: "Doctors usually advise us to eat healthy food if we want to be healthy.",
     georgianAnswer: "ექიმები ჩვეულებრივ გვირჩევენ ჯანსაღი საკვების მიღებას, თუ გვინდა ჯანმრთელები ვიყოთ.",
-    page: 2,
+    
   },
   {
     id: 28,
@@ -222,7 +222,7 @@ export const questions = [
     georgianQuestion: "ვის მიმართავენ ადამიანები, როდესაც რჩევა სჭირდებათ?",
     answer: "People usually turn to their parents or friends when they need advice.",
     georgianAnswer: "ადამიანები ჩვეულებრივ მშობლებს ან მეგობრებს მიმართავენ, როდესაც რჩევა სჭირდებათ.",
-    page: 2,
+    
   },
   {
     id: 29,
@@ -230,7 +230,7 @@ export const questions = [
     georgianQuestion: "იცავენ თუ არა მწეველები სიგარეტის კოლოფებზე დაწერილ გაფრთხილებებს?",
     answer: "No, smokers don't usually follow the advice printed on packets of cigarettes.",
     georgianAnswer: "არა, მწეველები ჩვეულებრივ არ იცავენ სიგარეტის კოლოფებზე დაწერილ გაფრთხილებებს.",
-    page: 2,
+    
   },
   {
     id: 30,
@@ -238,7 +238,7 @@ export const questions = [
     georgianQuestion: "როდის ურჩევს პოლიცია ადამიანებს სახლში დარჩენას?",
     answer: "The police advise people to stay at home when there's a dangerous criminal outside.",
     georgianAnswer: "პოლიცია ადამიანებს სახლში დარჩენას ურჩევს, როდესაც გარეთ საშიში დამნაშავეა.",
-    page: 2,
+    
   },
   
   {
@@ -247,7 +247,7 @@ export const questions = [
     georgianQuestion: "იცავდი თუ არა მშობლების რჩევებს, როცა პატარა იყავი?",
     answer: "Yes, I followed my parents' advice when I was younger.",
     georgianAnswer: "დიახ, პატარა რომ ვიყავი, მშობლების რჩევებს ვიცავდი.",
-    page: 2,
+    
   },
   {
     id: 32,
@@ -255,7 +255,7 @@ export const questions = [
     georgianQuestion: "რას მირჩევდი, თუ ესპანურის სწავლა მინდოდეს?",
     answer: "I'd advise you to go to Spain if you wanted to learn Spanish.",
     georgianAnswer: "გირჩევდი, ესპანეთში წასულიყავი, თუ ესპანურის სწავლა გინდა.",
-    page: 2,
+    
   },
   {
     id: 33,
@@ -263,7 +263,7 @@ export const questions = [
     georgianQuestion: "რატომ უყვართ ბავშვებს საბავშვო ბაღში სიარული?",
     answer: "Children like going to kindergarten because they can play with other children there.",
     georgianAnswer: "ბავშვებს საბავშვო ბაღში სიარული უყვართ, რადგან იქ სხვა ბავშვებთან თამაშობენ.",
-    page: 2,
+    
   },
   {
     id: 34,
@@ -271,7 +271,7 @@ export const questions = [
     georgianQuestion: "რას სწავლობენ ბავშვები საბავშვო ბაღში?",
     answer: "Children often learn how to write their first letters or how to read in kindergarten.",
     georgianAnswer: "ბავშვები საბავშვო ბაღში ხშირად სწავლობენ პირველი ასოების წერას და კითხვას.",
-    page: 2,
+    
   },
 ];
 

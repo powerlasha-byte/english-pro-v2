@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/fɪə(r)/",
     sentence: "People can have a fear of flying.",
     georgianSentence: "ადამიანებს შეიძლება ფრენის შიში ჰქონდეთ.",
-    page: 1,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/skeə(r)/",
     sentence: "Yes, I scare easily.",
     georgianSentence: "დიახ, ადვილად ვშინდები.",
-    page: 1,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒfɪn/",
     sentence: "It would be scary to wake up in a coffin.",
     georgianSentence: "საშიში იქნებოდა კუბოში გაღვიძება.",
-    page: 1,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ɪnˈvent/",
     sentence: "Who invented the toothbrush?",
     georgianSentence: "ვინ გამოიგონა კბილის ჯაგრისი?",
-    page: 1,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ɪnˈvenʃən/",
     sentence: "The Internet is a useful invention.",
     georgianSentence: "ინტერნეტი სასარგებლო გამოგონებაა.",
-    page: 1,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ɪnˈventə(r)/",
     sentence: "Thomas Edison was the inventor of the light bulb.",
     georgianSentence: "თომას ედისონი ნათურის გამომგონებელი იყო.",
-    page: 1,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/laɪt bʌlb/",
     sentence: "The light bulb changed the world.",
     georgianSentence: "ნათურამ მსოფლიო შეცვალა.",
-    page: 1,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/ˈjuːsfəl/",
     sentence: "The Internet is very useful.",
     georgianSentence: "ინტერნეტი ძალიან სასარგებლოა.",
-    page: 1,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈnæpi/",
     sentence: "Babies wear nappies.",
     georgianSentence: "ჩვილებს საფენები აცვიათ.",
-    page: 2,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/krɔːl/",
     sentence: "Babies crawl before they walk.",
     georgianSentence: "ჩვილები სიარულამდე ხოხავენ.",
-    page: 2,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/klɒθ/",
     sentence: "These nappies are made of cloth.",
     georgianSentence: "ეს საფენები ქსოვილისგან არის დამზადებული.",
-    page: 2,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/ˈrʌbə(r)/",
     sentence: "Rubber gloves are disposable.",
     georgianSentence: "რეზინის ხელთათმანები ერთჯერადია.",
-    page: 2,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/ˈtreɪnɪŋ wiːlz/",
     sentence: "I learnt with training wheels.",
     georgianSentence: "დამხმარე ბორბლებით ვისწავლე.",
-    page: 2,
+    
   },
   {
     id: 14,
@@ -123,6 +123,6 @@ export const vocabulary = [
     pronunciation: "/dɪˈspəʊzəbl/",
     sentence: "Disposable nappies are popular.",
     georgianSentence: "ერთჯერადი საფენები პოპულარულია.",
-    page: 2,
+    
   },
 ];

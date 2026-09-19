@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "როდესაც ბნელ ოთახში შედიხარ, მაშინვე ხედავ ყველა საგანს? რატომ არა?",
     answer: "No, because my eyes need time to get accustomed to the dark.",
     georgianAnswer: "არა, რადგან ჩემს თვალებს სიბნელესთან შეგუებისთვის დრო სჭირდება.",
-    page: 73,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "შეძლებდი პოლარულ ღამეს შეგუებოდი?",
     answer: "I don't think I could get accustomed to it.",
     georgianAnswer: "არ მგონია, რომ ამას შევეგუო.",
-    page: 73,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რას გააკეთებდი, თუ უძილობა დაგემართებოდა?",
     answer: "I'd read a book or listen to relaxing music.",
     georgianAnswer: "წიგნს წავიკითხავდი ან დამამშვიდებელ მუსიკას მოვუსმენდი.",
-    page: 73,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "აღწერე შენი უბანი.",
     answer: "My neighbourhood is quiet, clean and safe.",
     georgianAnswer: "ჩემი უბანი მშვიდი, სუფთა და უსაფრთხოა.",
-    page: 74,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "თავს უსაფრთხოდ გრძნობ შენს უბანში?",
     answer: "Yes, I feel very safe where I live.",
     georgianAnswer: "დიახ, იქ სადაც ვცხოვრობ თავს ძალიან უსაფრთხოდ ვგრძნობ.",
-    page: 74,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ აწყობენ ადამიანები სამეზობლოს დაცვის პროგრამებს?",
     answer: "To protect their homes from crime.",
     georgianAnswer: "იმისთვის, რომ თავიანთი სახლები დანაშაულისგან დაიცვან.",
-    page: 74,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ვინ უვლის შენს სახლს, როცა შვებულებაში ხარ?",
     answer: "A family member watches over my house.",
     georgianAnswer: "ჩემს სახლს ოჯახის წევრი უვლის.",
-    page: 74,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რომელი ცხოველები არიან საუკეთესოები სახლის დასაცავად?",
     answer: "Dogs are the best for watching over houses.",
     georgianAnswer: "სახლის დასაცავად ძაღლები საუკეთესოები არიან.",
-    page: 74,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რატომ უნდა ატარონ ადამიანებმა ჩაფხუტი ველოსიპედის ტარებისას?",
     answer: "Because it protects them from serious injuries.",
     georgianAnswer: "რადგან ის სერიოზული დაზიანებებისგან იცავს.",
-    page: 74,
+    
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const questions = [
     georgianQuestion: "რატომ მუშაობენ ადამიანები?",
     answer: "Because otherwise they wouldn't have enough money to live.",
     georgianAnswer: "რადგან წინააღმდეგ შემთხვევაში საცხოვრებლად საკმარისი ფული არ ექნებოდათ.",
-    page: 74,
+    
   },
 ];

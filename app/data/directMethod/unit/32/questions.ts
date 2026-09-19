@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რისი გაკეთება არ შეიძლება ბიბლიოთეკაში?",
     answer: "People mustn't talk loudly or disturb others.",
     georgianAnswer: "ადამიანებმა ხმამაღლა არ უნდა ილაპარაკონ და სხვები არ უნდა შეაწუხონ.",
-    page: 121,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "სამსახურში ან სკოლაში ფორმის ტარება გიწევს?",
     answer: "Yes, I do. It is part of the rules.",
     georgianAnswer: "დიახ. ეს წესების ნაწილია.",
-    page: 121,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "შაბათ-კვირას რის გაკეთება არ გიწევს?",
     answer: "I don't have to wake up early.",
     georgianAnswer: "ადრე გაღვიძება არ მიწევს.",
-    page: 121,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რისი გაკეთება არ შეიძლება ბავშვებისთვის სკოლაში?",
     answer: "They mustn't cheat or fight.",
     georgianAnswer: "არ უნდა მოიტყუონ და არ უნდა იჩხუბონ.",
-    page: 121,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ყოველთვის გიწევს საგზაო წესების დაცვა?",
     answer: "Yes, because they keep everyone safe.",
     georgianAnswer: "დიახ, რადგან ისინი ყველას უსაფრთხოებას იცავს.",
-    page: 122,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "დასვენებაზე რის წაღება არ არის აუცილებელი?",
     answer: "I needn't take heavy clothes in summer.",
     georgianAnswer: "ზაფხულში მძიმე ტანსაცმლის წაღება საჭირო არ არის.",
-    page: 122,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რატომ არ შეიძლება მანქანის მართვისას ტელეფონის გამოყენება?",
     answer: "Because it is dangerous.",
     georgianAnswer: "რადგან ეს საშიშია.",
-    page: 122,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "სახლის რომელი საქმეების გაკეთება არ გიწევს?",
     answer: "I don't have to cook every day.",
     georgianAnswer: "ყოველდღე საჭმლის მომზადება არ მიწევს.",
-    page: 122,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა წესები უნდა დაიცვან მუზეუმის სტუმრებმა?",
     answer: "They mustn't touch the exhibits.",
     georgianAnswer: "ექსპონატებს არ უნდა შეეხონ.",
-    page: 123,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "მნიშვნელოვანია წესების დაცვა? რატომ?",
     answer: "Yes, because rules help people live safely and peacefully.",
     georgianAnswer: "დიახ, რადგან წესები ადამიანებს უსაფრთხოდ და მშვიდობიანად ცხოვრებაში ეხმარება.",
-    page: 123,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რისი გაკეთება არ შეიძლება მგზავრებისთვის თვითმფრინავში?",
     answer: "Passengers mustn't smoke or ignore the safety instructions.",
     georgianAnswer: "მგზავრებმა არ უნდა მოწიონ და არ უნდა დააიგნორონ უსაფრთხოების ინსტრუქციები.",
-    page: 123,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "მანქანაში უსაფრთხოების ღვედის გაკეთება გიწევს?",
     answer: "Yes, everyone has to wear a seat belt.",
     georgianAnswer: "დიახ, ყველამ უნდა გაიკეთოს უსაფრთხოების ღვედი.",
-    page: 123,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "არდადეგებზე რის გაკეთება არ გიწევს?",
     answer: "I don't have to get up early or go to work.",
     georgianAnswer: "ადრე ადგომა და სამსახურში წასვლა არ მიწევს.",
-    page: 123,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რატომ არ უნდა დაანაგვიანონ ადამიანებმა საზოგადოებრივი ადგილები?",
     answer: "Because it damages the environment.",
     georgianAnswer: "რადგან ეს გარემოს აზიანებს.",
-    page: 124,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "გამოცდამდე რა უნდა გააკეთო?",
     answer: "I have to study and prepare well.",
     georgianAnswer: "კარგად უნდა ვისწავლო და მოვემზადო.",
-    page: 124,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "წვეულებაზე საჭმლის მოტანა გჭირდება?",
     answer: "No, I needn't bring anything.",
     georgianAnswer: "არა, არაფრის მოტანა არ მჭირდება.",
-    page: 124,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "შენს ქვეყანაში რომელი წესები უნდა დაიცვას ყველამ?",
     answer: "Everyone must obey the law and respect other people.",
     georgianAnswer: "ყველამ უნდა დაიცვას კანონი და პატივი სცეს სხვებს.",
-    page: 124,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "მოსწავლეებს ყოველდღე საშინაო დავალების შესრულება უწევთ?",
     answer: "Yes, they usually have to do homework every day.",
     georgianAnswer: "დიახ, ჩვეულებრივ ყოველდღე უწევთ საშინაო დავალების შესრულება.",
-    page: 124,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "გზის გადაკვეთისას რის გაკეთება არ შეიძლება?",
     answer: "They mustn't use their phones or ignore traffic lights.",
     georgianAnswer: "არ უნდა გამოიყენონ ტელეფონი და არ უნდა დააიგნორონ შუქნიშანი.",
-    page: 124,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "წესები ცხოვრებას აადვილებს?",
     answer: "Yes, they help people stay safe and organized.",
     georgianAnswer: "დიახ, ისინი ადამიანებს უსაფრთხოდ და ორგანიზებულად ცხოვრებაში ეხმარება.",
-    page: 124,
+    
   },
 ];

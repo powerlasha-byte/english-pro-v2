@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რით ვაჭრობს შენი კომპანია?",
     answer: "My company deals in financial services.",
     georgianAnswer: "ჩემი კომპანია ფინანსური მომსახურებით არის დაკავებული.",
-    page: 129,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "როგორ უმკლავდები ჩვეულებრივ რთულ სიტუაციებს?",
     answer: "I stay calm and try to find the best solution.",
     georgianAnswer: "სიმშვიდეს ვინარჩუნებ და საუკეთესო გამოსავლის პოვნას ვცდილობ.",
-    page: 129,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "გავლენას ახდენს თუ არა რეკლამა შენს ყიდვის გადაწყვეტილებაზე?",
     answer: "Sometimes they do, especially online advertisements.",
     georgianAnswer: "ზოგჯერ კი, განსაკუთრებით ონლაინ რეკლამები.",
-    page: 129,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რა უნარებია მნიშვნელოვანი შენს სამსახურში?",
     answer: "Communication and problem-solving skills are important.",
     georgianAnswer: "კომუნიკაციისა და პრობლემების გადაჭრის უნარები მნიშვნელოვანია.",
-    page: 130,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე მნიშვნელოვანი დავალება უგულებელგიყვია?",
     answer: "Yes, but I learned from my mistake.",
     georgianAnswer: "დიახ, მაგრამ ჩემი შეცდომიდან ვისწავლე.",
-    page: 130,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ არის უმუშევრობა სერიოზული პრობლემა?",
     answer: "Because many people cannot support their families.",
     georgianAnswer: "რადგან ბევრ ადამიანს ოჯახის რჩენა არ შეუძლია.",
-    page: 130,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა თვისებები ხდის ადამიანს კარგ სპეციალისტად?",
     answer: "Experience, knowledge and responsibility.",
     georgianAnswer: "გამოცდილება, ცოდნა და პასუხისმგებლობა.",
-    page: 130,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ოდესმე კარგი გარიგება დაგიდია?",
     answer: "Yes, I bought a laptop at a very good price.",
     georgianAnswer: "დიახ, ლეპტოპი ძალიან კარგ ფასად ვიყიდე.",
-    page: 130,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "როგორ იზიდავენ კომპანიები მომხმარებლებს?",
     answer: "They advertise their products and offer discounts.",
     georgianAnswer: "ისინი პროდუქტებს არეკლამებენ და ფასდაკლებებს სთავაზობენ.",
-    page: 131,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რა უნდა უზრუნველყოს კარგმა დამსაქმებელმა?",
     answer: "A safe workplace and fair salary.",
     georgianAnswer: "უსაფრთხო სამუშაო გარემო და სამართლიანი ხელფასი.",
-    page: 131,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ადამიანს წარმატებულ თანამშრომლად?",
     answer: "Hard work and a positive attitude.",
     georgianAnswer: "შრომისმოყვარეობა და პოზიტიური დამოკიდებულება.",
-    page: 131,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "მომავალში კარიერის შეცვლა გინდა?",
     answer: "No, I'd like to continue improving my current career.",
     georgianAnswer: "არა, მინდა ჩემი ამჟამინდელი კარიერა განვავითარო.",
-    page: 131,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რატომ არის გამოცდილება მნიშვნელოვანი?",
     answer: "Because it helps people make better decisions.",
     georgianAnswer: "რადგან ადამიანებს უკეთესი გადაწყვეტილებების მიღებაში ეხმარება.",
-    page: 131,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რომელია საუკეთესო რეკლამა, რაც ოდესმე გინახავს?",
     answer: "I liked a creative Nike advertisement.",
     georgianAnswer: "Nike-ის კრეატიული რეკლამა ძალიან მომეწონა.",
-    page: 131,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "როგორ შეუძლიათ ადამიანებს პროფესიული უნარების გაუმჯობესება?",
     answer: "By studying, practising and gaining experience.",
     georgianAnswer: "სწავლით, პრაქტიკით და გამოცდილების მიღებით.",
-    page: 131,
+    
   },
 ];

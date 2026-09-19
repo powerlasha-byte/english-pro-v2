@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/ˈredi/",
     sentence: "Are you ready to go home now?",
     georgianSentence: "ახლა სახლში წასასვლელად მზად ხარ?",
-    page: 1,
+    
   },
 
   {
@@ -16,7 +16,7 @@ export const vocabulary = [
     pronunciation: "/ˈkʌstəmə(r)/",
     sentence: "Are you always ready to help your customers?",
     georgianSentence: "ყოველთვის მზად ხარ შენი მომხმარებლების დასახმარებლად?",
-    page: 1,
+    
   },
 
   {
@@ -27,7 +27,7 @@ export const vocabulary = [
     sentence: "Most businesses want to attract plenty of customers.",
     georgianSentence:
       "ბიზნესების უმეტესობას ბევრი მომხმარებლის მოზიდვა სურს.",
-    page: 1,
+    
   },
 
   {
@@ -38,7 +38,7 @@ export const vocabulary = [
     sentence: "A good businessman should always have a strategy.",
     georgianSentence:
       "კარგ ბიზნესმენს ყოველთვის უნდა ჰქონდეს სტრატეგია.",
-    page: 1,
+    
   },
 
   {
@@ -49,7 +49,7 @@ export const vocabulary = [
     sentence: "It's important to have a strategy if you want to win a war.",
     georgianSentence:
       "მნიშვნელოვანია სტრატეგიის ქონა, თუ ომის მოგება გინდა.",
-    page: 1,
+    
   },
 
   {
@@ -59,7 +59,7 @@ export const vocabulary = [
     pronunciation: "/ˈplenti əv/",
     sentence: "There are plenty of customers in this shop.",
     georgianSentence: "ამ მაღაზიაში ბევრი მომხმარებელია.",
-    page: 1,
+    
   },
 
   {
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/kwɪt/",
     sentence: "Why do people quit a job?",
     georgianSentence: "რატომ ტოვებენ ადამიანები სამსახურს?",
-    page: 2,
+    
   },
 
   {
@@ -80,7 +80,7 @@ export const vocabulary = [
     sentence: "A wage of 500 dollars a week is enough for me.",
     georgianSentence:
       "კვირაში 500 დოლარის ხელფასი ჩემთვის საკმარისია.",
-    page: 2,
+    
   },
 
   {
@@ -91,7 +91,7 @@ export const vocabulary = [
     sentence: "It takes about half an hour to get to the nearest airport.",
     georgianSentence:
       "უახლოეს აეროპორტამდე მისვლას დაახლოებით ნახევარი საათი სჭირდება.",
-    page: 2,
+    
   },
 
   {
@@ -102,7 +102,7 @@ export const vocabulary = [
     sentence: "Why do most people like choosing new clothes?",
     georgianSentence:
       "რატომ მოსწონს ადამიანების უმეტესობას ახალი ტანსაცმლის არჩევა?",
-    page: 2,
+    
   },
 
   {
@@ -112,7 +112,7 @@ export const vocabulary = [
     pronunciation: "/tʃəʊz/",
     sentence: "She chose a new dress yesterday.",
     georgianSentence: "მან გუშინ ახალი კაბა აირჩია.",
-    page: 2,
+    
   },
 
   {
@@ -122,7 +122,7 @@ export const vocabulary = [
     pronunciation: "/ˈtʃəʊzən/",
     sentence: "Have you chosen which language you're going to study next?",
     georgianSentence: "აგირჩევია, რომელ ენას ისწავლი შემდეგ?",
-    page: 2,
+    
   },
 
   {
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/biː fɔː(r)/",
     sentence: "I'm for building more roads.",
     georgianSentence: "მე მომხრე ვარ მეტი გზების აშენების.",
-    page: 3,
+    
   },
 
   {
@@ -143,7 +143,7 @@ export const vocabulary = [
     sentence: "I'm against killing wild animals.",
     georgianSentence:
       "მე წინააღმდეგი ვარ გარეული ცხოველების დახოცვის.",
-    page: 3,
+    
   },
 
   {
@@ -154,7 +154,7 @@ export const vocabulary = [
     sentence: "We drive at 130 kilometres per hour.",
     georgianSentence:
       "ჩვენ საათში 130 კილომეტრი სიჩქარით ვმოძრაობთ.",
-    page: 3,
+    
   },
 
   {
@@ -164,7 +164,7 @@ export const vocabulary = [
     pronunciation: "/spiːd/",
     sentence: "At what speed should we drive?",
     georgianSentence: "რა სიჩქარით უნდა ვიაროთ?",
-    page: 3,
+    
   },
 
   {
@@ -174,7 +174,7 @@ export const vocabulary = [
     pronunciation: "/saʊnd/",
     sentence: "Can you hear any sounds in the corridor?",
     georgianSentence: "გესმის რაიმე ხმა დერეფანში?",
-    page: 3,
+    
   },
 
   {
@@ -185,7 +185,7 @@ export const vocabulary = [
     sentence: "Do some planes fly at the speed of sound?",
     georgianSentence:
       "ზოგიერთი თვითმფრინავი ხმის სიჩქარით დაფრინავს?",
-    page: 3,
+    
   },
 
   {
@@ -195,7 +195,7 @@ export const vocabulary = [
     pronunciation: "/fluː/",
     sentence: "The plane flew over the city.",
     georgianSentence: "თვითმფრინავმა ქალაქს ზემოდან გადაუფრინა.",
-    page: 3,
+    
   },
 
   {
@@ -205,7 +205,7 @@ export const vocabulary = [
     pronunciation: "/fləʊn/",
     sentence: "I've never flown in a plane.",
     georgianSentence: "არასდროს გავფრენილვარ თვითმფრინავით.",
-    page: 3,
+    
   },
 
   {
@@ -215,7 +215,7 @@ export const vocabulary = [
     pronunciation: "/ˈpaɪlət/",
     sentence: "Can you pilot a plane?",
     georgianSentence: "შეგიძლია თვითმფრინავის მართვა?",
-    page: 3,
+    
   },
 
   {
@@ -226,7 +226,7 @@ export const vocabulary = [
     sentence: "Planes can fly on automatic pilot.",
     georgianSentence:
       "თვითმფრინავებს შეუძლიათ ავტოპილოტით ფრენა.",
-    page: 3,
+    
   },
 
   {
@@ -237,7 +237,7 @@ export const vocabulary = [
     sentence: "Are people happy if their flight is late?",
     georgianSentence:
       "ბედნიერები არიან ადამიანები, თუ მათი ფრენა იგვიანებს?",
-    page: 3,
+    
   },
 
   {
@@ -247,7 +247,7 @@ export const vocabulary = [
     pronunciation: "/ˈeəkrɑːft/",
     sentence: "A jet aircraft is fast.",
     georgianSentence: "რეაქტიული თვითმფრინავი სწრაფია.",
-    page: 4,
+    
   },
 
   {
@@ -258,7 +258,7 @@ export const vocabulary = [
     sentence: "Passengers can't use their mobile phones on an aircraft.",
     georgianSentence:
       "მგზავრებს თვითმფრინავში მობილური ტელეფონების გამოყენება არ შეუძლიათ.",
-    page: 4,
+    
   },
 
   {
@@ -268,7 +268,7 @@ export const vocabulary = [
     pronunciation: "/ðə tjuːb/",
     sentence: "We call the underground in London the tube.",
     georgianSentence: "ლონდონის მეტროს the tube-ს ვუწოდებთ.",
-    page: 4,
+    
   },
 
   {
@@ -279,7 +279,7 @@ export const vocabulary = [
     sentence: "Subway is an American word for underground.",
     georgianSentence:
       "Subway არის underground-ის ამერიკული სიტყვა.",
-    page: 4,
+    
   },
 
   {
@@ -290,6 +290,6 @@ export const vocabulary = [
     sentence: "The railway station is near the bus station.",
     georgianSentence:
       "რკინიგზის სადგური ავტობუსის სადგურთან ახლოს არის.",
-    page: 4,
+    
   },
 ];

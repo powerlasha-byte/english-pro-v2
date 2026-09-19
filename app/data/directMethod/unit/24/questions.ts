@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რა არის ინტელექტუალური საკუთრება?",
     answer: "Intellectual property is something created by a person's mind, such as books, music or inventions.",
     georgianAnswer: "ინტელექტუალური საკუთრება არის ადამიანის გონებით შექმნილი რამ, მაგალითად წიგნები, მუსიკა ან გამოგონებები.",
-    page: 93,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რატომ უნდა იყოს ინტელექტუალური საკუთრება დაცული?",
     answer: "Because creators deserve recognition and payment for their work.",
     georgianAnswer: "რადგან შემქმნელები თავიანთი ნამუშევრისთვის აღიარებასა და ანაზღაურებას იმსახურებენ.",
-    page: 93,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რამ შეიძლება დააზიანოს ადამიანის რეპუტაცია?",
     answer: "Lying or behaving badly can damage a person's reputation.",
     georgianAnswer: "ტყუილმა ან ცუდმა საქციელმა შეიძლება ადამიანის რეპუტაცია დააზიანოს.",
-    page: 94,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რა არის შენი ინგლისურის სწავლის წარმატების მიზეზი?",
     answer: "Regular practice accounts for my progress.",
     georgianAnswer: "რეგულარული ვარჯიში ჩემი პროგრესის მთავარი მიზეზია.",
-    page: 94,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "მშობლები შენგან ბევრს ითხოვენ?",
     answer: "No, they only expect me to do my best.",
     georgianAnswer: "არა, ისინი მხოლოდ იმას ელიან, რომ მაქსიმალურად ვეცადო.",
-    page: 94,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "გაწუხებს მეგობრების დახმარება?",
     answer: "No, I don't mind helping my friends.",
     georgianAnswer: "არა, მეგობრების დახმარება არ მაწუხებს.",
-    page: 95,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ხომ არ დაგეზარება ფანჯრის გაღება?",
     answer: "No, not at all.",
     georgianAnswer: "არა, სულაც არა.",
-    page: 95,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რატომ შედიან ქურდები ჩვეულებრივ სახლებში ღამით?",
     answer: "Because fewer people are awake at night.",
     georgianAnswer: "რადგან ღამით ნაკლები ადამიანი ფხიზლობს.",
-    page: 96,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "როგორ შეუძლიათ ადამიანებს თავიანთი სახლების დაცვა ქურდებისგან?",
     answer: "They can install alarms and lock all the doors.",
     georgianAnswer: "შეუძლიათ სიგნალიზაციის დაყენება და ყველა კარის ჩაკეტვა.",
-    page: 96,
+    
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const questions = [
     georgianQuestion: "ოდესმე დაგვიწყებია კარის ჩაკეტვა?",
     answer: "Yes, but fortunately nothing happened.",
     georgianAnswer: "დიახ, მაგრამ საბედნიეროდ არაფერი მომხდარა.",
-    page: 96,
+    
   },
 ];

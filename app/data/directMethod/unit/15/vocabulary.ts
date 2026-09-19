@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[pəˈluːt]",
     sentence: "Factories pollute the air every day.",
     georgianSentence: "ქარხნები ყოველდღე აბინძურებენ ჰაერს.",
-    page: 57,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[pəˈluːʃən]",
     sentence: "Air pollution is a serious problem.",
     georgianSentence: "ჰაერის დაბინძურება სერიოზული პრობლემაა.",
-    page: 57,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈtɒksɪk ˈkemɪklz]",
     sentence: "Toxic chemicals can damage the environment.",
     georgianSentence: "ტოქსიკურ ქიმიკატებს გარემოს დაზიანება შეუძლიათ.",
-    page: 57,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˌriːˈsaɪkl]",
     sentence: "We recycle paper and plastic.",
     georgianSentence: "ჩვენ ქაღალდსა და პლასტმასას ვამუშავებთ.",
-    page: 57,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[səˈluːʃən]",
     sentence: "Recycling is a good solution.",
     georgianSentence: "გადამუშავება კარგი გამოსავალია.",
-    page: 57,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈnjuːkliə ˈpaʊə]",
     sentence: "Some countries use nuclear power.",
     georgianSentence: "ზოგი ქვეყანა ბირთვულ ენერგიას იყენებს.",
-    page: 58,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˈsəʊlə ˈpaʊə]",
     sentence: "Solar power is environmentally friendly.",
     georgianSentence: "მზის ენერგია გარემოსთვის უსაფრთხოა.",
-    page: 58,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[əˈpəʊz]",
     sentence: "Many people oppose pollution.",
     georgianSentence: "ბევრი ადამიანი დაბინძურებას ეწინააღმდეგება.",
-    page: 58,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈskuːbə ˈdaɪvɪŋ]",
     sentence: "I'd like to try scuba diving.",
     georgianSentence: "სკუბა დაივინგის ცდა მინდა.",
-    page: 59,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈkɒrəl riːf]",
     sentence: "Coral reefs are beautiful.",
     georgianSentence: "მარჯნის რიფები ძალიან ლამაზია.",
-    page: 59,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[kənˈteɪnə]",
     sentence: "The diver carries an air container.",
     georgianSentence: "მყვინთავს ჰაერის კონტეინერი აქვს.",
-    page: 59,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ʃɑːk]",
     sentence: "Sharks are dangerous animals.",
     georgianSentence: "ზვიგენები საშიში ცხოველები არიან.",
-    page: 59,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[əˈtempt]",
     sentence: "He passed the exam on his second attempt.",
     georgianSentence: "მან გამოცდა მეორე მცდელობაზე ჩააბარა.",
-    page: 60,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[bəˈluːn]",
     sentence: "The balloon flew high into the sky.",
     georgianSentence: "ბუშტი მაღლა აფრინდა ცაში.",
-    page: 60,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈhiːliəm]",
     sentence: "Helium makes balloons float.",
     georgianSentence: "ჰელიუმი ბუშტებს ჰაერში ტივტივების საშუალებას აძლევს.",
-    page: 60,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ˈhaɪdrədʒən]",
     sentence: "Hydrogen is lighter than air.",
     georgianSentence: "წყალბადი ჰაერზე მსუბუქია.",
-    page: 60,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈefət]",
     sentence: "Learning English takes a lot of effort.",
     georgianSentence: "ინგლისურის სწავლას დიდი ძალისხმევა სჭირდება.",
-    page: 60,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[meɪk ən ˈefət]",
     sentence: "You should make an effort to improve.",
     georgianSentence: "უნდა ეცადო, რომ უკეთესი გახდე.",
-    page: 60,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ˈkɒnsəntreɪt]",
     sentence: "Please concentrate on your work.",
     georgianSentence: "გთხოვ, სამუშაოზე კონცენტრირდი.",
-    page: 60,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[ˈkærəktə]",
     sentence: "Chinese characters are difficult to learn.",
     georgianSentence: "ჩინური სიმბოლოების სწავლა რთულია.",
-    page: 60,
+    
   },
 ];

@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˌɪntəˈlektʃuəl ˈprɒpəti]",
     sentence: "Books and music are forms of intellectual property.",
     georgianSentence: "წიგნები და მუსიკა ინტელექტუალური საკუთრების ფორმებია.",
-    page: 93,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[prəˈtekt]",
     sentence: "We should protect intellectual property.",
     georgianSentence: "ინტელექტუალური საკუთრება უნდა დავიცვათ.",
-    page: 93,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈprɒpə]",
     sentence: "Always use the proper equipment.",
     georgianSentence: "ყოველთვის გამოიყენე შესაბამისი აღჭურვილობა.",
-    page: 93,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ɪmˈprɒpə]",
     sentence: "His behaviour was improper.",
     georgianSentence: "მისი ქცევა შეუსაბამო იყო.",
-    page: 93,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈdæmɪdʒ]",
     sentence: "Smoking can damage your health.",
     georgianSentence: "მოწევამ შეიძლება ჯანმრთელობა დააზიანოს.",
-    page: 94,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[əˈkaʊnt fɔː]",
     sentence: "Exercise accounts for better health.",
     georgianSentence: "ვარჯიში უკეთესი ჯანმრთელობის ერთ-ერთი მიზეზია.",
-    page: 94,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈmɑːnd]",
     sentence: "Customers demand high quality.",
     georgianSentence: "მომხმარებლები მაღალ ხარისხს ითხოვენ.",
-    page: 94,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[maɪnd]",
     sentence: "Do you mind opening the window?",
     georgianSentence: "ხომ არ გაწუხებს ფანჯრის გაღება?",
-    page: 95,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[breɪk ˈɪntuː]",
     sentence: "Burglars broke into the house.",
     georgianSentence: "ქურდები სახლში შეიჭრნენ.",
-    page: 96,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈbɜːɡlə]",
     sentence: "The burglar stole several valuable items.",
     georgianSentence: "ქურდმა რამდენიმე ძვირფასი ნივთი მოიპარა.",
-    page: 96,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[əˈlɑːm]",
     sentence: "The alarm scared the burglars away.",
     georgianSentence: "სიგნალიზაციამ ქურდები დააფრთხო.",
-    page: 96,
+    
   },
   {
     id: 12,
@@ -105,6 +105,6 @@ export const vocabulary = [
     pronunciation: "[lɒk]",
     sentence: "Don't forget to lock the door.",
     georgianSentence: "კარის ჩაკეტვა არ დაგავიწყდეს.",
-    page: 96,
+    
   },
 ];

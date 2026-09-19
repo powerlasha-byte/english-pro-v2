@@ -8,7 +8,7 @@ export const questions = [
     answer: "Yes, people can react badly to some kinds of food.",
     georgianAnswer:
       "დიახ, ადამიანებმა შეიძლება ზოგიერთ საკვებზე ცუდად იმოქმედონ.",
-    page: 1,
+    
   },
 
   {
@@ -17,7 +17,7 @@ export const questions = [
     georgianQuestion: "'Quick'-ის ზმნიზედა რა არის?",
     answer: "The adverb of 'quick' is 'quickly'.",
     georgianAnswer: "'Quick'-ის ზმნიზედაა 'quickly'.",
-    page: 1,
+    
   },
 
   {
@@ -29,7 +29,7 @@ export const questions = [
       "Yes, the teacher reacts quickly if a student doesn't know how to answer a question.",
     georgianAnswer:
       "დიახ, მასწავლებელი სწრაფად რეაგირებს, თუ მოსწავლემ არ იცის კითხვაზე პასუხის გაცემა.",
-    page: 1,
+    
   },
 
   {
@@ -38,7 +38,7 @@ export const questions = [
     georgianQuestion: "'React'-ის არსებითი სახელი რა არის?",
     answer: "The noun of 'react' is 'reaction'.",
     georgianAnswer: "'React'-ის არსებითი სახელია 'reaction'.",
-    page: 1,
+    
   },
 
   {
@@ -48,7 +48,7 @@ export const questions = [
     answer: "Quick reactions are necessary when you pilot a plane.",
     georgianAnswer:
       "სწრაფი რეაქციები აუცილებელია, როდესაც თვითმფრინავს მართავ.",
-    page: 1,
+    
   },
 
   {
@@ -57,7 +57,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია რიცხვების სწრაფად შეკრება?",
     answer: "Yes, I can add up numbers quickly.",
     georgianAnswer: "დიახ, შემიძლია რიცხვების სწრაფად შეკრება.",
-    page: 1,
+    
   },
 
   {
@@ -66,7 +66,7 @@ export const questions = [
     georgianQuestion: "წვიმის მიუხედავად, სასეირნოდ წახვიდოდი?",
     answer: "Yes, I'd go for a walk in spite of the rain.",
     georgianAnswer: "დიახ, წვიმის მიუხედავად, სასეირნოდ წავიდოდი.",
-    page: 1,
+    
   },
 
   {
@@ -78,7 +78,7 @@ export const questions = [
       "A person could become a good pilot in spite of their slow reactions.",
     georgianAnswer:
       "ადამიანი შეიძლება კარგი პილოტი გახდეს, მიუხედავად ნელი რეაქციებისა.",
-    page: 1,
+    
   },
 
   {
@@ -87,7 +87,7 @@ export const questions = [
     georgianQuestion: "რისგან მზადდება რძის პროდუქტები?",
     answer: "Dairy products are made from milk.",
     georgianAnswer: "რძის პროდუქტები რძისგან მზადდება.",
-    page: 1,
+    
   },
 
   {
@@ -99,7 +99,7 @@ export const questions = [
       "If somebody reacts badly to some kinds of food, it means they may be allergic to that food.",
     georgianAnswer:
       "თუ ადამიანი ზოგიერთ საკვებზე ცუდად რეაგირებს, ეს ნიშნავს, რომ შეიძლება ამ საკვებზე ალერგიული იყოს.",
-    page: 1,
+    
   },
 
   {
@@ -111,7 +111,7 @@ export const questions = [
       "Yes, children are often allergic to dairy products or animal hair.",
     georgianAnswer:
       "დიახ, ბავშვები ხშირად არიან ალერგიულები რძის პროდუქტებზე ან ცხოველის ბეწვზე.",
-    page: 1,
+    
   },
 
   {
@@ -120,7 +120,7 @@ export const questions = [
     georgianQuestion: "გაქვს ალერგია?",
     answer: "Yes, I have an allergy.",
     georgianAnswer: "დიახ, ალერგია მაქვს.",
-    page: 1,
+    
   },
 
   {
@@ -129,7 +129,7 @@ export const questions = [
     georgianQuestion: "რა სახის ალერგია გაქვს?",
     answer: "I have an allergy to cats.",
     georgianAnswer: "კატებზე ალერგია მაქვს.",
-    page: 1,
+    
   },
 
   // PAGE 2 — too / either / apart from / else
@@ -140,7 +140,7 @@ export const questions = [
     georgianQuestion: "ჩანთაში წიგნი გაქვს?",
     answer: "Yes, I have a book in my bag.",
     georgianAnswer: "დიახ, ჩანთაში წიგნი მაქვს.",
-    page: 2,
+    
   },
 
   {
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "კალამიც გაქვს?",
     answer: "Yes, I have a pen, too.",
     georgianAnswer: "დიახ, კალამიც მაქვს.",
-    page: 2,
+    
   },
 
   {
@@ -158,7 +158,7 @@ export const questions = [
     georgianQuestion: "ხილს ბაზარში ყიდულობ?",
     answer: "Yes, we buy fruit at the market.",
     georgianAnswer: "დიახ, ხილს ბაზარში ვყიდულობთ.",
-    page: 2,
+    
   },
 
   {
@@ -168,7 +168,7 @@ export const questions = [
     answer: "No, I can't talk to other students during the lesson.",
     georgianAnswer:
       "არა, გაკვეთილის დროს სხვა მოსწავლეებთან საუბარი არ შემიძლია.",
-    page: 2,
+    
   },
 
   {
@@ -179,7 +179,7 @@ export const questions = [
     answer: "No, Mark can't talk to other students during the lesson, either.",
     georgianAnswer:
       "არა, მარკსაც არ შეუძლია გაკვეთილის დროს სხვა მოსწავლეებთან საუბარი.",
-    page: 2,
+    
   },
 
   {
@@ -188,7 +188,7 @@ export const questions = [
     georgianQuestion: "იქნება მასწავლებელი აქ კვირას?",
     answer: "No, the teacher won't be here on Sunday.",
     georgianAnswer: "არა, მასწავლებელი კვირას აქ არ იქნება.",
-    page: 2,
+    
   },
 
   {
@@ -197,7 +197,7 @@ export const questions = [
     georgianQuestion: "იქნებიან მოსწავლეები აქ კვირას?",
     answer: "No, the students won't be here on Sunday, either.",
     georgianAnswer: "არა, მოსწავლეებიც არ იქნებიან აქ კვირას.",
-    page: 2,
+    
   },
 
   {
@@ -206,7 +206,7 @@ export const questions = [
     georgianQuestion: "კიდევ რა გაქვს?",
     answer: "I have a pen, too.",
     georgianAnswer: "კალამიც მაქვს.",
-    page: 2,
+    
   },
 
   {
@@ -215,7 +215,7 @@ export const questions = [
     georgianQuestion: "ესპანურად ლაპარაკობ?",
     answer: "Yes, I speak Spanish.",
     georgianAnswer: "დიახ, ესპანურად ვლაპარაკობ.",
-    page: 2,
+    
   },
 
   {
@@ -224,7 +224,7 @@ export const questions = [
     georgianQuestion: "კიდევ რა ენაზე ლაპარაკობ?",
     answer: "I speak English, too.",
     georgianAnswer: "ინგლისურადაც ვლაპარაკობ.",
-    page: 2,
+    
   },
 
   {
@@ -234,7 +234,7 @@ export const questions = [
     answer: "You said 'Good afternoon' at the beginning of the lesson.",
     georgianAnswer:
       "შენ თქვი 'Good afternoon' გაკვეთილის დასაწყისში.",
-    page: 2,
+    
   },
 
   {
@@ -243,7 +243,7 @@ export const questions = [
     georgianQuestion: "კიდევ რა ვთქვი?",
     answer: "You said 'Ask him a question'.",
     georgianAnswer: "შენ თქვი 'Ask him a question'.",
-    page: 2,
+    
   },
 
   {
@@ -254,7 +254,7 @@ export const questions = [
     answer: "I've brought a pen to the classroom apart from my book.",
     georgianAnswer:
       "წიგნის გარდა კლასში კალამიც მოვიტანე.",
-    page: 2,
+    
   },
 
   {
@@ -266,7 +266,7 @@ export const questions = [
       "Yes, children can be allergic to something else apart from dairy products.",
     georgianAnswer:
       "დიახ, ბავშვები შეიძლება რძის პროდუქტების გარდა სხვა რამეზეც იყვნენ ალერგიულები.",
-    page: 2,
+    
   },
 
   // PAGE 3 — Second Conditional
@@ -279,7 +279,7 @@ export const questions = [
       "We use the second conditional when we imagine an action in the present or future that we think will probably not happen.",
     georgianAnswer:
       "Second Conditional-ს ვიყენებთ, როცა წარმოვიდგენთ აწმყოს ან მომავლის მოქმედებას, რომელიც, ჩვენი აზრით, ალბათ არ მოხდება.",
-    page: 3,
+    
   },
 
   {
@@ -288,7 +288,7 @@ export const questions = [
     georgianQuestion: "'If I saw Ann' როგორ ითარგმნება?",
     answer: "It means 'თუ ანას დავინახავდი'.",
     georgianAnswer: "ეს ნიშნავს 'თუ ანას დავინახავდი'.",
-    page: 3,
+    
   },
 
   {
@@ -297,7 +297,7 @@ export const questions = [
     georgianQuestion: "თუ მატარებლის ბილეთი გჭირდება, გჭირდება ის როცა მიდიხარ?",
     answer: "No, I don't need a train ticket if I need a train ticket.",
     georgianAnswer: "არა, ეს კითხვა წარმოსახვით სიტუაციას ეხება.",
-    page: 3,
+    
   },
 
   {
@@ -306,7 +306,7 @@ export const questions = [
     georgianQuestion: "მილიონი დოლარი გაქვს?",
     answer: "No, I don't have a million dollars.",
     georgianAnswer: "არა, მილიონი დოლარი არ მაქვს.",
-    page: 3,
+    
   },
 
   {
@@ -317,7 +317,7 @@ export const questions = [
     answer: "Yes, I would buy a big house if I had a million dollars.",
     georgianAnswer:
       "დიახ, მილიონი დოლარი რომ მქონდეს, დიდ სახლს ვიყიდდი.",
-    page: 3,
+    
   },
 
   {
@@ -326,7 +326,7 @@ export const questions = [
     georgianQuestion: "ფიქრობ, რომ მილიონერი გახდები?",
     answer: "No, I don't think I'll become a millionaire.",
     georgianAnswer: "არა, არ ვფიქრობ, რომ მილიონერი გავხდები.",
-    page: 3,
+    
   },
 
   {
@@ -337,7 +337,7 @@ export const questions = [
     answer: "Yes, I would be happy if I became a millionaire.",
     georgianAnswer:
       "დიახ, ბედნიერი ვიქნებოდი, მილიონერი რომ გავმხდარიყავი.",
-    page: 3,
+    
   },
 
   {
@@ -348,7 +348,7 @@ export const questions = [
     answer: "No, I probably won't see a fire in the classroom.",
     georgianAnswer:
       "არა, ალბათ კლასში ხანძარს არ დავინახავ.",
-    page: 3,
+    
   },
 
   {
@@ -360,7 +360,7 @@ export const questions = [
       "If I saw a fire in the classroom, I would get out.",
     georgianAnswer:
       "კლასში ხანძარი რომ დამენახა, გარეთ გავიდოდი.",
-    page: 3,
+    
   },
 
   {
@@ -372,7 +372,7 @@ export const questions = [
       "Yes, the teacher would react quickly if the student didn't know how to answer.",
     georgianAnswer:
       "დიახ, მასწავლებელი სწრაფად რეაგირებდა, თუ მოსწავლემ პასუხის გაცემა არ იცოდა.",
-    page: 3,
+    
   },
 
   {
@@ -382,7 +382,7 @@ export const questions = [
     answer: "If I had a cold, I would stay at home.",
     georgianAnswer:
       "გაციებული რომ ვიყო, სახლში დავრჩებოდი.",
-    page: 3,
+    
   },
 
   {
@@ -393,7 +393,7 @@ export const questions = [
     answer: "No, I wouldn't laugh if I saw a sad film.",
     georgianAnswer:
       "არა, არ ვიცინებდი, სევდიან ფილმს რომ ვუყურებდე.",
-    page: 3,
+    
   },
 
   // PAGE 4 — were
@@ -406,7 +406,7 @@ export const questions = [
     answer: "If I were an animal, I would be a cat.",
     georgianAnswer:
       "ცხოველი რომ ვიყო, კატა ვიქნებოდი.",
-    page: 4,
+    
   },
 
   {
@@ -417,7 +417,7 @@ export const questions = [
     answer: "No, I don't think he'll be ill next lesson.",
     georgianAnswer:
       "არა, არ ვფიქრობ, რომ შემდეგ გაკვეთილზე ავად იქნება.",
-    page: 4,
+    
   },
 
   {
@@ -428,7 +428,7 @@ export const questions = [
     answer: "No, he wouldn't come to the next lesson if he were ill.",
     georgianAnswer:
       "არა, შემდეგ გაკვეთილზე არ მოვიდოდა, ავად რომ ყოფილიყო.",
-    page: 4,
+    
   },
 
   {
@@ -437,7 +437,7 @@ export const questions = [
     georgianQuestion: "ეს წიგნი ძალიან სქელია?",
     answer: "No, this book isn't very thick.",
     georgianAnswer: "არა, ეს წიგნი ძალიან სქელი არ არის.",
-    page: 4,
+    
   },
 
   {
@@ -448,7 +448,7 @@ export const questions = [
     answer: "No, I wouldn't read this book if it were very thick.",
     georgianAnswer:
       "არა, ამ წიგნს არ წავიკითხავდი, ძალიან სქელი რომ ყოფილიყო.",
-    page: 4,
+    
   },
 
   {
@@ -457,7 +457,7 @@ export const questions = [
     georgianQuestion: "შენი საწოლი ძალიან მაგარია?",
     answer: "No, my bed isn't too hard.",
     georgianAnswer: "არა, ჩემი საწოლი ძალიან მაგარი არ არის.",
-    page: 4,
+    
   },
 
   {
@@ -468,7 +468,7 @@ export const questions = [
     answer: "No, I wouldn't sleep in my bed if it were too hard.",
     georgianAnswer:
       "არა, ჩემს საწოლში არ დავიძინებდი, ძალიან მაგარი რომ ყოფილიყო.",
-    page: 4,
+    
   },
 
   {
@@ -477,7 +477,7 @@ export const questions = [
     georgianQuestion: "ბუღალტერი ხარ?",
     answer: "No, I'm not an accountant.",
     georgianAnswer: "არა, ბუღალტერი არ ვარ.",
-    page: 4,
+    
   },
 
   {
@@ -489,6 +489,6 @@ export const questions = [
       "Yes, if I were an accountant, I would be able to add up numbers quickly.",
     georgianAnswer:
       "დიახ, ბუღალტერი რომ ვიყო, რიცხვების სწრაფად შეკრებას შევძლებდი.",
-    page: 4,
+    
   },
 ];

@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[əˈtʃiːvmənt]",
     sentence: "Winning the competition was a great achievement.",
     georgianSentence: "შეჯიბრების მოგება დიდი მიღწევა იყო.",
-    page: 108,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[əˈtʃiːv]",
     sentence: "She achieved all of her goals.",
     georgianSentence: "მან ყველა თავის მიზანს მიაღწია.",
-    page: 108,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈpʌnɪʃ]",
     sentence: "Parents shouldn't punish children unfairly.",
     georgianSentence: "მშობლებმა ბავშვები უსამართლოდ არ უნდა დასაჯონ.",
-    page: 109,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈpʌnɪʃmənt]",
     sentence: "The punishment was too severe.",
     georgianSentence: "სასჯელი ძალიან მკაცრი იყო.",
-    page: 109,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ɪkˈspens]",
     sentence: "Travel expenses can be very high.",
     georgianSentence: "მოგზაურობის ხარჯები შეიძლება ძალიან მაღალი იყოს.",
-    page: 110,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ət ði ɪkˈspens əv]",
     sentence: "He became successful at the expense of his health.",
     georgianSentence: "ის ჯანმრთელობის ხარჯზე წარმატებული გახდა.",
-    page: 110,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[æmˈbɪʃən]",
     sentence: "Her ambition is to become a doctor.",
     georgianSentence: "მისი ამბიცია ექიმობაა.",
-    page: 111,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[æmˈbɪʃəs]",
     sentence: "He's an ambitious young man.",
     georgianSentence: "ის ამბიციური ახალგაზრდა კაცია.",
-    page: 111,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[dɪˌtɜːmɪˈneɪʃən]",
     sentence: "Success requires determination.",
     georgianSentence: "წარმატებას მიზანდასახულობა სჭირდება.",
-    page: 111,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈtɜːmɪnd]",
     sentence: "She is determined to succeed.",
     georgianSentence: "ის წარმატების მიღწევას მტკიცედ აქვს გადაწყვეტილი.",
-    page: 111,
+    
   },
 
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "[dɪˌtɜːmɪˈneɪʃən]",
     sentence: "Her determination inspired everyone.",
     georgianSentence: "მისმა მიზანდასახულობამ ყველას შთააგონა.",
-    page: 111,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈtɜːmɪnd]",
     sentence: "He is determined to become a pilot.",
     georgianSentence: "მას მტკიცედ აქვს გადაწყვეტილი, რომ პილოტი გახდეს.",
-    page: 111,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "[faɪt]",
     sentence: "Never stop fighting for your dreams.",
     georgianSentence: "არასოდეს შეწყვიტო ბრძოლა შენი ოცნებებისთვის.",
-    page: 111,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "[ˈfaɪtə]",
     sentence: "He is a brave fighter.",
     georgianSentence: "ის მამაცი მებრძოლია.",
-    page: 111,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "[ɡɪv ʌp]",
     sentence: "Don't give up easily.",
     georgianSentence: "ადვილად ნუ დანებდები.",
-    page: 111,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "[ɡəʊl]",
     sentence: "My goal is to improve my English.",
     georgianSentence: "ჩემი მიზანია ინგლისურის გაუმჯობესება.",
-    page: 111,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "[səkˈses]",
     sentence: "Success comes through hard work.",
     georgianSentence: "წარმატება შრომით მოდის.",
-    page: 111,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "[səkˈsesfl]",
     sentence: "She became a successful businesswoman.",
     georgianSentence: "ის წარმატებული ბიზნესმენი გახდა.",
-    page: 111,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "[feɪl]",
     sentence: "Don't be afraid to fail.",
     georgianSentence: "წარუმატებლობის ნუ შეგეშინდება.",
-    page: 111,
+    
   },
   {
     id: 20,
@@ -178,6 +178,6 @@ export const vocabulary = [
     pronunciation: "[ˈfeɪljə]",
     sentence: "Every failure teaches us something.",
     georgianSentence: "ყოველი წარუმატებლობა რაღაცას გვასწავლის.",
-    page: 111,
+    
   },
 ];

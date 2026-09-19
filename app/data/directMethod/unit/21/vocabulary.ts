@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[fəˈbɪd]",
     sentence: "Smoking is forbidden in this building.",
     georgianSentence: "ამ შენობაში მოწევა აკრძალულია.",
-    page: 77,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[dʒəʊk]",
     sentence: "He told a funny joke.",
     georgianSentence: "მან სასაცილო ხუმრობა თქვა.",
-    page: 77,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈdʒiːniəs]",
     sentence: "Albert Einstein was a genius.",
     georgianSentence: "ალბერტ აინშტაინი გენიოსი იყო.",
-    page: 78,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈdʒiːniəs]",
     sentence: "She came up with an ingenious idea.",
     georgianSentence: "მან გენიალური იდეა მოიფიქრა.",
-    page: 78,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[tæp]",
     sentence: "Turn off the tap after washing your hands.",
     georgianSentence: "ხელების დაბანის შემდეგ ონკანი დაკეტე.",
-    page: 78,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[sɪŋk]",
     sentence: "The dishes are in the sink.",
     georgianSentence: "ჭურჭელი ნიჟარაშია.",
-    page: 78,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈtelɪdʒənt]",
     sentence: "She is a very intelligent student.",
     georgianSentence: "ის ძალიან ჭკვიანი სტუდენტია.",
-    page: 78,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈtelɪdʒəns]",
     sentence: "Intelligence is important for solving problems.",
     georgianSentence: "პრობლემების გადასაჭრელად ინტელექტი მნიშვნელოვანია.",
-    page: 78,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[hen]",
     sentence: "The hen laid three eggs.",
     georgianSentence: "ქათამმა სამი კვერცხი დადო.",
-    page: 78,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˌtʃɪmpænˈziː]",
     sentence: "A chimpanzee can use simple tools.",
     georgianSentence: "შიმპანზეს შეუძლია მარტივი იარაღების გამოყენება.",
-    page: 79,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[əˈbɪləti]",
     sentence: "Everyone has the ability to learn.",
     georgianSentence: "ყველას აქვს სწავლის უნარი.",
-    page: 79,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ˈɪnstɪŋkt]",
     sentence: "Animals often act by instinct.",
     georgianSentence: "ცხოველები ხშირად ინსტინქტით მოქმედებენ.",
-    page: 79,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈspekt]",
     sentence: "We should respect other people.",
     georgianSentence: "სხვა ადამიანებს პატივი უნდა ვცეთ.",
-    page: 79,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[triːt]",
     sentence: "Treat everyone with kindness.",
     georgianSentence: "ყველას კეთილად მოექეცი.",
-    page: 79,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[smæk]",
     sentence: "Parents should not smack their children.",
     georgianSentence: "მშობლებმა შვილებს არ უნდა დაარტყან.",
-    page: 80,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[əˈsɔːlt]",
     sentence: "The man was arrested for assault.",
     georgianSentence: "კაცი თავდასხმისთვის დააკავეს.",
-    page: 80,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈpʌnɪʃ]",
     sentence: "Teachers should never punish unfairly.",
     georgianSentence: "მასწავლებლებმა არასდროს უნდა დასაჯონ უსამართლოდ.",
-    page: 80,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[beə]",
     sentence: "I can't bear the noise.",
     georgianSentence: "ამ ხმაურს ვერ ვიტან.",
-    page: 81,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ɡɪv bɜːθ]",
     sentence: "She gave birth to a healthy baby.",
     georgianSentence: "მან ჯანმრთელი ბავშვი გააჩინა.",
-    page: 81,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈlɪvəri ruːm]",
     sentence: "The father waited outside the delivery room.",
     georgianSentence: "მამა სამშობიარო ოთახის გარეთ ელოდებოდა.",
-    page: 81,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "[feɪnt]",
     sentence: "He almost fainted from the heat.",
     georgianSentence: "სიცხისგან კინაღამ გონება დაკარგა.",
-    page: 81,
+    
   },
   {
     id: 22,
@@ -195,7 +195,7 @@ export const vocabulary = [
     pronunciation: "[ˌmɪsbɪˈheɪv]",
     sentence: "The child began to misbehave.",
     georgianSentence: "ბავშვმა ცუდად მოქცევა დაიწყო.",
-    page: 83,
+    
   },
   {
     id: 23,
@@ -204,7 +204,7 @@ export const vocabulary = [
     pronunciation: "[ˌmɪsbɪˈheɪvjə]",
     sentence: "The teacher spoke about his misbehaviour.",
     georgianSentence: "მასწავლებელმა მის ცუდ ქცევაზე ისაუბრა.",
-    page: 83,
+    
   },
   {
     id: 24,
@@ -213,7 +213,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈspɒnd]",
     sentence: "Please respond to my email.",
     georgianSentence: "გთხოვ, ჩემს ელფოსტას უპასუხე.",
-    page: 83,
+    
   },
   {
     id: 25,
@@ -222,7 +222,7 @@ export const vocabulary = [
     pronunciation: "[kɑːnt stænd]",
     sentence: "I can't stand loud music.",
     georgianSentence: "ხმამაღალ მუსიკას ვერ ვიტან.",
-    page: 83,
+    
   },
   {
     id: 26,
@@ -231,7 +231,7 @@ export const vocabulary = [
     pronunciation: "[pʊt ʌp wɪð]",
     sentence: "I can't put up with rude people.",
     georgianSentence: "უზრდელ ადამიანებს ვერ ვეგუები.",
-    page: 83,
+    
   },
   {
     id: 27,
@@ -240,7 +240,7 @@ export const vocabulary = [
     pronunciation: "[ˈbɒsi]",
     sentence: "She is too bossy sometimes.",
     georgianSentence: "ის ზოგჯერ ზედმეტად ბრძანებლურია.",
-    page: 83,
+    
   },
   {
     id: 28,
@@ -249,7 +249,7 @@ export const vocabulary = [
     pronunciation: "[strest aʊt]",
     sentence: "I'm stressed out after work.",
     georgianSentence: "სამუშაოს შემდეგ ძალიან სტრესში ვარ.",
-    page: 83,
+    
   },
   {
     id: 29,
@@ -258,6 +258,6 @@ export const vocabulary = [
     pronunciation: "[ˈbʊli]",
     sentence: "No child should bully another child.",
     georgianSentence: "არცერთმა ბავშვმა არ უნდა დაჩაგროს სხვა ბავშვი.",
-    page: 84,
+    
   },
 ];

@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈsəʊp ˌɒprə]",
     sentence: "My grandmother watches a soap opera every evening.",
     georgianSentence: "ბებია ყოველ საღამოს საპნის ოპერას უყურებს.",
-    page: 45,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[plɒt]",
     sentence: "The plot of the film was very interesting.",
     georgianSentence: "ფილმის სიუჟეტი ძალიან საინტერესო იყო.",
-    page: 45,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[tʃɑːt]",
     sentence: "This chart shows our monthly sales.",
     georgianSentence: "ეს დიაგრამა ჩვენს ყოველთვიურ გაყიდვებს აჩვენებს.",
-    page: 45,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈsɪmbəl]",
     sentence: "The dove is a symbol of peace.",
     georgianSentence: "მტრედი მშვიდობის სიმბოლოა.",
-    page: 45,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[skeɪl]",
     sentence: "Always check the scale on a map.",
     georgianSentence: "რუკაზე ყოველთვის შეამოწმე მასშტაბი.",
-    page: 45,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[skeɪlz]",
     sentence: "I weigh myself on the bathroom scales.",
     georgianSentence: "წონას აბაზანის სასწორზე ვიმოწმებ.",
-    page: 46,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[fəˈnetɪk]",
     sentence: "This dictionary has phonetic symbols.",
     georgianSentence: "ამ ლექსიკონს ფონეტიკური სიმბოლოები აქვს.",
-    page: 45,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[siːn]",
     sentence: "The police arrived at the scene of the accident.",
     georgianSentence: "პოლიცია ავარიის ადგილზე მივიდა.",
-    page: 46,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[striːm]",
     sentence: "A small stream runs through the forest.",
     georgianSentence: "ტყეში პატარა ნაკადული მიედინება.",
-    page: 46,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[reɪz]",
     sentence: "Please raise your hand.",
     georgianSentence: "გთხოვ, ხელი აწიე.",
-    page: 47,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ˈeniweɪ]",
     sentence: "I'll go anyway.",
     georgianSentence: "მაინც წავალ.",
-    page: 47,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[daɪ]",
     sentence: "She dyes her hair every month.",
     georgianSentence: "ის ყოველ თვე თმას იღებავს.",
-    page: 47,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈtʃærəti]",
     sentence: "They donated money to charity.",
     georgianSentence: "მათ ფული ქველმოქმედებას შესწირეს.",
-    page: 47,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ɡəʊ əˈhed]",
     sentence: "Go ahead and ask your question.",
     georgianSentence: "განაგრძე და დასვი შენი შეკითხვა.",
-    page: 48,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈenihɑː]",
     sentence: "He finished the work anyhow.",
     georgianSentence: "მან საქმე ნებისმიერ შემთხვევაში დაასრულა.",
-    page: 48,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[bɔːld]",
     sentence: "My grandfather is bald.",
     georgianSentence: "ბაბუაჩემი მელოტია.",
-    page: 48,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈhɔːməʊn]",
     sentence: "Hormones affect our bodies.",
     georgianSentence: "ჰორმონები ჩვენს სხეულზე მოქმედებენ.",
-    page: 48,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[teˈstɒstərəʊn]",
     sentence: "Testosterone is an important hormone.",
     georgianSentence: "ტესტოსტერონი მნიშვნელოვანი ჰორმონია.",
-    page: 48,
+    
   },
   {
     id: 19,
@@ -168,6 +168,6 @@ export const vocabulary = [
     pronunciation: "[meɪl]",
     sentence: "Male lions usually have long manes.",
     georgianSentence: "მამრ ლომებს ჩვეულებრივ გრძელი ფაფარი აქვთ.",
-    page: 48,
+    
   },
 ];

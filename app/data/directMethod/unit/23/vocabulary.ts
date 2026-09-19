@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[def]",
     sentence: "The deaf man communicates using sign language.",
     georgianSentence: "ყრუ კაცი ჟესტების ენით ურთიერთობს.",
-    page: 89,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[saɪn ˈlæŋɡwɪdʒ]",
     sentence: "Many deaf people use sign language.",
     georgianSentence: "ბევრი ყრუ ადამიანი ჟესტების ენას იყენებს.",
-    page: 89,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈlɪp riːd]",
     sentence: "She can lip-read very well.",
     georgianSentence: "მას ტუჩებით კითხვა ძალიან კარგად შეუძლია.",
-    page: 89,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ɡɪv ʌp]",
     sentence: "Never give up your dreams.",
     georgianSentence: "არასოდეს დანებდე შენს ოცნებებს.",
-    page: 89,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ədˈvɑːns]",
     sentence: "Technology continues to advance.",
     georgianSentence: "ტექნოლოგია აგრძელებს განვითარებას.",
-    page: 90,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ədˈvɑːnst]",
     sentence: "This hospital uses advanced equipment.",
     georgianSentence: "ეს საავადმყოფო თანამედროვე აღჭურვილობას იყენებს.",
-    page: 90,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˌself ˈkɒnʃəs]",
     sentence: "I felt self-conscious during the interview.",
     georgianSentence: "გასაუბრების დროს თავი უხერხულად ვიგრძენი.",
-    page: 90,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[dəˈrektə]",
     sentence: "Christopher Nolan is a famous director.",
     georgianSentence: "კრისტოფერ ნოლანი ცნობილი რეჟისორია.",
-    page: 90,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈbɒks ˌɒfɪs]",
     sentence: "The movie was a box office success.",
     georgianSentence: "ფილმი სალაროებში წარმატებული აღმოჩნდა.",
-    page: 90,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[səkˈses]",
     sentence: "Hard work often leads to success.",
     georgianSentence: "შრომა ხშირად წარმატებამდე მიჰყავს ადამიანს.",
-    page: 90,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[əˈwɔːd]",
     sentence: "She won an award for her performance.",
     georgianSentence: "მან თავისი შესრულებისთვის ჯილდო მიიღო.",
-    page: 91,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[əˈtʃiːvmənt]",
     sentence: "Graduating from university was a great achievement.",
     georgianSentence: "უნივერსიტეტის დამთავრება დიდი მიღწევა იყო.",
-    page: 91,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈkʌrɪdʒ]",
     sentence: "My parents always encourage me to study.",
     georgianSentence: "ჩემი მშობლები ყოველთვის მამხნევებენ, რომ ვისწავლო.",
-    page: 91,
+    
   },
   {
     id: 14,
@@ -123,6 +123,6 @@ export const vocabulary = [
     pronunciation: "[səˈdʒest]",
     sentence: "He suggested that we should leave early.",
     georgianSentence: "მან შემოგვთავაზა, რომ ადრე წავსულიყავით.",
-    page: 91,
+    
   },
 ];

@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈpreʃə]",
     sentence: "The pressure increases under water.",
     georgianSentence: "წყლის ქვეშ წნევა იზრდება.",
-    page: 113,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈkriːs]",
     sentence: "The temperature increased quickly.",
     georgianSentence: "ტემპერატურა სწრაფად გაიზარდა.",
-    page: 113,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈkriːs]",
     sentence: "The pain decreased after the medicine.",
     georgianSentence: "წამლის შემდეგ ტკივილი შემცირდა.",
-    page: 113,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[breɪk]",
     sentence: "Always check the brake before driving.",
     georgianSentence: "მანქანის ტარებამდე ყოველთვის შეამოწმე მუხრუჭი.",
-    page: 113,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[pʊt ðə breɪk ɒn]",
     sentence: "Don't forget to put the brake on.",
     georgianSentence: "არ დაგავიწყდეს ხელის მუხრუჭის გამოყენება.",
-    page: 113,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈlæks]",
     sentence: "You should relax after work.",
     georgianSentence: "სამსახურის შემდეგ უნდა მოეშვა.",
-    page: 114,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈlækst]",
     sentence: "She looked calm and relaxed.",
     georgianSentence: "ის მშვიდი და მოდუნებული ჩანდა.",
-    page: 114,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˌrekəˈmend]",
     sentence: "Doctors recommend regular exercise.",
     georgianSentence: "ექიმები რეგულარულ ვარჯიშს გვირჩევენ.",
-    page: 114,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˌrekəmenˈdeɪʃən]",
     sentence: "Thank you for your recommendation.",
     georgianSentence: "გმადლობ შენი რეკომენდაციისთვის.",
-    page: 114,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈsʌfə frəm]",
     sentence: "Many people suffer from stress.",
     georgianSentence: "ბევრ ადამიანს სტრესი აწუხებს.",
-    page: 114,
+    
   },
 
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "[kjʊə]",
     sentence: "Scientists are trying to cure the disease.",
     georgianSentence: "მეცნიერები დაავადების განკურნებას ცდილობენ.",
-    page: 114,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "[ˈtriːtmənt]",
     sentence: "The patient received the best treatment.",
     georgianSentence: "პაციენტმა საუკეთესო მკურნალობა მიიღო.",
-    page: 114,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "[ˈpeɪʃənt]",
     sentence: "The doctor examined the patient carefully.",
     georgianSentence: "ექიმმა პაციენტი ყურადღებით გასინჯა.",
-    page: 114,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "[ˈmedɪsn]",
     sentence: "Take your medicine twice a day.",
     georgianSentence: "მიიღე წამალი დღეში ორჯერ.",
-    page: 114,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "[ˈhelθi]",
     sentence: "Regular exercise keeps you healthy.",
     georgianSentence: "რეგულარული ვარჯიში ჯანმრთელობას ინარჩუნებს.",
-    page: 115,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "[helθ]",
     sentence: "Good health is very important.",
     georgianSentence: "კარგი ჯანმრთელობა ძალიან მნიშვნელოვანია.",
-    page: 115,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "[stres]",
     sentence: "Too much stress can cause problems.",
     georgianSentence: "ზედმეტმა სტრესმა შეიძლება პრობლემები გამოიწვიოს.",
-    page: 115,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "[kɔːz]",
     sentence: "Smoking causes serious diseases.",
     georgianSentence: "მოწევა სერიოზულ დაავადებებს იწვევს.",
-    page: 115,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "[əˈbaʊt tuː]",
     sentence: "I'm about to leave the office.",
     georgianSentence: "ოფისიდან ეს-ესაა გავდივარ.",
-    page: 115,
+    
   },
   {
     id: 20,
@@ -178,6 +178,6 @@ export const vocabulary = [
     pronunciation: "[rɪˈkʌvəri]",
     sentence: "His recovery was faster than expected.",
     georgianSentence: "მისი გამოჯანმრთელება მოსალოდნელზე სწრაფი იყო.",
-    page: 115,
+    
   },
 ];

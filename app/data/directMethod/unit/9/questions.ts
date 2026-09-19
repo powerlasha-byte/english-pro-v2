@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რატომ ეწოდება მუსიკას უნივერსალური ენა?",
     answer: "Because people all over the world can enjoy it.",
     georgianAnswer: "რადგან მთელ მსოფლიოში ადამიანებს შეუძლიათ მისი სიამოვნება.",
-    page: 33,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "როგორ შეცვალა სოციალურმა ქსელებმა ჩვენი ცხოვრება?",
     answer: "It has made communication much faster.",
     georgianAnswer: "მან კომუნიკაცია ბევრად უფრო სწრაფი გახადა.",
-    page: 33,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "იყენებ სოციალურ ქსელებს ყოველდღე?",
     answer: "Yes, I use them every day.",
     georgianAnswer: "დიახ, ყოველდღე ვიყენებ.",
-    page: 33,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "არის თუ არა ინტერნეტი მნიშვნელოვანი სოციალური ქსელი?",
     answer: "Yes, it connects billions of people.",
     georgianAnswer: "დიახ, ის მილიარდობით ადამიანს აკავშირებს.",
-    page: 33,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ჭამ საქონლის ხორცს?",
     answer: "Yes, I eat beef sometimes.",
     georgianAnswer: "დიახ, ზოგჯერ ვჭამ.",
-    page: 33,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ ხდება ზოგი ადამიანი ვეგეტარიანელი?",
     answer: "Because of health, ethical or environmental reasons.",
     georgianAnswer: "ჯანმრთელობის, ეთიკური ან გარემოსდაცვითი მიზეზების გამო.",
-    page: 33,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რომელი საკვები შეიცავს ყველაზე მეტ კალორიას?",
     answer: "Fast food and sweets usually contain many calories.",
     georgianAnswer: "სწრაფი კვება და ტკბილეული ჩვეულებრივ ბევრ კალორიას შეიცავს.",
-    page: 33,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ითვლი კალორიებს?",
     answer: "Sometimes, when I'm trying to eat healthier.",
     georgianAnswer: "ზოგჯერ, როცა ჯანსაღად კვებას ვცდილობ.",
-    page: 33,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რაში გვეხმარება სტატისტიკა?",
     answer: "Statistics help us understand facts and trends.",
     georgianAnswer: "სტატისტიკა ფაქტებისა და ტენდენციების გაგებაში გვეხმარება.",
-    page: 34,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ აგროვებენ კომპანიები მონაცემებს?",
     answer: "To make better business decisions.",
     georgianAnswer: "უკეთესი ბიზნეს გადაწყვეტილებების მისაღებად.",
-    page: 34,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რამდენია ზაფხულში საშუალო ტემპერატურა?",
     answer: "It's about thirty degrees.",
     georgianAnswer: "დაახლოებით ოცდაათი გრადუსია.",
-    page: 34,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რატომ ვადარებთ პროდუქტებს ყიდვამდე?",
     answer: "To choose the best one.",
     georgianAnswer: "საუკეთესო არჩევანის გასაკეთებლად.",
-    page: 34,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "გაყიდვები გასულ წელს გაიზარდა?",
     answer: "Yes, they increased significantly.",
     georgianAnswer: "დიახ, მნიშვნელოვნად გაიზარდა.",
-    page: 34,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "შეიძლება ფასები შემცირდეს?",
     answer: "Yes, they can decrease during sales.",
     georgianAnswer: "დიახ, ფასდაკლების დროს შეიძლება შემცირდეს.",
-    page: 34,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "სავარაუდოა, რომ ხვალ იწვიმებს?",
     answer: "Yes, according to the forecast.",
     georgianAnswer: "დიახ, პროგნოზის მიხედვით.",
-    page: 34,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "რა შედეგით დასრულდა მატჩი?",
     answer: "My team won 2-1.",
     georgianAnswer: "ჩემმა გუნდმა 2-1 მოიგო.",
-    page: 34,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "რატომ არის სამეცნიერო კვლევა მნიშვნელოვანი?",
     answer: "Because it helps us discover new knowledge.",
     georgianAnswer: "რადგან ის ახალი ცოდნის აღმოჩენაში გვეხმარება.",
-    page: 34,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "შეიძლება სტატისტიკა ზოგჯერ შეცდომაში შემყვანი იყოს?",
     answer: "Yes, if it is interpreted incorrectly.",
     georgianAnswer: "დიახ, თუ არასწორად იქნება ინტერპრეტირებული.",
-    page: 34,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "გიყვარს კვლევითი სტატიების კითხვა?",
     answer: "Yes, especially about technology.",
     georgianAnswer: "დიახ, განსაკუთრებით ტექნოლოგიების შესახებ.",
-    page: 34,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რომელ სოციალურ ქსელს იყენებ ყველაზე ხშირად?",
     answer: "I use Instagram and LinkedIn the most.",
     georgianAnswer: "ყველაზე ხშირად Instagram-ს და LinkedIn-ს ვიყენებ.",
-    page: 34,
+    
   },
 ];

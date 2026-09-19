@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე დაწინაურებულხარ?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "კი, დავწინაურებულვარ. / არა, არ დავწინაურებულვარ.",
-    page: 21,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთო, თუ დაწინაურება გინდა?",
     answer: "I should work hard and improve my skills.",
     georgianAnswer: "ბევრი უნდა ვიმუშაო და უნარები გავიუმჯობესო.",
-    page: 21,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ყოველთვე ზოგავ ფულს?",
     answer: "Yes, I save money every month.",
     georgianAnswer: "დიახ, ყოველთვე ვზოგავ ფულს.",
-    page: 21,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რატომ არის ფულის დაზოგვა მნიშვნელოვანი?",
     answer: "Because it helps us in the future.",
     georgianAnswer: "რადგან მომავალში გვეხმარება.",
-    page: 21,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ფიქრობ, წარმატება ბრმა შემთხვევითობაა?",
     answer: "No, success comes from hard work.",
     georgianAnswer: "არა, წარმატება შრომის შედეგია.",
-    page: 21,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, რა მოხდება ხვალ?",
     answer: "I suppose tomorrow will be a good day.",
     georgianAnswer: "ვფიქრობ, ხვალ კარგი დღე იქნება.",
-    page: 21,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "შენი კომპიუტერის განახლებები ავტომატურად ხდება?",
     answer: "Yes, they happen automatically.",
     georgianAnswer: "დიახ, ისინი ავტომატურად ხდება.",
-    page: 21,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "სულ გასაღებებს კარგავ?",
     answer: "No, I'm not always losing my keys.",
     georgianAnswer: "არა, სულ არ ვკარგავ გასაღებებს.",
-    page: 24,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "სულ ტელეფონს იყენებ?",
     answer: "No, only when I need it.",
     georgianAnswer: "არა, მხოლოდ როცა მჭირდება.",
-    page: 24,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ინგლისური ანბანი იცი?",
     answer: "Yes, I know it very well.",
     georgianAnswer: "დიახ, ძალიან კარგად ვიცი.",
-    page: 24,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია სახელები ანბანური თანმიმდევრობით დაალაგო?",
     answer: "Yes, I can.",
     georgianAnswer: "დიახ, შემიძლია.",
-    page: 24,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ბოლოს როდის მიხვედი აეროპორტში?",
     answer: "I arrived there last year.",
     georgianAnswer: "შარშან მივედი.",
-    page: 24,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "ოდესმე თვითმფრინავის გაფრენა გამოგრჩა?",
     answer: "No, I haven't.",
     georgianAnswer: "არა, არ გამომრჩენია.",
-    page: 24,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "გიყვარს თვითმფრინავით მოგზაურობა?",
     answer: "Yes, I enjoy it.",
     georgianAnswer: "დიახ, მიყვარს.",
-    page: 24,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "შენი მატარებელი ჩვეულებრივ რომელ საათზე გადის?",
     answer: "It usually departs in the morning.",
     georgianAnswer: "ჩვეულებრივ დილით გადის.",
-    page: 24,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ დროზე მიდიხარ?",
     answer: "Yes, I usually arrive on time.",
     georgianAnswer: "დიახ, ჩვეულებრივ დროზე მივდივარ.",
-    page: 24,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "რიგში დგომა გიყვარს?",
     answer: "No, I don't like waiting in queues.",
     georgianAnswer: "არა, რიგში დგომა არ მიყვარს.",
-    page: 24,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "ოდესმე საზღვარგარეთ გიმოგზაურია?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "კი, მიმოგზაურია. / არა, არ მიმოგზაურია.",
-    page: 24,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მნიშვნელოვანი აეროპორტში ადრე მისვლა?",
     answer: "Because of check-in and security checks.",
     georgianAnswer: "რეგისტრაციისა და უსაფრთხოების შემოწმების გამო.",
-    page: 24,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რას აკეთებ გაფრენის მოლოდინში?",
     answer: "I usually read a book or drink coffee.",
     georgianAnswer: "ჩვეულებრივ წიგნს ვკითხულობ ან ყავას ვსვამ.",
-    page: 24,
+    
   },
 ];

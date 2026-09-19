@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/dʒɔɪ/",
     sentence: "The children jumped for joy.",
     georgianSentence: "ბავშვებმა სიხარულისგან ახტნენ.",
-    page: 30,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˈhjuːmə/",
     sentence: "British humour is very famous.",
     georgianSentence: "ბრიტანული იუმორი ძალიან ცნობილია.",
-    page: 30,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/sens əv ˈhjuːmə/",
     sentence: "He has a great sense of humour.",
     georgianSentence: "მას შესანიშნავი იუმორის გრძნობა აქვს.",
-    page: 30,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈtɪpɪkəl/",
     sentence: "This is a typical English breakfast.",
     georgianSentence: "ეს ტიპური ინგლისური საუზმეა.",
-    page: 30,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/sens/",
     sentence: "Sight is one of the five senses.",
     georgianSentence: "მხედველობა ხუთი გრძნობიდან ერთ-ერთია.",
-    page: 30,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ɪkˈsaɪtɪd/",
     sentence: "The children were excited about Christmas.",
     georgianSentence: "ბავშვები შობის გამო აღელვებულები იყვნენ.",
-    page: 30,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ɪkˈsaɪtɪŋ/",
     sentence: "It was an exciting football match.",
     georgianSentence: "ეს ძალიან ამაღელვებელი ფეხბურთის მატჩი იყო.",
-    page: 30,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/dɪˈskʌvəri/",
     sentence: "The discovery changed history.",
     georgianSentence: "ამ აღმოჩენამ ისტორია შეცვალა.",
-    page: 30,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɜːli/",
     sentence: "She has long curly hair.",
     georgianSentence: "მას გრძელი ხვეული თმა აქვს.",
-    page: 31,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/teɪl/",
     sentence: "The dog wagged its tail.",
     georgianSentence: "ძაღლმა კუდი გააქნია.",
-    page: 31,
+    
   },
    {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/ˈhɪpəʊ/",
     sentence: "The hippo spent most of the day in the water.",
     georgianSentence: "ჰიპოპოტამმა დღის უმეტესი ნაწილი წყალში გაატარა.",
-    page: 31,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/wæɡ/",
     sentence: "Dogs wag their tails when they're happy.",
     georgianSentence: "ძაღლები ბედნიერებისას კუდს აქნევენ.",
-    page: 31,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/ˈjuːnɪt/",
     sentence: "A metre is a unit of length.",
     georgianSentence: "მეტრი სიგრძის ერთეულია.",
-    page: 31,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/sɪˈkjʊə/",
     sentence: "Police secured the area.",
     georgianSentence: "პოლიციამ ტერიტორია დაიცვა.",
-    page: 31,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/ˈjuːnɪvɜːs/",
     sentence: "The universe contains billions of stars.",
     georgianSentence: "სამყარო მილიარდობით ვარსკვლავს შეიცავს.",
-    page: 32,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/wʌns/",
     sentence: "I visited Paris once.",
     georgianSentence: "პარიზში ერთხელ ვიყავი.",
-    page: 32,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/ˈfiːtʃə/",
     sentence: "This phone has many useful features.",
     georgianSentence: "ამ ტელეფონს ბევრი სასარგებლო ფუნქცია აქვს.",
-    page: 32,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/ɪkˈstriːmli/",
     sentence: "The weather was extremely cold.",
     georgianSentence: "ამინდი უკიდურესად ცივი იყო.",
-    page: 32,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "/fɔːl əˈsliːp/",
     sentence: "I fell asleep during the movie.",
     georgianSentence: "ფილმის დროს ჩამეძინა.",
-    page: 32,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "/ət liːst/",
     sentence: "You should sleep at least eight hours.",
     georgianSentence: "მინიმუმ რვა საათი უნდა გეძინოს.",
-    page: 32,
+    
   },
 ];

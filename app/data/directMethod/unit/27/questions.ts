@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "სოფელში ცხოვრებას ამჯობინებ თუ ქალაქში?",
     answer: "I'd rather live in a city.",
     georgianAnswer: "ქალაქში ცხოვრებას ვამჯობინებ.",
-    page: 105,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "ოდესმე შეჯიბრებაში დამარცხებულხარ?",
     answer: "Yes, but I learned a lot from the experience.",
     georgianAnswer: "დიახ, მაგრამ ამ გამოცდილებიდან ბევრი ვისწავლე.",
-    page: 105,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "გაკვეთილზე ყოველთვის ყურადღებით უსმენ?",
     answer: "Yes, I try to pay attention all the time.",
     georgianAnswer: "დიახ, ყოველთვის ვცდილობ ყურადღებით ვიყო.",
-    page: 105,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმეს რამის გაკეთებაში დაურწმუნებიხარ?",
     answer: "Yes, my friends persuaded me to join the gym.",
     georgianAnswer: "დიახ, მეგობრებმა დარბაზში სიარული დამაწყებინეს.",
-    page: 106,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმეს გადაწყვეტილებას შეწინააღმდეგებიხარ?",
     answer: "Yes, when I thought it wasn't fair.",
     georgianAnswer: "დიახ, როცა უსამართლოდ მიმაჩნდა.",
-    page: 106,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "როგორ შეგვიძლია შშმ პირებისთვის ცხოვრების გამარტივება?",
     answer: "We should make buildings and transport more accessible.",
     georgianAnswer: "შენობები და ტრანსპორტი უფრო ხელმისაწვდომი უნდა გავხადოთ.",
-    page: 106,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "მატარებლით მოგზაურობას ამჯობინებ თუ თვითმფრინავით?",
     answer: "I'd rather travel by plane.",
     georgianAnswer: "თვითმფრინავით მოგზაურობას ვამჯობინებ.",
-    page: 107,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "სწავლის დროს ყურადღების კონცენტრირებაში რა გეხმარება?",
     answer: "A quiet room helps me pay attention.",
     georgianAnswer: "წყნარი ოთახი ყურადღების კონცენტრირებაში მეხმარება.",
-    page: 107,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "შენი დარწმუნება ადვილია?",
     answer: "No, I usually think carefully before making a decision.",
     georgianAnswer: "არა, გადაწყვეტილების მიღებამდე კარგად ვფიქრობ.",
-    page: 107,
+    
   },
   {
     id: 10,
@@ -77,6 +77,6 @@ export const questions = [
     georgianQuestion: "მარტო მუშაობას ამჯობინებ თუ გუნდში?",
     answer: "I'd rather work in a team.",
     georgianAnswer: "გუნდში მუშაობას ვამჯობინებ.",
-    page: 107,
+    
   },
 ];

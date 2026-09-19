@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რის გაკეთებას უკრძალავენ ექიმები ადამიანებს?",
     answer: "Doctors usually forbid people from smoking or eating too much sugar.",
     georgianAnswer: "ექიმები ადამიანებს ჩვეულებრივ მოწევას და ზედმეტი შაქრის მიღებას უკრძალავენ.",
-    page: 77,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "ბავშვობაში რას გიკრძალავდნენ მშობლები?",
     answer: "My parents forbade me from staying out late.",
     georgianAnswer: "მშობლები გვიან გარეთ დარჩენას მიკრძალავდნენ.",
-    page: 77,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "კარგად ყვები ხუმრობებს?",
     answer: "Yes, I enjoy telling jokes.",
     georgianAnswer: "დიახ, ხუმრობების მოყოლა მიყვარს.",
-    page: 77,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებ, როცა ვინმე შენს ხუმრობას ვერ იგებს?",
     answer: "I explain the joke or simply smile.",
     georgianAnswer: "ხუმრობას ვუხსნი ან უბრალოდ ვიღიმი.",
-    page: 77,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "როდესაც ბნელ ოთახში შედიხარ, ყველაფერს მაშინვე გარკვევით ხედავ?",
     answer: "No, my eyes need time to get accustomed to the dark.",
     georgianAnswer: "არა, ჩემს თვალებს სიბნელესთან შესაგუებლად დრო სჭირდება.",
-    page: 73,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რას გააკეთებდი, თუ უძილობა დაგეწყებოდა?",
     answer: "I'd try to relax and read a book.",
     georgianAnswer: "დასვენებას ვეცდებოდი და წიგნს წავიკითხავდი.",
-    page: 73,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "შენს უბანში თავს უსაფრთხოდ გრძნობ?",
     answer: "Yes, I feel safe in my neighbourhood.",
     georgianAnswer: "დიახ, ჩემს უბანში თავს უსაფრთხოდ ვგრძნობ.",
-    page: 74,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ვინ უვლის შენს სახლს, როცა სახლში არ ხარ?",
     answer: "My neighbours watch over my house.",
     georgianAnswer: "ჩემს სახლს მეზობლები უვლიან.",
-    page: 74,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რამდენი დრო დაგჭირდებოდა სხვა ქალაქში ცხოვრებასთან შესაგუებლად?",
     answer: "It would take me a few weeks.",
     georgianAnswer: "რამდენიმე კვირა დამჭირდებოდა.",
-    page: 76,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ადრე ადგომას შეჩვეული ხარ?",
     answer: "Yes, I'm used to getting up early.",
     georgianAnswer: "დიახ, ადრე ადგომას შეჩვეული ვარ.",
-    page: 76,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა ტიპის რაღაცებს ვერ იტან?",
     answer: "I can't stand people who are rude.",
     georgianAnswer: "უზრდელ ადამიანებს ვერ ვიტან.",
-    page: 83,
+    
   },
   {
     id: 12,
@@ -93,6 +93,6 @@ export const questions = [
     georgianQuestion: "რას გააკეთებდი, სამსახურში რომ დაგეჩაგრათ?",
     answer: "I'd report it to my manager.",
     georgianAnswer: "ჩემს მენეჯერს შევატყობინებდი.",
-    page: 84,
+    
   },
 ];

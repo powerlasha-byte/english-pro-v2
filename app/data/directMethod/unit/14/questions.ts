@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რა არის ძიძის (babysitter-ის) საქმე?",
     answer: "A babysitter's job is to look after a child when the parents have to go to work.",
     georgianAnswer: "ძიძის საქმეა ბავშვის მოვლა, როცა მშობლებს სამსახურში წასვლა უწევთ.",
-    page: 53,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა არის au pair?",
     answer: "An au pair is a young person from abroad who comes to learn a language and, in return, looks after children and helps with the housework.",
     georgianAnswer: "Au pair არის ახალგაზრდა უცხოეთიდან, რომელიც ენის სასწავლად ჩადის და სანაცვლოდ ბავშვებს უვლის და საოჯახო საქმეებში ეხმარება.",
-    page: 53,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ოდესმე მიგიღია მონაწილეობა au pair პროგრამაში?",
     answer: "No, I have never taken part in an au pair programme.",
     georgianAnswer: "არა, არასოდეს მიმიღია მონაწილეობა au pair პროგრამაში.",
-    page: 53,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რამდენი წლის უნდა იყოს ბავშვი, რომ ლეკვის მოვლა შეძლოს?",
     answer: "A child must be at least seven before they can look after a puppy.",
     georgianAnswer: "ბავშვი მინიმუმ შვიდი წლის უნდა იყოს, რომ ლეკვს მოუაროს.",
-    page: 53,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რა ასაკში შეუძლიათ მოზარდებს საკუთარ თავზე ზრუნვა?",
     answer: "Teenagers become able to look after themselves at the age of seventeen.",
     georgianAnswer: "მოზარდებს საკუთარ თავზე ზრუნვა დაახლოებით ჩვიდმეტი წლის ასაკში შეუძლიათ.",
-    page: 53,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "შეძლებდი ავადმყოფი ადამიანის მოვლას?",
     answer: "Yes, I'd be able to look after someone who felt ill.",
     georgianAnswer: "დიახ, ავადმყოფ ადამიანს მოვუვლიდი.",
-    page: 53,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა ეხმარება ადამიანებს ცხოვრების მართვაში?",
     answer: "Computers and credit cards help people manage their lives.",
     georgianAnswer: "კომპიუტერები და საკრედიტო ბარათები ადამიანებს ცხოვრების მართვაში ეხმარება.",
-    page: 54,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "როგორ ამარტივებს მანქანა ქალაქში ცხოვრებას?",
     answer: "Cars make it easier to manage one's life because they help save time.",
     georgianAnswer: "მანქანა ცხოვრებას ამარტივებს, რადგან დროს ზოგავს.",
-    page: 54,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "სახლში რის გარეშე ვერ გაძლებ?",
     answer: "I can't manage without a fridge and a washing machine.",
     georgianAnswer: "მაცივრისა და სარეცხი მანქანის გარეშე ვერ გავძლებდი.",
-    page: 54,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ვის ქირაობენ ხოლმე მშობლები, თუ ბავშვების მოვლას ვერ ახერხებენ?",
     answer: "Parents sometimes employ a nanny if they can't find the time to look after their children.",
     georgianAnswer: "მშობლები ზოგჯერ ძიძას ქირაობენ, თუ ბავშვებისთვის დრო არ აქვთ.",
-    page: 54,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "გარემოსდაცვითი აქტივისტების რომელი ორგანიზაციები იცი?",
     answer: "I know organisations such as Greenpeace and WWF.",
     georgianAnswer: "ვიცი ისეთი ორგანიზაციები, როგორიცაა Greenpeace და WWF.",
-    page: 54,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "უნდა შეზღუდონ თუ არა მთავრობებმა ბუნებრივი რესურსების გამოყენება?",
     answer: "Yes, governments should limit the use of natural resources.",
     georgianAnswer: "დიახ, მთავრობებმა უნდა შეზღუდონ ბუნებრივი რესურსების გამოყენება.",
-    page: 55,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რატომ უთიშავენ ადამიანებს ზოგჯერ ელექტროენერგიას?",
     answer: "People sometimes have their electricity cut off because they don't pay the bill on time.",
     georgianAnswer: "ზოგჯერ ადამიანებს ელექტროენერგიას იმიტომ უთიშავენ, რომ გადასახადს დროულად არ იხდიან.",
-    page: 55,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რა სიტუაციაში შეიძლება სამყაროსგან მოწყვეტილად იგრძნო თავი?",
     answer: "You can feel cut off from the world when you're far away from people or on a desert island.",
     georgianAnswer: "შეიძლება სამყაროსგან მოწყვეტილად იგრძნო თავი, როცა ადამიანებისგან შორს ან უკაცრიელ კუნძულზე ხარ.",
-    page: 55,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "რომელ ცხოველს შეუძლია საკვების მოსაპოვებლად ელექტროენერგიის გამომუშავება?",
     answer: "The electric eel is able to produce electricity to kill for food.",
     georgianAnswer: "ელექტრულ გველთევზას შეუძლია ელექტროენერგიის გამომუშავება საკვების მოსაპოვებლად.",
-    page: 55,
+    
   },
 ];

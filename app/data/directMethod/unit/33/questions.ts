@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გიყიდია ისეთი რამ, რაც სინამდვილეში არ გჭირდებოდა?",
     answer: "Yes, I have. I needn't have spent that money.",
     georgianAnswer: "დიახ. ის ფული ტყუილად დავხარჯე.",
-    page: 125,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გინერვიულია ისეთ რამეზე, რომელიც ბოლოს კარგად დასრულდა?",
     answer: "Yes, I needn't have worried.",
     georgianAnswer: "დიახ, ნერვიულობა საჭირო არ იყო.",
-    page: 125,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "გუშინ სწავლა დაგჭირდა?",
     answer: "Yes, I needed to prepare for my lesson.",
     georgianAnswer: "დიახ, გაკვეთილისთვის მომზადება დამჭირდა.",
-    page: 125,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე წაგიღია ქოლგა, როცა წვიმა საერთოდ არ მოსულა?",
     answer: "Yes, I needn't have taken it.",
     georgianAnswer: "დიახ, მისი წაღება საჭირო არ იყო.",
-    page: 125,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ ფულს ფრთხილად ხარჯავ?",
     answer: "Yes, I always think before buying something.",
     georgianAnswer: "დიახ, ყიდვამდე ყოველთვის ვფიქრობ.",
-    page: 126,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ოდესმე დაგვიწყებია რაიმე მნიშვნელოვანი?",
     answer: "Yes, but luckily it wasn't a serious problem.",
     georgianAnswer: "დიახ, მაგრამ საბედნიეროდ სერიოზული პრობლემა არ ყოფილა.",
-    page: 126,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "დღეს ადრე გაღვიძება დაგჭირდა?",
     answer: "Yes, because I had work.",
     georgianAnswer: "დიახ, რადგან სამსახური მქონდა.",
-    page: 126,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რას ყიდულობენ ადამიანები ხშირად ტყუილად?",
     answer: "People often buy clothes or gadgets they don't really need.",
     georgianAnswer: "ადამიანები ხშირად ყიდულობენ ტანსაცმელს ან გაჯეტებს, რომლებიც სინამდვილეში არ სჭირდებათ.",
-    page: 126,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "მნიშვნელოვანია ხარჯების დაგეგმვა?",
     answer: "Yes, it helps save money.",
     georgianAnswer: "დიახ, ეს ფულის დაზოგვაში გვეხმარება.",
-    page: 126,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გაგიკეთებია ზედმეტი საქმე, რომელიც საჭირო არ იყო?",
     answer: "Yes, I needn't have done it.",
     georgianAnswer: "დიახ, მისი გაკეთება საჭირო არ იყო.",
-    page: 126,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რას აკეთებ მნიშვნელოვანი ნივთის ყიდვამდე?",
     answer: "I compare prices and think carefully.",
     georgianAnswer: "ფასებს ვადარებ და კარგად ვფიქრობ.",
-    page: 127,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ფული დაგიხარჯავს ისეთ ნივთზე, რომელიც საერთოდ არ გამოგიყენებია?",
     answer: "Yes, and I regretted buying it.",
     georgianAnswer: "დიახ, და მისი ყიდვა ვინანე.",
-    page: 127,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მნიშვნელოვანი ყიდვამდე დაფიქრება?",
     answer: "Because it helps us avoid wasting money.",
     georgianAnswer: "რადგან ფულის ტყუილად დახარჯვისგან გვიცავს.",
-    page: 127,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "უფრო ფულის დაზოგვა გირჩევნია თუ დახარჯვა?",
     answer: "I prefer saving money for important things.",
     georgianAnswer: "მნიშვნელოვანი საქმეებისთვის ფულის დაზოგვა მირჩევნია.",
-    page: 127,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რამე მხოლოდ იმიტომ გიყიდია, რომ ფასდაკლება იყო?",
     answer: "Yes, sometimes I do.",
     georgianAnswer: "დიახ, ზოგჯერ ასე ვიქცევი.",
-    page: 127,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "შოპინგის შემდეგ ჩვეულებრივ ჩეკებს ინახავ?",
     answer: "Yes, especially for expensive items.",
     georgianAnswer: "დიახ, განსაკუთრებით ძვირად ღირებული ნივთებისთვის.",
-    page: 128,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ნივთი მაღაზიაში დაგიბრუნებია?",
     answer: "Yes, because it was damaged.",
     georgianAnswer: "დიახ, რადგან დაზიანებული იყო.",
-    page: 128,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რომელია საუკეთესო ნივთი, რაც ოდესმე გიყიდია?",
     answer: "My laptop is the best thing I've ever bought.",
     georgianAnswer: "ლეპტოპი საუკეთესო ნივთია, რაც ოდესმე მიყიდია.",
-    page: 128,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "რეკლამა გავლენას ახდენს შენს ყიდვის გადაწყვეტილებებზე?",
     answer: "Sometimes, but I always compare products first.",
     georgianAnswer: "ზოგჯერ კი, მაგრამ ჯერ ყოველთვის პროდუქტებს ვადარებ.",
-    page: 128,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რა რჩევას მისცემდი ადამიანს, რომელიც ძალიან ბევრ ფულს ხარჯავს?",
     answer: "I would tell them to make a budget and avoid unnecessary shopping.",
     georgianAnswer: "ვურჩევდი, ბიუჯეტი შეადგინოს და ზედმეტ საყიდლებს მოერიდოს.",
-    page: 128,
+    
   },
 ];

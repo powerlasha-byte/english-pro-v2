@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "გინდოდა პენტჰაუსში ცხოვრება?",
     answer: "Yes, I'd like to live in a penthouse.",
     georgianAnswer: "დიახ, პენტჰაუსში ცხოვრება მინდოდა.",
-    page: 13,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა არის პენტჰაუსში ცხოვრების მთავარი უპირატესობა?",
     answer: "The main advantage is the magnificent view.",
     georgianAnswer: "მთავარი უპირატესობა შესანიშნავი ხედია.",
-    page: 13,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა არის პენტჰაუსში ცხოვრების ერთი ნაკლი?",
     answer: "It can be very expensive.",
     georgianAnswer: "ის შეიძლება ძალიან ძვირი იყოს.",
-    page: 13,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "წყნარ უბანს უპირატესობად მიიჩნევ?",
     answer: "Yes, I consider a quiet neighbourhood a big advantage.",
     georgianAnswer: "დიახ, წყნარ უბანს დიდ უპირატესობად მივიჩნევ.",
-    page: 13,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "გინდოდა ცათამბჯენში ცხოვრება?",
     answer: "Yes, I'd like to live in a modern skyscraper.",
     georgianAnswer: "დიახ, თანამედროვე ცათამბჯენში ცხოვრება მინდოდა.",
-    page: 13,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რამდენი სართული აქვს შენს შენობას?",
     answer: "My building has several floors.",
     georgianAnswer: "ჩემს შენობას რამდენიმე სართული აქვს.",
-    page: 14,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ყოველდღე ლიფტს იყენებ?",
     answer: "Yes, I use the lift every day.",
     georgianAnswer: "დიახ, ყოველდღე ლიფტს ვიყენებ.",
-    page: 14,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია სტრესულ სიტუაციებთან გამკლავება?",
     answer: "Yes, I can cope with stressful situations.",
     georgianAnswer: "დიახ, სტრესულ სიტუაციებთან გამკლავება შემიძლია.",
-    page: 14,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა სტრატეგიას იყენებ რთული პრობლემის გადაჭრისას?",
     answer: "I try to solve it step by step.",
     georgianAnswer: "ვცდილობ, ეტაპობრივად გადავჭრა.",
-    page: 14,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "გინდოდა ხელფასის გაზრდა?",
     answer: "Yes, everyone would like to raise their salary.",
     georgianAnswer: "დიახ, ყველას უნდა ხელფასის გაზრდა.",
-    page: 14,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია ახალი ბინის ყიდვა?",
     answer: "Not yet, I can't afford it.",
     georgianAnswer: "ჯერ არა, ამის საშუალება არ მაქვს.",
-    page: 15,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "სად ისურვებდი საქორწინო მოგზაურობის გატარებას?",
     answer: "I'd like to spend my honeymoon in Italy.",
     georgianAnswer: "საქორწინო მოგზაურობას იტალიაში გავატარებდი.",
-    page: 15,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "ზამთარში ჩვეულებრივ რა ფარავს მთებს?",
     answer: "Snow usually covers the mountains.",
     georgianAnswer: "ზამთარში მთებს ჩვეულებრივ თოვლი ფარავს.",
-    page: 15,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ბავშვობაში დამალობანას თამაშობდი?",
     answer: "Yes, I played hide-and-seek a lot.",
     georgianAnswer: "დიახ, ბავშვობაში ხშირად ვთამაშობდი დამალობანას.",
-    page: 15,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რით არის დაფარული შენი სახლის სახურავი?",
     answer: "It is covered with tiles.",
     georgianAnswer: "ის კრამიტით არის დაფარული.",
-    page: 16,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რაიმეს შეცვლა მოგიხდა სახლში?",
     answer: "Yes, I replaced the windows.",
     georgianAnswer: "დიახ, ფანჯრები შევცვალე.",
-    page: 16,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "ინგლისურის სწავლას უპირატესობად მიიჩნევ?",
     answer: "Yes, I consider learning English a great advantage.",
     georgianAnswer: "დიახ, ინგლისურის სწავლას დიდ უპირატესობად მივიჩნევ.",
-    page: 16,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რა არის ინტენსიური მოძრაობის ყველაზე დიდი ნაკლი?",
     answer: "It wastes a lot of time.",
     georgianAnswer: "ის ბევრ დროს გვაკარგვინებს.",
-    page: 16,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "ადრე რა იყო ეს შენობა?",
     answer: "It used to be a hotel.",
     georgianAnswer: "ადრე ეს სასტუმრო იყო.",
-    page: 16,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რას მიიჩნევ შენი ქალაქის ყველაზე დიდ უპირატესობად?",
     answer: "I consider the people and opportunities the biggest advantages.",
     georgianAnswer: "ყველაზე დიდ უპირატესობად ადამიანებსა და შესაძლებლობებს მივიჩნევ.",
-    page: 16,
+    
   },
 ];

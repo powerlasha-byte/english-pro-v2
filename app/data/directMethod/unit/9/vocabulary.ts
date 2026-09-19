@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/ˌjuːnɪˈvɜːsl/",
     sentence: "Music is a universal language.",
     georgianSentence: "მუსიკა უნივერსალური ენაა.",
-    page: 33,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˈsəʊʃl ˈnetwɜːkɪŋ/",
     sentence: "Social networking has changed communication.",
     georgianSentence: "სოციალურმა ქსელებმა კომუნიკაცია შეცვალა.",
-    page: 33,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ˈnetwɜːk/",
     sentence: "The company has a large business network.",
     georgianSentence: "კომპანიას დიდი ბიზნეს ქსელი აქვს.",
-    page: 33,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈsəʊʃl/",
     sentence: "Humans are social beings.",
     georgianSentence: "ადამიანები სოციალური არსებები არიან.",
-    page: 33,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/biːf/",
     sentence: "Beef is rich in protein.",
     georgianSentence: "საქონლის ხორცი ცილებით მდიდარია.",
-    page: 33,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ˌvedʒəˈteəriən/",
     sentence: "She has been a vegetarian for years.",
     georgianSentence: "ის უკვე მრავალი წელია ვეგეტარიანელია.",
-    page: 33,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ˈkæləri/",
     sentence: "This meal contains many calories.",
     georgianSentence: "ეს კერძი ბევრ კალორიას შეიცავს.",
-    page: 33,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/ˈfɪɡə(r)/",
     sentence: "The sales figures increased this year.",
     georgianSentence: "გაყიდვების მაჩვენებლები წელს გაიზარდა.",
-    page: 34,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/stəˈtɪstɪk/",
     sentence: "Statistics show positive results.",
     georgianSentence: "სტატისტიკა დადებით შედეგებს აჩვენებს.",
-    page: 34,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/pəˈsentɪdʒ/",
     sentence: "A high percentage of people use smartphones.",
     georgianSentence: "ადამიანების დიდი პროცენტი სმარტფონებს იყენებს.",
-    page: 34,
+    
   },
  
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "/ˈsɜːveɪ/",
     sentence: "The company conducted a customer survey.",
     georgianSentence: "კომპანიამ მომხმარებელთა გამოკითხვა ჩაატარა.",
-    page: 34,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "/ˈævərɪdʒ/",
     sentence: "The average salary has increased.",
     georgianSentence: "საშუალო ხელფასი გაიზარდა.",
-    page: 34,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "/kəmˈpeə(r)/",
     sentence: "Let's compare the two reports.",
     georgianSentence: "მოდი ეს ორი ანგარიში შევადაროთ.",
-    page: 34,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "/kəmˈpærɪsn/",
     sentence: "The comparison showed interesting results.",
     georgianSentence: "შედარებამ საინტერესო შედეგები აჩვენა.",
-    page: 34,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "/ɪnˈkriːs/",
     sentence: "Sales continue to increase every month.",
     georgianSentence: "გაყიდვები ყოველთვე იზრდება.",
-    page: 34,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "/dɪˈkriːs/",
     sentence: "The number of accidents decreased.",
     georgianSentence: "ავარიების რაოდენობა შემცირდა.",
-    page: 34,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "/ˈlaɪkli/",
     sentence: "It's likely that prices will rise.",
     georgianSentence: "სავარაუდოა, რომ ფასები გაიზრდება.",
-    page: 34,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "/ʌnˈlaɪkli/",
     sentence: "It's unlikely that it will snow today.",
     georgianSentence: "ნაკლებად სავარაუდოა, რომ დღეს თოვლი მოვა.",
-    page: 34,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈzʌlt/",
     sentence: "The exam results were excellent.",
     georgianSentence: "გამოცდის შედეგები შესანიშნავი იყო.",
-    page: 34,
+    
   },
   {
     id: 20,
@@ -178,7 +178,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈsɜːtʃ/",
     sentence: "Scientists are doing research on cancer.",
     georgianSentence: "მეცნიერები კიბოს შესახებ კვლევას ატარებენ.",
-    page: 34,
+    
   },
   {
     id: 21,
@@ -187,7 +187,7 @@ export const vocabulary = [
     pronunciation: "/ˈdeɪtə/",
     sentence: "The report contains useful data.",
     georgianSentence: "ანგარიში სასარგებლო მონაცემებს შეიცავს.",
-    page: 34,
+    
   },
   {
     id: 22,
@@ -196,7 +196,7 @@ export const vocabulary = [
     pronunciation: "/trend/",
     sentence: "The trend shows continuous growth.",
     georgianSentence: "ტენდენცია უწყვეტ ზრდას აჩვენებს.",
-    page: 34,
+    
   },
   {
     id: 23,
@@ -205,7 +205,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈpɔːt/",
     sentence: "The manager presented the annual report.",
     georgianSentence: "მენეჯერმა წლიური ანგარიში წარადგინა.",
-    page: 34,
+    
   },
   {
     id: 24,
@@ -214,7 +214,7 @@ export const vocabulary = [
     pronunciation: "/ˈevɪdəns/",
     sentence: "There is strong evidence to support the idea.",
     georgianSentence: "ამ იდეის მხარდასაჭერად ძლიერი მტკიცებულება არსებობს.",
-    page: 34,
+    
   },
   {
     id: 25,
@@ -223,6 +223,6 @@ export const vocabulary = [
     pronunciation: "/ˈestɪmeɪt/",
     sentence: "Experts estimated the total cost.",
     georgianSentence: "ექსპერტებმა მთლიანი ღირებულება შეაფასეს.",
-    page: 34,
+    
   },
 ];

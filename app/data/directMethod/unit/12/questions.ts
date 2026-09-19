@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "საპნის ოპერები გართობს?",
     answer: "Yes, they do. / No, they don't.",
     georgianAnswer: "დიახ, მრთობს. / არა, არ მრთობს.",
-    page: 45,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რომელია შენი საყვარელი სერიალი?",
     answer: "My favourite TV series is Friends.",
     georgianAnswer: "ჩემი საყვარელი სერიალია Friends.",
-    page: 45,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ კარგად გესმის დიაგრამები და გრაფიკები?",
     answer: "Yes, I usually understand charts and graphs.",
     georgianAnswer: "დიახ, ჩვეულებრივ კარგად მესმის დიაგრამები და გრაფიკები.",
-    page: 45,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რატომ იყენებენ ადამიანები დიაგრამებს?",
     answer: "People use charts to present information clearly.",
     georgianAnswer: "ადამიანები დიაგრამებს ინფორმაციის გასაგებად წარმოსაჩენად იყენებენ.",
-    page: 45,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გინახავს ფონეტიკური ცხრილი?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "დიახ, მინახავს. / არა, არ მინახავს.",
-    page: 45,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ გვჭირდება რუკები?",
     answer: "We need maps to find places and directions.",
     georgianAnswer: "რუკები ადგილებისა და მიმართულებების საპოვნელად გვჭირდება.",
-    page: 45,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "იყენებ ხოლმე სასწორს?",
     answer: "Yes, I do. / No, I don't.",
     georgianAnswer: "დიახ, ვიყენებ. / არა, არ ვიყენებ.",
-    page: 46,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ყოფილხარ ავარიის ადგილზე?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "დიახ, ვყოფილვარ. / არა, არ ვყოფილვარ.",
-    page: 46,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "გინდოდა მთის ნაკადულთან ცხოვრება?",
     answer: "Yes, I would because it's peaceful.",
     georgianAnswer: "დიახ, რადგან მშვიდი გარემოა.",
-    page: 46,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რას ნიშნავს 'გარემოს შეცვლა'?",
     answer: "It means going to a different place or environment.",
     georgianAnswer: "ეს ნიშნავს სხვა ადგილას ან გარემოში გადასვლას.",
-    page: 46,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ როგორ ესალმები მეგობრებს?",
     answer: "I usually say, 'Hi! How are you?'",
     georgianAnswer: "ჩვეულებრივ ვეუბნები: „გამარჯობა! როგორ ხარ?“",
-    page: 47,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ოდესმე შეგიღებავს თმა?",
     answer: "Yes, I have. / No, I haven't.",
     georgianAnswer: "დიახ, შემიღებავს. / არა, არ შემიღებავს.",
-    page: 47,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "შენი აზრით, ადამიანები უფრო მეტს უნდა სწირავდნენ ქველმოქმედებას?",
     answer: "Yes, I think helping people is important.",
     georgianAnswer: "დიახ, ვფიქრობ, ადამიანების დახმარება მნიშვნელოვანია.",
-    page: 47,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "გააგრძელებდი საქმეს, თუნდაც რთულად ჩანდეს?",
     answer: "Yes, I would try my best.",
     georgianAnswer: "დიახ, მაქსიმალურად ვეცდებოდი.",
-    page: 48,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "შენი აზრით, კაცები ასაკთან ერთად ჩვეულებრივ მელოტდებიან?",
     answer: "Some do, but not all men.",
     georgianAnswer: "ზოგი კი, მაგრამ არა ყველა კაცი.",
-    page: 48,
+    
   },
 ];

@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "დაბინძურების რა სახეობები იცი?",
     answer: "I know air pollution, water pollution and noise pollution.",
     georgianAnswer: "ვიცი ჰაერის, წყლის და ხმაურის დაბინძურება.",
-    page: 57,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "სად არის გარემო ყველაზე მეტად დაბინძურებული?",
     answer: "I think the environment is polluted the most in developing countries.",
     georgianAnswer: "ვფიქრობ, გარემო ყველაზე მეტად განვითარებად ქვეყნებშია დაბინძურებული.",
-    page: 57,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რომელი საქმიანობები ზრდის ქალაქებში დაბინძურებას?",
     answer: "Factories, traffic and the use of toxic chemicals increase pollution.",
     georgianAnswer: "ქარხნები, ტრანსპორტი და ტოქსიკური ქიმიკატების გამოყენება ზრდის დაბინძურებას.",
-    page: 57,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რომელი მასალების გადამუშავებაა შესაძლებელი?",
     answer: "Paper, plastic and glass can be recycled.",
     georgianAnswer: "ქაღალდის, პლასტმასისა და მინის გადამუშავება შესაძლებელია.",
-    page: 57,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "როგორ შეგვიძლია გარემოზე ზრუნვა?",
     answer: "We can recycle and use reusable products.",
     georgianAnswer: "შეგვიძლია გადავამუშავოთ ნარჩენები და მრავალჯერადი ნივთები გამოვიყენოთ.",
-    page: 57,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "არის თუ არა გადამუშავება დაბინძურების კარგი გამოსავალი? რატომ?",
     answer: "Yes, because it saves energy and reduces waste.",
     georgianAnswer: "კი, რადგან ენერგიას ზოგავს და ნარჩენებს ამცირებს.",
-    page: 57,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მზის ენერგია ბირთვულ ენერგიაზე უსაფრთხო?",
     answer: "Because there is no danger of nuclear accidents.",
     georgianAnswer: "რადგან ბირთვული ავარიების საფრთხე არ არსებობს.",
-    page: 58,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "შეეწინააღმდეგებოდი შენს ქალაქთან ახლოს ატომური ელექტროსადგურის აშენებას?",
     answer: "Yes, I would oppose it because of safety concerns.",
     georgianAnswer: "დიახ, უსაფრთხოების გამო შევეწინააღმდეგებოდი.",
-    page: 58,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა არის სკუბა დაივინგი?",
     answer: "Scuba diving is swimming underwater with special equipment.",
     georgianAnswer: "სკუბა დაივინგი არის წყალქვეშ ცურვა სპეციალური აღჭურვილობით.",
-    page: 59,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მარჯნის რიფები მნიშვნელოვანი?",
     answer: "Because they provide a home for many sea animals.",
     georgianAnswer: "რადგან ისინი მრავალი ზღვის ცხოველის საცხოვრებელია.",
-    page: 59,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რომელი თევზის ეშინიათ ყველაზე მეტად სკუბა მყვინთავებს?",
     answer: "They are most afraid of sharks.",
     georgianAnswer: "მათ ყველაზე მეტად ზვიგენების ეშინიათ.",
-    page: 59,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რატომ ვერ აბარებს ბევრი ადამიანი მართვის გამოცდას პირველ ცდაზე?",
     answer: "Because they don't have enough practice.",
     georgianAnswer: "რადგან საკმარისი პრაქტიკა არ აქვთ.",
-    page: 60,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "ღირს უცხო ენის სწავლა?",
     answer: "Yes, because it helps us communicate with people around the world.",
     georgianAnswer: "კი, რადგან მსოფლიოს სხვადასხვა ქვეყნიდან ადამიანებთან ურთიერთობაში გვეხმარება.",
-    page: 60,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთო, თუ გამოცდაზე ჩაიჭერი?",
     answer: "I should make more of an effort and study harder.",
     georgianAnswer: "უფრო მეტი ძალისხმევა უნდა დავხარჯო და უკეთ ვისწავლო.",
-    page: 60,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "რაზე ამახვილებ ახლა შენს ძალისხმევას?",
     answer: "I'm concentrating my efforts on improving my English.",
     georgianAnswer: "ახლა ჩემს ძალისხმევას ინგლისურის გაუმჯობესებაზე ვამახვილებ.",
-    page: 60,
+    
   },
 ];

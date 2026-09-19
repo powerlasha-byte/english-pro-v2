@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈdiːteɪl]",
     sentence: "Please explain it in detail.",
     georgianSentence: "გთხოვ, დეტალურად ამიხსენი.",
-    page: 61,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈpɪəriəd]",
     sentence: "It was a difficult period in my life.",
     georgianSentence: "ეს ჩემს ცხოვრებაში რთული პერიოდი იყო.",
-    page: 61,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈpɔːtə(r)]",
     sentence: "The reporter interviewed the witnesses.",
     georgianSentence: "რეპორტიორმა მოწმეებს ინტერვიუ ჩამოართვა.",
-    page: 61,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈdʒɜːnəlɪst]",
     sentence: "She works as a journalist.",
     georgianSentence: "ის ჟურნალისტად მუშაობს.",
-    page: 61,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[kəˈlekt]",
     sentence: "Journalists collect information every day.",
     georgianSentence: "ჟურნალისტები ყოველდღიურად აგროვებენ ინფორმაციას.",
-    page: 61,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈmæfiə]",
     sentence: "The film was about the Italian mafia.",
     georgianSentence: "ფილმი იტალიურ მაფიაზე იყო.",
-    page: 61,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˌkɒrəˈspɒndənt]",
     sentence: "The correspondent reported from the war zone.",
     georgianSentence: "კორესპონდენტი საომარი ზონიდან აშუქებდა მოვლენებს.",
-    page: 62,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[zəʊn]",
     sentence: "This is a dangerous zone.",
     georgianSentence: "ეს საშიში ზონაა.",
-    page: 62,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˌfɜːst ˈhænd]",
     sentence: "I got the news first-hand.",
     georgianSentence: "ეს ინფორმაცია უშუალოდ პირველწყაროდან მივიღე.",
-    page: 62,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[draʊn]",
     sentence: "The man almost drowned in the river.",
     georgianSentence: "კაცი კინაღამ მდინარეში დაიხრჩო.",
-    page: 63,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ʌnˈwɒntɪd]",
     sentence: "Nobody likes unwanted visitors.",
     georgianSentence: "არავის მოსწონს არასასურველი სტუმრები.",
-    page: 64,
+    
   },
   {
     id: 12,
@@ -105,6 +105,6 @@ export const vocabulary = [
     pronunciation: "[ɡet rɪd əv]",
     sentence: "I want to get rid of these old books.",
     georgianSentence: "ამ ძველი წიგნების მოშორება მინდა.",
-    page: 64,
+    
   },
 ];

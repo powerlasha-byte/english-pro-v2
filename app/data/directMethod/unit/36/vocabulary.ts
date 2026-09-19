@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈvæljuəbl]",
     sentence: "Time is more valuable than money.",
     georgianSentence: "დრო ფულზე უფრო ღირებულია.",
-    page: 137,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈvæljuː]",
     sentence: "This painting has great value.",
     georgianSentence: "ამ ნახატს დიდი ღირებულება აქვს.",
-    page: 137,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈpreʃəs]",
     sentence: "Gold is a precious metal.",
     georgianSentence: "ოქრო ძვირფასი ლითონია.",
-    page: 137,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈtreʒə]",
     sentence: "The pirates searched for hidden treasure.",
     georgianSentence: "მეკობრეები დამალულ განძს ეძებდნენ.",
-    page: 137,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[seɪf]",
     sentence: "She locked the documents in a safe.",
     georgianSentence: "მან დოკუმენტები სეიფში ჩაკეტა.",
-    page: 137,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[kəˈlekʃən]",
     sentence: "He has a collection of rare stamps.",
     georgianSentence: "მას იშვიათი მარკების კოლექცია აქვს.",
-    page: 137,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[kəˈlekt]",
     sentence: "She collects old coins.",
     georgianSentence: "ის ძველ მონეტებს აგროვებს.",
-    page: 137,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈvestmənt]",
     sentence: "Buying a house is a good investment.",
     georgianSentence: "სახლის ყიდვა კარგი ინვესტიციაა.",
-    page: 138,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈvest]",
     sentence: "Many people invest in property.",
     georgianSentence: "ბევრი ადამიანი უძრავ ქონებაში აბანდებს ფულს.",
-    page: 138,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈtempərərəli]",
     sentence: "The road is temporarily closed.",
     georgianSentence: "გზა დროებით დაკეტილია.",
-    page: 138,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ˈtempərəri]",
     sentence: "He found a temporary job.",
     georgianSentence: "მან დროებითი სამსახური იპოვა.",
-    page: 138,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[blend]",
     sentence: "The colours blend perfectly.",
     georgianSentence: "ფერები იდეალურად ერწყმის ერთმანეთს.",
-    page: 138,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈmɪkstʃə]",
     sentence: "The drink is a mixture of fruit juices.",
     georgianSentence: "ეს სასმელი ხილის წვენების ნარევია.",
-    page: 138,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ˈsepəreɪt]",
     sentence: "Oil and water separate naturally.",
     georgianSentence: "ზეთი და წყალი ბუნებრივად ცალკევდება.",
-    page: 138,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˌsepəˈreɪʃən]",
     sentence: "The separation took several hours.",
     georgianSentence: "განცალკევებას რამდენიმე საათი დასჭირდა.",
-    page: 138,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[reə]",
     sentence: "This is a rare painting.",
     georgianSentence: "ეს იშვიათი ნახატია.",
-    page: 139,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[juˈniːk]",
     sentence: "Every snowflake is unique.",
     georgianSentence: "ყოველი ფიფქი უნიკალურია.",
-    page: 139,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˈfɔːtʃuːn]",
     sentence: "He made a fortune in business.",
     georgianSentence: "მან ბიზნესში დიდი ქონება დააგროვა.",
-    page: 139,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[welθ]",
     sentence: "Health is more important than wealth.",
     georgianSentence: "ჯანმრთელობა სიმდიდრეზე მნიშვნელოვანია.",
-    page: 139,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[ˈəʊnəʃɪp]",
     sentence: "Ownership of the house was transferred.",
     georgianSentence: "სახლის მფლობელობა გადაეცა.",
-    page: 139,
+    
   },
 ];

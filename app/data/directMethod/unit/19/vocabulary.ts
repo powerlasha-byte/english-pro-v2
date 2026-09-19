@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[əˈkʌstəmd]",
     sentence: "It takes time to get accustomed to a new place.",
     georgianSentence: "ახალ ადგილთან შეგუებას დრო სჭირდება.",
-    page: 73,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ɪnˈsɒmniə]",
     sentence: "She suffers from insomnia.",
     georgianSentence: "მას უძილობა აწუხებს.",
-    page: 73,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈmɪdnaɪt sʌn]",
     sentence: "The midnight sun can be seen in Alaska.",
     georgianSentence: "შუაღამის მზის ნახვა ალასკაში შეიძლება.",
-    page: 73,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈpəʊlə naɪt]",
     sentence: "The polar night lasts for several months.",
     georgianSentence: "პოლარული ღამე რამდენიმე თვე გრძელდება.",
-    page: 73,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈɒbdʒɪkt]",
     sentence: "I couldn't see the objects in the dark.",
     georgianSentence: "სიბნელეში საგნებს ვერ ვხედავდი.",
-    page: 73,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈneɪbəhʊd]",
     sentence: "I live in a quiet neighbourhood.",
     georgianSentence: "მე მშვიდ უბანში ვცხოვრობ.",
-    page: 74,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[wɒtʃ ˈəʊvə]",
     sentence: "Can you watch over my house while I'm away?",
     georgianSentence: "შეგიძლია ჩემს სახლს მიხედო, სანამ წასული ვიქნები?",
-    page: 74,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[wɒtʃ]",
     sentence: "The neighbourhood watch helps prevent crime.",
     georgianSentence: "სამეზობლოს დაცვა დანაშაულის პრევენციას ეხმარება.",
-    page: 74,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[θeft]",
     sentence: "Car theft is a serious problem.",
     georgianSentence: "მანქანის ქურდობა სერიოზული პრობლემაა.",
-    page: 74,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈdʒuːvənaɪl]",
     sentence: "The city has reduced juvenile crime.",
     georgianSentence: "ქალაქში არასრულწლოვანთა დანაშაული შემცირდა.",
-    page: 74,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ˈʌðəwaɪz]",
     sentence: "Drive carefully, otherwise you'll have an accident.",
     georgianSentence: "ფრთხილად იმოძრავე, წინააღმდეგ შემთხვევაში ავარია მოგივა.",
-    page: 74,
+    
   },
   {
     id: 12,
@@ -105,6 +105,6 @@ export const vocabulary = [
     pronunciation: "[ˈhelmɪt]",
     sentence: "Always wear a helmet when riding a bike.",
     georgianSentence: "ველოსიპედის ტარებისას ყოველთვის ჩაიცვი ჩაფხუტი.",
-    page: 74,
+    
   },
 ];

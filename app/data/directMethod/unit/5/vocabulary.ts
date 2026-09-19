@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/ɡəʊst/",
     sentence: "Some people believe in ghosts.",
     georgianSentence: "ზოგიერთ ადამიანს მოჩვენებების სჯერა.",
-    page: 17,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˌnesəseri ˈiːvl/",
     sentence: "Paying taxes is a necessary evil.",
     georgianSentence: "გადასახადების გადახდა აუცილებელი ბოროტებაა.",
-    page: 17,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/meɪnˈteɪn/",
     sentence: "He maintains that he is innocent.",
     georgianSentence: "ის ამტკიცებს, რომ უდანაშაულოა.",
-    page: 17,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˌreprɪˈzent/",
     sentence: "This flag represents our country.",
     georgianSentence: "ეს დროშა ჩვენს ქვეყანას წარმოადგენს.",
-    page: 17,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ɡaɪd/",
     sentence: "The guide showed us around the city.",
     georgianSentence: "გიდმა ქალაქი დაგვათვალიერებინა.",
-    page: 20,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ˈɡaɪdbʊk/",
     sentence: "Buy a guidebook before your trip.",
     georgianSentence: "მოგზაურობამდე გზამკვლევი იყიდე.",
-    page: 20,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ˈsaɪtsiːɪŋ/",
     sentence: "We went sightseeing in London.",
     georgianSentence: "ლონდონში ღირსშესანიშნაობები დავათვალიერეთ.",
-    page: 20,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/blaɪnd/",
     sentence: "Blind people use special tools.",
     georgianSentence: "ბრმა ადამიანები სპეციალურ ხელსაწყოებს იყენებენ.",
-    page: 20,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈkrɒsɪŋ/",
     sentence: "Use the crossing to cross the road.",
     georgianSentence: "გზის გადასაკვეთად გადასასვლელი გამოიყენე.",
-    page: 20,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/ɡaɪd dɒɡ/",
     sentence: "The guide dog helps its owner every day.",
     georgianSentence: "მეგზური ძაღლი პატრონს ყოველდღე ეხმარება.",
-    page: 20,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/breɪl/",
     sentence: "Braille helps blind people read.",
     georgianSentence: "ბრაილის ანბანი ბრმა ადამიანებს კითხვაში ეხმარება.",
-    page: 20,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/səkˈsesfl/",
     sentence: "She is a successful businesswoman.",
     georgianSentence: "ის წარმატებული ბიზნესმენია.",
-    page: 20,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/tʊə(r)/",
     sentence: "We booked a city tour.",
     georgianSentence: "ქალაქის ტური დავჯავშნეთ.",
-    page: 20,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/mjuˈziːəm/",
     sentence: "The museum is very popular.",
     georgianSentence: "ეს მუზეუმი ძალიან პოპულარულია.",
-    page: 20,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/ˈɡæləri/",
     sentence: "The art gallery is free today.",
     georgianSentence: "ხელოვნების გალერეა დღეს უფასოა.",
-    page: 20,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/ɪkˈsperɪmənt/",
     sentence: "Scientists carried out an experiment.",
     georgianSentence: "მეცნიერებმა ექსპერიმენტი ჩაატარეს.",
-    page: 17,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/ˈmedɪsn/",
     sentence: "Medicine saves lives.",
     georgianSentence: "მედიცინა სიცოცხლეს იხსნის.",
-    page: 17,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/ˈlɔːjə(r)/",
     sentence: "My lawyer represented me in court.",
     georgianSentence: "ჩემმა ადვოკატმა სასამართლოში წარმადგინა.",
-    page: 17,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "/kɔːt/",
     sentence: "The case went to court.",
     georgianSentence: "საქმე სასამართლოში წავიდა.",
-    page: 17,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "/mæp/",
     sentence: "Use the map to find the hotel.",
     georgianSentence: "სასტუმროს საპოვნელად რუკა გამოიყენე.",
-    page: 17,
+    
   },
 ];

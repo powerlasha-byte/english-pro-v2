@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/blɒɡ/",
     sentence: "She writes a travel blog every week.",
     georgianSentence: "ის ყოველ კვირას სამოგზაურო ბლოგს წერს.",
-    page: 35,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˈblɒɡə(r)/",
     sentence: "The blogger shares useful learning tips.",
     georgianSentence: "ბლოგერი სასარგებლო სასწავლო რჩევებს აზიარებს.",
-    page: 35,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ˈwebsaɪt/",
     sentence: "I found the information on a website.",
     georgianSentence: "ინფორმაცია ვებგვერდზე ვიპოვე.",
-    page: 35,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/pəʊst/",
     sentence: "She published a new post yesterday.",
     georgianSentence: "მან გუშინ ახალი პოსტი გამოაქვეყნა.",
-    page: 35,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒment/",
     sentence: "Many people left positive comments.",
     georgianSentence: "ბევრმა ადამიანმა დადებითი კომენტარი დატოვა.",
-    page: 35,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ˈriːdə(r)/",
     sentence: "The blog has thousands of readers.",
     georgianSentence: "ბლოგს ათასობით მკითხველი ჰყავს.",
-    page: 35,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ˈhelθi/",
     sentence: "A healthy lifestyle is very important.",
     georgianSentence: "ჯანსაღი ცხოვრების წესი ძალიან მნიშვნელოვანია.",
-    page: 35,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/helθ/",
     sentence: "Exercise is good for your health.",
     georgianSentence: "ვარჯიში ჯანმრთელობისთვის კარგია.",
-    page: 35,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈlaɪfstaɪl/",
     sentence: "He changed his lifestyle completely.",
     georgianSentence: "მან ცხოვრების წესი მთლიანად შეცვალა.",
-    page: 35,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/ɔːˈɡænɪk/",
     sentence: "Organic vegetables are becoming more popular.",
     georgianSentence: "ორგანული ბოსტნეული სულ უფრო პოპულარული ხდება.",
-    page: 35,
+    
   },
  
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "/ˈkæləri/",
     sentence: "This meal contains about 500 calories.",
     georgianSentence: "ეს კერძი დაახლოებით 500 კალორიას შეიცავს.",
-    page: 36,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "/ˈdaɪət/",
     sentence: "She started a healthy diet last month.",
     georgianSentence: "მან გასულ თვეში ჯანსაღი დიეტა დაიწყო.",
-    page: 36,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "/ˈbælənst ˈdaɪət/",
     sentence: "A balanced diet helps you stay healthy.",
     georgianSentence: "დაბალანსებული კვება ჯანმრთელობის შენარჩუნებაში გეხმარება.",
-    page: 36,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "/njuˈtrɪʃən/",
     sentence: "Good nutrition is important for children.",
     georgianSentence: "კარგი კვება ბავშვებისთვის მნიშვნელოვანია.",
-    page: 36,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "/ˈprəʊtiːn/",
     sentence: "Eggs are rich in protein.",
     georgianSentence: "კვერცხი ცილებით მდიდარია.",
-    page: 36,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "/ˌkɑːbəˈhaɪdreɪt/",
     sentence: "Rice contains a lot of carbohydrates.",
     georgianSentence: "ბრინჯი ბევრ ნახშირწყალს შეიცავს.",
-    page: 36,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "/fæt/",
     sentence: "Too much fat is unhealthy.",
     georgianSentence: "ძალიან ბევრი ცხიმი არაჯანსაღია.",
-    page: 36,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "/ˈvɪtəmɪn/",
     sentence: "Fruit contains many vitamins.",
     georgianSentence: "ხილი ბევრ ვიტამინს შეიცავს.",
-    page: 36,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "/ˈmɪnərəl/",
     sentence: "Milk contains important minerals.",
     georgianSentence: "რძე მნიშვნელოვან მინერალებს შეიცავს.",
-    page: 36,
+    
   },
   {
     id: 20,
@@ -178,7 +178,7 @@ export const vocabulary = [
     pronunciation: "/ˈeksəsaɪz/",
     sentence: "Daily exercise improves your health.",
     georgianSentence: "ყოველდღიური ვარჯიში ჯანმრთელობას აუმჯობესებს.",
-    page: 36,
+    
   },
   {
     id: 21,
@@ -187,7 +187,7 @@ export const vocabulary = [
     pronunciation: "/ˈfɪtnəs/",
     sentence: "Fitness is important at every age.",
     georgianSentence: "ფიზიკური ფორმა ყველა ასაკში მნიშვნელოვანია.",
-    page: 36,
+    
   },
   {
     id: 22,
@@ -196,7 +196,7 @@ export const vocabulary = [
     pronunciation: "/ˈenədʒi/",
     sentence: "Healthy food gives you energy.",
     georgianSentence: "ჯანსაღი საკვები ენერგიას გაძლევს.",
-    page: 36,
+    
   },
   {
     id: 23,
@@ -205,7 +205,7 @@ export const vocabulary = [
     pronunciation: "/ɡeɪn weɪt/",
     sentence: "People gain weight if they eat too much.",
     georgianSentence: "ადამიანები წონაში იმატებენ, თუ ზედმეტს ჭამენ.",
-    page: 36,
+    
   },
   {
     id: 24,
@@ -214,7 +214,7 @@ export const vocabulary = [
     pronunciation: "/luːz weɪt/",
     sentence: "She wants to lose weight before summer.",
     georgianSentence: "მას ზაფხულამდე წონის დაკლება უნდა.",
-    page: 36,
+    
   },
   {
     id: 25,
@@ -223,6 +223,6 @@ export const vocabulary = [
     pronunciation: "/ɪnˈɡriːdiənt/",
     sentence: "Flour is the main ingredient in bread.",
     georgianSentence: "ფქვილი პურის მთავარი ინგრედიენტია.",
-    page: 36,
+    
   },
 ];

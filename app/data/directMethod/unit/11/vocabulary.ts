@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[welˈnəʊn]",
     sentence: "Mother Teresa was well-known for her work with the sick and the poor.",
     georgianSentence: "დედა ტერეზა ცნობილი იყო ავადმყოფებისა და ღარიბების დახმარებით.",
-    page: 41,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[səˈlebrəti]",
     sentence: "I'd like to meet a famous celebrity one day.",
     georgianSentence: "ერთ დღეს ცნობილი ადამიანის გაცნობა მინდა.",
-    page: 41,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˌkɒmbɪˈneɪʃən]",
     sentence: "A mixed conditional is a combination of the second and third conditionals.",
     georgianSentence: "შერეული პირობითი მეორე და მესამე პირობითის კომბინაციაა.",
-    page: 41,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈtælənt]",
     sentence: "She has a natural talent for music.",
     georgianSentence: "მას მუსიკის ბუნებრივი ნიჭი აქვს.",
-    page: 43,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈtæləntɪd]",
     sentence: "Brazil has many talented football players.",
     georgianSentence: "ბრაზილიაში ბევრი ნიჭიერი ფეხბურთელია.",
-    page: 43,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ɡet həʊld əv]",
     sentence: "I couldn't get hold of John yesterday.",
     georgianSentence: "გუშინ ჯონთან დაკავშირება ვერ შევძელი.",
-    page: 43,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[kəʊtʃ]",
     sentence: "Our swimming coach is very experienced.",
     georgianSentence: "ჩვენი ცურვის მწვრთნელი ძალიან გამოცდილია.",
-    page: 43,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[baɪ ðə weɪ]",
     sentence: "By the way, have you seen Anna today?",
     georgianSentence: "სხვათა შორის, დღეს ანა ხომ არ გინახავს?",
-    page: 43,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈfɪtnəs]",
     sentence: "Regular exercise improves your fitness.",
     georgianSentence: "რეგულარული ვარჯიში ფიზიკურ ფორმას აუმჯობესებს.",
-    page: 43,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[dʒɪm]",
     sentence: "I go to the gym three times a week.",
     georgianSentence: "კვირაში სამჯერ სპორტდარბაზში დავდივარ.",
-    page: 43,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[wɜːrk aʊt]",
     sentence: "I work out every Monday and Thursday.",
     georgianSentence: "ყოველ ორშაბათსა და ხუთშაბათს ვვარჯიშობ.",
-    page: 43,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[rəʊp]",
     sentence: "They used a rope to pull the car.",
     georgianSentence: "მანქანის გასათრევად თოკი გამოიყენეს.",
-    page: 44,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈskɪpɪŋ rəʊp]",
     sentence: "A skipping rope is a great exercise tool.",
     georgianSentence: "სახტომი თოკი ვარჯიშისთვის შესანიშნავი საშუალებაა.",
-    page: 44,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[dʒʌmp rəʊp]",
     sentence: "Children were playing with a jump rope.",
     georgianSentence: "ბავშვები სახტომი თოკით თამაშობდნენ.",
-    page: 44,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈtaɪtrəʊp]",
     sentence: "The performer walked on a tightrope.",
     georgianSentence: "შემსრულებელი ბაგირზე დადიოდა.",
-    page: 44,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ˈsɜːrkəs]",
     sentence: "We visited the circus last weekend.",
     georgianSentence: "გასულ კვირას ცირკში ვიყავით.",
-    page: 44,
+    
   },
   {
     id: 17,
@@ -150,6 +150,6 @@ export const vocabulary = [
     pronunciation: "[stɪk]",
     sentence: "He was holding a long stick.",
     georgianSentence: "მას გრძელი ჯოხი ეჭირა.",
-    page: 44,
+    
   },
 ];

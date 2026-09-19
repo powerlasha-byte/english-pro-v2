@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "როგორი ადამიანებს აქვთ მდიდარი წარმოსახვა?",
     answer: "Children and artists usually have a fertile imagination.",
     georgianAnswer: "ბავშვებსა და ხელოვანებს ჩვეულებრივ მდიდარი წარმოსახვა აქვთ.",
-    page: 25,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა არის საუკეთესო გზა ბავშვების წარმოსახვის გასაღვივებლად?",
     answer: "Reading books to children is one of the best ways.",
     georgianAnswer: "ბავშვებისთვის წიგნების კითხვა ერთ-ერთი საუკეთესო გზაა.",
-    page: 25,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რატომ წარმოვიდგენთ ხოლმე საკუთარ თავს სხვა ადგილებში?",
     answer: "Because we need a change or want to escape our problems.",
     georgianAnswer: "რადგან ცვლილება გვინდა ან პრობლემებისგან თავის დაღწევა.",
-    page: 25,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე წარმოგიდგენია შენი მომავალი სახლი?",
     answer: "Yes, I often picture what my future house will look like.",
     georgianAnswer: "დიახ, ხშირად წარმოვიდგენ როგორი იქნება ჩემი მომავალი სახლი.",
-    page: 25,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რა არის სიტყვა 'tiny'-ის საპირისპირო?",
     answer: "The opposite of tiny is huge.",
     georgianAnswer: "'Tiny'-ის საპირისპიროა 'huge'.",
-    page: 25,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "შენი საყვარელი ჯგუფი რომ ჩამოვიდეს, დიდი ხალხი მოვიდოდა?",
     answer: "Yes, I think there would be a huge crowd.",
     georgianAnswer: "დიახ, ვფიქრობ, ძალიან დიდი ხალხი მოვიდოდა.",
-    page: 25,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "უნდა შექმნას თუ არა მთავრობამ მეტი სამუშაო ახალგაზრდებისთვის?",
     answer: "Yes, I think it should create more opportunities.",
     georgianAnswer: "დიახ, ვფიქრობ, მეტი შესაძლებლობა უნდა შექმნას.",
-    page: 25,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რატომ შეიძლება გადადებამ დიდი პრობლემები შექმნას?",
     answer: "Because problems usually become bigger over time.",
     georgianAnswer: "რადგან პრობლემები დროთა განმავლობაში იზრდება.",
-    page: 25,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ვინ არის Star Wars-ის შემქმნელი?",
     answer: "George Lucas is the creator of the Star Wars series.",
     georgianAnswer: "Star Wars-ის შემქმნელია ჯორჯ ლუკასი.",
-    page: 26,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ სჭირდებათ კომპანიებს კრეატიული ქოფირაიტერები?",
     answer: "To promote and sell their products.",
     georgianAnswer: "თავიანთი პროდუქციის პოპულარიზაციისა და გაყიდვისთვის.",
-    page: 26,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა არის GDP?",
     answer: "GDP means Gross Domestic Product.",
     georgianAnswer: "GDP ნიშნავს მთლიან შიდა პროდუქტს.",
-    page: 26,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "დანაშაული ჩვეულებრივ სწრაფად იზრდება?",
     answer: "It can grow rapidly if society has serious problems.",
     georgianAnswer: "შეიძლება სწრაფად გაიზარდოს, თუ საზოგადოებას სერიოზული პრობლემები აქვს.",
-    page: 26,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "არსებობს პრობლემის გადაჭრის უკეთესი გზა, ვიდრე მისი ძირის პოვნა?",
     answer: "No, finding the root is usually the best way.",
     georgianAnswer: "არა, პრობლემის ძირის პოვნა ჩვეულებრივ საუკეთესო გზაა.",
-    page: 26,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "შეუძლიათ თუ არა მცენარეებს ფესვების გარეშე გაზრდა?",
     answer: "No, most plants need roots to survive.",
     georgianAnswer: "არა, მცენარეების უმეტესობას ფესვები სჭირდება.",
-    page: 27,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "ვინ არის tradesman?",
     answer: "A tradesman is a person who sells or repairs things.",
     georgianAnswer: "Tradesman არის ადამიანი, რომელიც ყიდის ან არემონტებს ნივთებს.",
-    page: 27,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "ყოველთვის თან დაგაქვს მობილური?",
     answer: "Yes, I always carry my mobile phone.",
     georgianAnswer: "დიახ, ყოველთვის თან დამაქვს მობილური.",
-    page: 27,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "რომელ სპორტებს აქვთ ყველაზე რთული წესები?",
     answer: "I think ice hockey and American football do.",
     georgianAnswer: "ვფიქრობ, ყინულის ჰოკეისა და ამერიკულ ფეხბურთს.",
-    page: 29,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "უნდა შეხვდნენ თუ არა მასწავლებლები მოსწავლეებს მეგობრულად?",
     answer: "Yes, they should.",
     georgianAnswer: "დიახ, უნდა შეხვდნენ.",
-    page: 29,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "კარგი ტონია სავსე პირით საუბარი?",
     answer: "No, it's bad manners.",
     georgianAnswer: "არა, ეს ცუდი ტონია.",
-    page: 29,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "მოგწონს, როცა საქმიანი ტონით გელაპარაკებიან?",
     answer: "It depends on the situation.",
     georgianAnswer: "სიტუაციას გააჩნია.",
-    page: 29,
+    
   },
 ];

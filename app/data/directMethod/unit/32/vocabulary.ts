@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈmʌsnt]",
     sentence: "You mustn't smoke in the hospital.",
     georgianSentence: "საავადმყოფოში მოწევა არ შეიძლება.",
-    page: 121,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[dəʊnt hæv tə]",
     sentence: "You don't have to come early tomorrow.",
     georgianSentence: "ხვალ ადრე მოსვლა აუცილებელი არ არის.",
-    page: 121,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈniːdnt]",
     sentence: "You needn't worry about the exam.",
     georgianSentence: "გამოცდაზე ნერვიულობა საჭირო არ არის.",
-    page: 121,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[fəˈɡɪv]",
     sentence: "Please forgive me for being late.",
     georgianSentence: "გთხოვ, დამაგვიანებისთვის მაპატიე.",
-    page: 121,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[fəˈɡeɪv]",
     sentence: "She forgave her friend.",
     georgianSentence: "მან მეგობარს აპატია.",
-    page: 121,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[fəˈɡɪvn]",
     sentence: "He has forgiven everyone.",
     georgianSentence: "მან ყველას აპატია.",
-    page: 121,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[əˈpɒlədʒaɪz]",
     sentence: "You should apologize for your mistake.",
     georgianSentence: "შენი შეცდომისთვის ბოდიში უნდა მოიხადო.",
-    page: 122,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ruːl]",
     sentence: "Every school has its own rules.",
     georgianSentence: "ყველა სკოლას თავისი წესები აქვს.",
-    page: 122,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[əˈbeɪ]",
     sentence: "Children should obey their parents.",
     georgianSentence: "ბავშვებმა მშობლებს უნდა დაუჯერონ.",
-    page: 122,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[lɔː]",
     sentence: "Everyone must obey the law.",
     georgianSentence: "ყველამ უნდა დაიცვას კანონი.",
-    page: 122,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[pəˈmɪʃən]",
     sentence: "You need permission to enter this area.",
     georgianSentence: "ამ ტერიტორიაზე შესასვლელად ნებართვა გჭირდება.",
-    page: 122,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[əˈlaʊ]",
     sentence: "The teacher allowed us to leave early.",
     georgianSentence: "მასწავლებელმა ადრე წასვლის ნება დაგვრთო.",
-    page: 122,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[fəˈbɪdn]",
     sentence: "Parking is forbidden here.",
     georgianSentence: "აქ პარკირება აკრძალულია.",
-    page: 123,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ˈnesəsəri]",
     sentence: "It is necessary to wear a helmet.",
     georgianSentence: "აუცილებელია ჩაფხუტის ტარება.",
-    page: 123,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ʌnˈnesəsəri]",
     sentence: "That meeting was unnecessary.",
     georgianSentence: "ის შეხვედრა არასაჭირო იყო.",
-    page: 123,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[prəˈtekt]",
     sentence: "Sunscreen protects your skin.",
     georgianSentence: "მზისგან დამცავი კრემი კანს იცავს.",
-    page: 123,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈseɪfti]",
     sentence: "Safety is our first priority.",
     georgianSentence: "უსაფრთხოება ჩვენი პირველი პრიორიტეტია.",
-    page: 123,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˈdeɪndʒə]",
     sentence: "The sign warned us about danger.",
     georgianSentence: "ნიშანი საფრთხის შესახებ გვაფრთხილებდა.",
-    page: 124,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ˈwɔːnɪŋ]",
     sentence: "Please read the warning carefully.",
     georgianSentence: "გთხოვ, გაფრთხილება ყურადღებით წაიკითხე.",
-    page: 124,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[rɪˌspɒnsəˈbɪləti]",
     sentence: "Driving is a big responsibility.",
     georgianSentence: "მანქანის მართვა დიდი პასუხისმგებლობაა.",
-    page: 124,
+    
   },
 ]

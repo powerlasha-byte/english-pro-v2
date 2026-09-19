@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ჰობის სახით რამეს აგროვებ?",
     answer: "Yes, I collect old coins and books.",
     georgianAnswer: "დიახ, ძველ მონეტებსა და წიგნებს ვაგროვებ.",
-    page: 137,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რომელია ყველაზე ღირებული ნივთი, რაც გაქვს?",
     answer: "My laptop is one of my most valuable possessions.",
     georgianAnswer: "ჩემი ლეპტოპი ჩემი ერთ-ერთი ყველაზე ღირებული ნივთია.",
-    page: 137,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ფულის ინვესტირებას ამჯობინებ თუ დახარჯვას?",
     answer: "I'd rather invest it for the future.",
     georgianAnswer: "მირჩევნია მომავლისთვის დავაბანდო.",
-    page: 138,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გიყიდია რამე, რაც მოგვიანებით უფრო ღირებული გახდა?",
     answer: "No, but I'd like to someday.",
     georgianAnswer: "არა, მაგრამ მომავალში მინდა.",
-    page: 138,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რას შეინახავდი სეიფში?",
     answer: "I'd keep important documents and jewelry in a safe.",
     georgianAnswer: "სეიფში მნიშვნელოვან დოკუმენტებსა და ძვირფასეულობას შევინახავდი.",
-    page: 138,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ აგროვებენ ადამიანები ღირებულ ნივთებს?",
     answer: "Because they enjoy them and they may increase in value.",
     georgianAnswer: "რადგან მოსწონთ და შესაძლოა მათი ღირებულება გაიზარდოს.",
-    page: 138,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ნივთს ძვირფასს?",
     answer: "Its rarity, beauty, or personal meaning.",
     georgianAnswer: "მისი იშვიათობა, სილამაზე ან პირადი მნიშვნელობა.",
-    page: 138,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, ფულით ბედნიერების ყიდვა შეიძლება?",
     answer: "No, but it can make life more comfortable.",
     georgianAnswer: "არა, მაგრამ ცხოვრება უფრო კომფორტული შეიძლება გახადოს.",
-    page: 139,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რამე ღირებული გიპოვია?",
     answer: "Yes, I once found a wallet and returned it.",
     georgianAnswer: "დიახ, ერთხელ საფულე ვიპოვე და დავაბრუნე.",
-    page: 139,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ არის პატიოსნება ფულზე უფრო ღირებული?",
     answer: "Because trust cannot be bought.",
     georgianAnswer: "რადგან ნდობას ვერ იყიდი.",
-    page: 139,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "მოგზაურობიდან სუვენირების შეგროვება გიყვარს?",
     answer: "Yes, they remind me of special memories.",
     georgianAnswer: "დიახ, ისინი განსაკუთრებულ მოგონებებს მახსენებენ.",
-    page: 139,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "გინდოდა იშვიათი ნახატის ფლობა?",
     answer: "Yes, if I could afford it.",
     georgianAnswer: "დიახ, თუ ამის საშუალება მექნებოდა.",
-    page: 139,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რა უფრო მნიშვნელოვანია: სიმდიდრე თუ ჯანმრთელობა?",
     answer: "Health is much more important than wealth.",
     georgianAnswer: "ჯანმრთელობა სიმდიდრეზე ბევრად მნიშვნელოვანია.",
-    page: 139,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ახალ ბიზნესში ჩადებდი ინვესტიციას?",
     answer: "Yes, if I believed in the idea.",
     georgianAnswer: "დიახ, თუ იდეის მჯეროდა.",
-    page: 139,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "რა არის ყველაზე ღირებული გაკვეთილი, რაც ცხოვრებაში ისწავლე?",
     answer: "To never stop learning and improving.",
     georgianAnswer: "რომ არასდროს უნდა შევწყვიტო სწავლა და განვითარება.",
-    page: 139,
+    
   },
 ];

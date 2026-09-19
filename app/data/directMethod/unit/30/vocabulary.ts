@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ʃʊd həv]",
     sentence: "You should have called me yesterday.",
     georgianSentence: "გუშინ უნდა დაგერეკა ჩემთვის.",
-    page: 113,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈʃʊdnt həv]",
     sentence: "I shouldn't have spent so much money.",
     georgianSentence: "ამდენი ფული არ უნდა დამეხარჯა.",
-    page: 113,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈɡret]",
     sentence: "She regrets leaving school so early.",
     georgianSentence: "ის ნანობს, რომ სკოლა ასე ადრე დატოვა.",
-    page: 113,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[mɪˈsteɪk]",
     sentence: "Everyone makes mistakes.",
     georgianSentence: "ყველა უშვებს შეცდომებს.",
-    page: 113,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[əˈpɒlədʒaɪz]",
     sentence: "You should apologize for your mistake.",
     georgianSentence: "შენი შეცდომისთვის ბოდიში უნდა მოიხადო.",
-    page: 114,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ədˈvaɪs]",
     sentence: "My father gave me good advice.",
     georgianSentence: "მამაჩემმა კარგი რჩევა მომცა.",
-    page: 114,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈsɪʒən]",
     sentence: "It was a difficult decision.",
     georgianSentence: "ეს რთული გადაწყვეტილება იყო.",
-    page: 114,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˈkeəfəli]",
     sentence: "Please read the instructions carefully.",
     georgianSentence: "გთხოვ, ინსტრუქცია ყურადღებით წაიკითხე.",
-    page: 114,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈprɒmɪs]",
     sentence: "He always keeps his promises.",
     georgianSentence: "ის ყოველთვის ასრულებს თავის დაპირებებს.",
-    page: 115,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ɪkˈspɪəriəns]",
     sentence: "Experience teaches us valuable lessons.",
     georgianSentence: "გამოცდილება მნიშვნელოვან გაკვეთილებს გვასწავლის.",
-    page: 115,
+    
   },
 
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "[lɜːn frəm]",
     sentence: "We should learn from our mistakes.",
     georgianSentence: "ჩვენი შეცდომებიდან უნდა ვისწავლოთ.",
-    page: 115,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "[əˈvɔɪd]",
     sentence: "Try to avoid making the same mistake again.",
     georgianSentence: "ეცადე, იგივე შეცდომა თავიდან აიცილო.",
-    page: 115,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "[tʃɔɪs]",
     sentence: "It was the right choice.",
     georgianSentence: "ეს სწორი არჩევანი იყო.",
-    page: 115,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "[əkˈsept]",
     sentence: "She accepted the job immediately.",
     georgianSentence: "მან სამსახური მაშინვე მიიღო.",
-    page: 115,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "[ɪɡˈnɔː]",
     sentence: "Don't ignore your parents' advice.",
     georgianSentence: "მშობლების რჩევას ნუ დააიგნორებ.",
-    page: 116,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "[wɔːn]",
     sentence: "The teacher warned us about the exam.",
     georgianSentence: "მასწავლებელმა გამოცდის შესახებ გაგვაფრთხილა.",
-    page: 116,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "[rɪˌspɒnsəˈbɪləti]",
     sentence: "Parents have a lot of responsibility.",
     georgianSentence: "მშობლებს დიდი პასუხისმგებლობა აკისრიათ.",
-    page: 116,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "[ˈɒnəsti]",
     sentence: "Honesty is always the best policy.",
     georgianSentence: "პატიოსნება ყოველთვის საუკეთესო არჩევანია.",
-    page: 116,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "[truːθ]",
     sentence: "She always tells the truth.",
     georgianSentence: "ის ყოველთვის სიმართლეს ამბობს.",
-    page: 116,
+    
   },
   {
     id: 20,
@@ -178,6 +178,6 @@ export const vocabulary = [
     pronunciation: "[ˈlesən]",
     sentence: "Life teaches us important lessons.",
     georgianSentence: "ცხოვრება მნიშვნელოვან გაკვეთილებს გვასწავლის.",
-    page: 116,
+    
   },
 ]

@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈwʌndə(r)]",
     sentence: "I often wonder why people tell lies.",
     georgianSentence: "ხშირად ვფიქრობ, რატომ იტყუებიან ადამიანები.",
-    page: 49,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[kiːp ʌp wɪð]",
     sentence: "It's difficult to keep up with the latest technology.",
     georgianSentence: "უახლეს ტექნოლოგიებს ფეხის აწყობა რთულია.",
-    page: 51,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[liːv bɪˈhaɪnd]",
     sentence: "Successful companies leave their competitors behind.",
     georgianSentence: "წარმატებული კომპანიები კონკურენტებს უკან იტოვებენ.",
-    page: 51,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˌkɒmpəˈtɪʃən]",
     sentence: "Competition helps companies improve.",
     georgianSentence: "კონკურენცია კომპანიებს განვითარებაში ეხმარება.",
-    page: 51,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˌkɔːpəˈreɪʃən]",
     sentence: "The corporation has offices in many countries.",
     georgianSentence: "კორპორაციას ბევრ ქვეყანაში აქვს ოფისები.",
-    page: 51,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ɪl ət iːz]",
     sentence: "I felt ill at ease during my first interview.",
     georgianSentence: "პირველ გასაუბრებაზე თავი უხერხულად ვიგრძენი.",
-    page: 52,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˌself ˈkɒnfɪdənt]",
     sentence: "She's a very self-confident speaker.",
     georgianSentence: "ის ძალიან თავდაჯერებული მომხსენებელია.",
-    page: 52,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[biː bɔːn]",
     sentence: "My father was born in Tbilisi.",
     georgianSentence: "მამაჩემი თბილისში დაიბადა.",
-    page: 52,
+    
   },
   {
     id: 9,
@@ -78,6 +78,6 @@ export const vocabulary = [
     pronunciation: "[ˈseɪlzˌpɜːsn]",
     sentence: "A good salesperson knows how to communicate with customers.",
     georgianSentence: "კარგმა გამყიდველმა იცის, როგორ დაუკავშირდეს მომხმარებელს.",
-    page: 52,
+    
   },
 ];

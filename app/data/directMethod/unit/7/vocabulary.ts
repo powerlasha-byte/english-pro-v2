@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/stɜːr/",
     sentence: "Reading stories can stir children's imagination.",
     georgianSentence: "ამბების კითხვა ბავშვების წარმოსახვას აღძრავს.",
-    page: 25,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ɪˈmædʒɪn/",
     sentence: "Can you imagine living on Mars?",
     georgianSentence: "შეგიძლია წარმოიდგინო მარსზე ცხოვრება?",
-    page: 25,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ɪˌmædʒɪˈneɪʃən/",
     sentence: "Children have a wonderful imagination.",
     georgianSentence: "ბავშვებს შესანიშნავი წარმოსახვა აქვთ.",
-    page: 25,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈpɪktʃər/",
     sentence: "I can picture the house after it is finished.",
     georgianSentence: "შემიძლია წარმოვიდგინო სახლი დასრულების შემდეგ.",
-    page: 25,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/kriˈeɪt/",
     sentence: "The company plans to create new jobs.",
     georgianSentence: "კომპანია ახალი სამუშაო ადგილების შექმნას გეგმავს.",
-    page: 25,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/kriˈeɪtər/",
     sentence: "George Lucas is the creator of Star Wars.",
     georgianSentence: "ჯორჯ ლუკასი Star Wars-ის შემქმნელია.",
-    page: 25,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/kriˈeɪtɪv/",
     sentence: "She is a very creative designer.",
     georgianSentence: "ის ძალიან შემოქმედებითი დიზაინერია.",
-    page: 25,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/hjuːdʒ/",
     sentence: "There was a huge crowd outside.",
     georgianSentence: "გარეთ უზარმაზარი ბრბო იყო.",
-    page: 25,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒpiˌraɪtər/",
     sentence: "A good copywriter knows how to attract customers.",
     georgianSentence: "კარგმა კოპირაიტერმა იცის როგორ მიიზიდოს მომხმარებლები.",
-    page: 25,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/ɡrəʊθ/",
     sentence: "The country experienced rapid economic growth.",
     georgianSentence: "ქვეყანამ სწრაფი ეკონომიკური ზრდა განიცადა.",
-    page: 26,
+    
   },
 
   {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "/ˌdʒiː diː ˈpiː/",
     sentence: "GDP is an important economic indicator.",
     georgianSentence: "მშპ მნიშვნელოვანი ეკონომიკური მაჩვენებელია.",
-    page: 26,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "/ɡrəʊs dəˈmestɪk ˈprɒdʌkt/",
     sentence: "The country's gross domestic product increased last year.",
     georgianSentence: "ქვეყნის მთლიანი შიდა პროდუქტი გასულ წელს გაიზარდა.",
-    page: 26,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "/ˈænjuəl/",
     sentence: "The company published its annual report.",
     georgianSentence: "კომპანიამ თავისი წლიური ანგარიში გამოაქვეყნა.",
-    page: 26,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "/ˈræpɪd/",
     sentence: "Technology is developing at a rapid pace.",
     georgianSentence: "ტექნოლოგია სწრაფი ტემპით ვითარდება.",
-    page: 26,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "/ðə ˈmiːdiə/",
     sentence: "The media reported the story yesterday.",
     georgianSentence: "მედიამ ეს ამბავი გუშინ გააშუქა.",
-    page: 26,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "/sɒlv/",
     sentence: "We need to solve this problem quickly.",
     georgianSentence: "ეს პრობლემა სწრაფად უნდა გადავჭრათ.",
-    page: 26,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "/ruːt/",
     sentence: "Let's get to the root of the problem.",
     georgianSentence: "მოდი პრობლემის ფესვამდე მივიდეთ.",
-    page: 26,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "/əˈdres/",
     sentence: "The manager addressed the customer's complaint.",
     georgianSentence: "მენეჯერმა მომხმარებლის საჩივარი განიხილა.",
-    page: 26,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒliːɡ/",
     sentence: "My colleague helped me finish the report.",
     georgianSentence: "ჩემი კოლეგა ანგარიშის დასრულებაში დამეხმარა.",
-    page: 27,
+    
   },
   {
     id: 20,
@@ -178,7 +178,7 @@ export const vocabulary = [
     pronunciation: "/ˈwelkəm/",
     sentence: "The teacher welcomed the students warmly.",
     georgianSentence: "მასწავლებელმა მოსწავლეებს თბილად მიესალმა.",
-    page: 27,
+    
   },
  
 
@@ -189,7 +189,7 @@ export const vocabulary = [
     pronunciation: "/ˈtreɪdzmən/",
     sentence: "A tradesman came to repair our door.",
     georgianSentence: "ვაჭარი ჩვენს კართან მოვიდა შესაკეთებლად.",
-    page: 27,
+    
   },
   {
     id: 22,
@@ -198,7 +198,7 @@ export const vocabulary = [
     pronunciation: "/sel fəʊn/",
     sentence: "I forgot my cell phone at home.",
     georgianSentence: "მობილური ტელეფონი სახლში დამრჩა.",
-    page: 27,
+    
   },
   {
     id: 23,
@@ -207,7 +207,7 @@ export const vocabulary = [
     pronunciation: "/ˈməʊbaɪl fəʊn/",
     sentence: "She bought a new mobile phone yesterday.",
     georgianSentence: "მან გუშინ ახალი მობილური ტელეფონი იყიდა.",
-    page: 27,
+    
   },
   {
     id: 24,
@@ -216,7 +216,7 @@ export const vocabulary = [
     pronunciation: "/ˈvɒlibɔːl/",
     sentence: "Volleyball is one of my favourite sports.",
     georgianSentence: "ფრენბურთი ჩემი ერთ-ერთი საყვარელი სპორტია.",
-    page: 29,
+    
   },
   {
     id: 25,
@@ -225,7 +225,7 @@ export const vocabulary = [
     pronunciation: "/ˈaɪs hɒki/",
     sentence: "Ice hockey is very popular in Canada.",
     georgianSentence: "ყინულის ჰოკეი კანადაში ძალიან პოპულარულია.",
-    page: 29,
+    
   },
   {
     id: 26,
@@ -234,7 +234,7 @@ export const vocabulary = [
     pronunciation: "/ˈfrendli/",
     sentence: "The staff were very friendly.",
     georgianSentence: "პერსონალი ძალიან მეგობრული იყო.",
-    page: 29,
+    
   },
   {
     id: 27,
@@ -243,7 +243,7 @@ export const vocabulary = [
     pronunciation: "/ˈlaɪvli/",
     sentence: "The children were lively all day.",
     georgianSentence: "ბავშვები მთელი დღე ენერგიულები იყვნენ.",
-    page: 29,
+    
   },
   {
     id: 28,
@@ -252,7 +252,7 @@ export const vocabulary = [
     pronunciation: "/ˈmænər/",
     sentence: "He answered in a polite manner.",
     georgianSentence: "მან თავაზიანი მანერით უპასუხა.",
-    page: 29,
+    
   },
   {
     id: 29,
@@ -261,7 +261,7 @@ export const vocabulary = [
     pronunciation: "/ˈmænərz/",
     sentence: "Children should learn good manners.",
     georgianSentence: "ბავშვებმა კარგი ზრდილობა უნდა ისწავლონ.",
-    page: 29,
+    
   },
   {
     id: 30,
@@ -270,6 +270,6 @@ export const vocabulary = [
     pronunciation: "/ˈbɪznəslaɪk/",
     sentence: "She spoke in a businesslike manner.",
     georgianSentence: "ის საქმიანი მანერით საუბრობდა.",
-    page: 29,
+    
   },
 ]

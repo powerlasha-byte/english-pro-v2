@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რომელი ზმნების გამოყენება შეგვიძლია არაპირდაპირ საუბარში?",
     answer: "We can use verbs like ask, want to know or wonder in reported speech.",
     georgianAnswer: "არაპირდაპირ საუბარში შეგვიძლია გამოვიყენოთ ზმნები ask, want to know და wonder.",
-    page: 49,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "არაპირდაპირ საუბარში ვიყენებთ კითხვის სიტყვების თანმიმდევრობას?",
     answer: "No, we put the subject before the verb.",
     georgianAnswer: "არა, ქვემდებარეს ზმნის წინ ვსვამთ.",
-    page: 49,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "როდის ვიყენებთ 'if'-ს არაპირდაპირ საუბარში?",
     answer: "We add 'if' when a question can be answered with 'yes' or 'no'.",
     georgianAnswer: "'if'-ს ვიყენებთ მაშინ, როცა კითხვაზე პასუხი შეიძლება იყოს 'კი' ან 'არა'.",
-    page: 49,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ზოგი ადამიანი ხშირად ფიქრობს, რაში დახარჯა მთელი ფული?",
     answer: "Yes, some people often wonder what they have managed to spend all their money on.",
     georgianAnswer: "დიახ, ზოგი ადამიანი ხშირად ფიქრობს, რაში დახარჯა მთელი თავისი ფული.",
-    page: 49,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ხშირად ფიქრობ, რატომ იტყუებიან ადამიანები?",
     answer: "Yes, I sometimes wonder why people tell lies.",
     georgianAnswer: "დიახ, ზოგჯერ ვფიქრობ, რატომ იტყუებიან ადამიანები.",
-    page: 49,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რატომ უნდა მიჰყვნენ კომპანიები უახლეს მარკეტინგულ სტრატეგიებს?",
     answer: "Corporations must keep up with the latest marketing strategies in order not to be left behind by the competition.",
     georgianAnswer: "კომპანიებმა უნდა მიჰყვნენ უახლეს მარკეტინგულ სტრატეგიებს, რათა კონკურენტებს არ ჩამორჩნენ.",
-    page: 51,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებ იმისთვის, რომ შენთვის საინტერესო თემებს არ ჩამორჩე?",
     answer: "I read books and follow websites to keep up with the subjects which interest me.",
     georgianAnswer: "ვკითხულობ წიგნებს და ვადევნებ თვალს ვებგვერდებს, რათა ჩემთვის საინტერესო თემებს არ ჩამოვრჩე.",
-    page: 51,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ ახერხებ შენი საყვარელი სერიალის სიუჟეტს მიჰყვე?",
     answer: "Yes, I'm usually able to keep up with the plot of my favourite soap opera.",
     georgianAnswer: "დიახ, ჩვეულებრივ ჩემი საყვარელი სერიალის სიუჟეტს კარგად მივყვები.",
-    page: 51,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "დასვენების დროს ცდილობ ხოლმე სიახლეებს არ ჩამორჩე? როგორ?",
     answer: "Yes, I sometimes try to keep up with the news when I'm on vacation by surfing the Internet.",
     georgianAnswer: "დიახ, ზოგჯერ ინტერნეტის საშუალებით ვეცნობი სიახლეებს, როცა დასვენებაზე ვარ.",
-    page: 51,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "შენი აზრით, რა უნდა გააკეთოს აშშ-მ, თუ არ სურს სწრაფად მზარდ ჩინეთს ჩამორჩეს?",
     answer: "I suppose the USA must continue to develop its economy and technology if it doesn't want to be left behind by rapidly growing China.",
     georgianAnswer: "ჩემი აზრით, აშშ-მ უნდა გააგრძელოს ეკონომიკისა და ტექნოლოგიების განვითარება, რათა სწრაფად მზარდ ჩინეთს არ ჩამორჩეს.",
-    page: 51,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "როგორ შეუძლიათ ზოგიერთ კომპანიას კონკურენტებს გაუსწრონ?",
     answer: "Some companies can leave their competition behind by introducing better products at lower prices.",
     georgianAnswer: "ზოგიერთ კომპანიას შეუძლია კონკურენტებს გაუსწროს უკეთესი პროდუქციის უფრო დაბალ ფასად შეთავაზებით.",
-    page: 51,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "როდის გრძნობენ ადამიანები თავს უხერხულად?",
     answer: "People usually feel ill at ease among people they don't know.",
     georgianAnswer: "ადამიანები ჩვეულებრივ თავს უხერხულად გრძნობენ უცნობ ადამიანებთან.",
-    page: 52,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რომელ პროფესიებშია აუცილებელი თავდაჯერებულობა?",
     answer: "You have to be self-confident when you're a salesperson or a sales representative.",
     georgianAnswer: "თავდაჯერებული უნდა იყო, როცა გამყიდველი ან გაყიდვების წარმომადგენელი ხარ.",
-    page: 52,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "როგორ შეუძლიათ მშობლებს შვილებს თავდაჯერებულობა ასწავლონ?",
     answer: "Parents can teach their children to be self-confident by letting them share and express their ideas freely.",
     georgianAnswer: "მშობლებს შეუძლიათ შვილებს თავდაჯერებულობა ასწავლონ იმით, რომ აზრის თავისუფლად გამოხატვის საშუალებას მისცემენ.",
-    page: 52,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "პირველად ინგლისურად საუბრისას უხერხულად იგრძენი თავი?",
     answer: "Yes, I felt ill at ease the first time I had to say something in English.",
     georgianAnswer: "დიახ, პირველად ინგლისურად საუბრისას უხერხულად ვიგრძენი თავი.",
-    page: 52,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "შენი აზრით, თავდაჯერებულები ვიბადებით თუ ეს უნარია, რომელიც უნდა განვავითაროთ?",
     answer: "I don't think we are born self-confident. It's something we have to work on.",
     georgianAnswer: "არ ვფიქრობ, რომ თავდაჯერებულები ვიბადებით. ეს უნარია, რომელზეც უნდა ვიმუშაოთ.",
-    page: 52,
+    
   },
   {
     id: 17,
@@ -133,6 +133,6 @@ export const questions = [
     georgianQuestion: "რა სახელით დაიბადა მერილინ მონრო?",
     answer: "Marilyn Monroe was born with the name Norma Baker.",
     georgianAnswer: "მერილინ მონრო ნორმა ბეიკერის სახელით დაიბადა.",
-    page: 52,
+    
   },
 ];

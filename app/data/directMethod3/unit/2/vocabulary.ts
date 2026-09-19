@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/riˈækt/",
     sentence: "Can people react badly to some kinds of food?",
     georgianSentence: "შეიძლება ადამიანებმა ზოგიერთ საკვებზე ცუდად იმოქმედონ?",
-    page: 1,
+    
   },
 
   {
@@ -16,7 +16,7 @@ export const vocabulary = [
     pronunciation: "/riˈækʃən/",
     sentence: "The noun of 'react' is 'reaction'.",
     georgianSentence: "'React'-ის არსებითი სახელია 'reaction'.",
-    page: 1,
+    
   },
 
   {
@@ -27,7 +27,7 @@ export const vocabulary = [
     sentence: "Quick reactions are necessary when you pilot a plane.",
     georgianSentence:
       "თვითმფრინავის მართვისას სწრაფი რეაქციები აუცილებელია.",
-    page: 1,
+    
   },
 
   {
@@ -38,7 +38,7 @@ export const vocabulary = [
     sentence: "The teacher reacts quickly if a student doesn't know how to answer a question.",
     georgianSentence:
       "მასწავლებელი სწრაფად რეაგირებს, თუ მოსწავლემ არ იცის კითხვაზე პასუხის გაცემა.",
-    page: 1,
+    
   },
 
   {
@@ -48,7 +48,7 @@ export const vocabulary = [
     pronunciation: "/ɪn spaɪt əv/",
     sentence: "I go for a walk in spite of the rain.",
     georgianSentence: "წვიმის მიუხედავად, სასეირნოდ მივდივარ.",
-    page: 1,
+    
   },
 
   {
@@ -58,7 +58,7 @@ export const vocabulary = [
     pronunciation: "/ˈælədʒi/",
     sentence: "I have an allergy to cats.",
     georgianSentence: "კატებზე ალერგია მაქვს.",
-    page: 1,
+    
   },
 
   {
@@ -68,7 +68,7 @@ export const vocabulary = [
     pronunciation: "/əˈlɜːdʒɪk/",
     sentence: "Are children often allergic to dairy products?",
     georgianSentence: "ბავშვები ხშირად არიან ალერგიულები რძის პროდუქტებზე?",
-    page: 1,
+    
   },
 
   {
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈdeəri/",
     sentence: "Dairy products are made from milk.",
     georgianSentence: "რძის პროდუქტები რძისგან მზადდება.",
-    page: 1,
+    
   },
 
   {
@@ -88,7 +88,7 @@ export const vocabulary = [
     pronunciation: "/tuː/",
     sentence: "Yes, I have a book in my bag, too.",
     georgianSentence: "დიახ, ჩანთაში წიგნიც მაქვს.",
-    page: 2,
+    
   },
 
   {
@@ -98,7 +98,7 @@ export const vocabulary = [
     pronunciation: "/ˈaɪðə(r)/",
     sentence: "I haven't got a watch, either.",
     georgianSentence: "არც საათი მაქვს.",
-    page: 2,
+    
   },
 
   {
@@ -108,7 +108,7 @@ export const vocabulary = [
     pronunciation: "/əˈpɑːt frəm/",
     sentence: "What else do you have apart from your book?",
     georgianSentence: "წიგნის გარდა კიდევ რა გაქვს?",
-    page: 2,
+    
   },
 
   {
@@ -118,7 +118,7 @@ export const vocabulary = [
     pronunciation: "/els/",
     sentence: "What else do you have?",
     georgianSentence: "კიდევ რა გაქვს?",
-    page: 2,
+    
   },
 
   {
@@ -128,7 +128,7 @@ export const vocabulary = [
     pronunciation: "/ˈprɒbəbli/",
     sentence: "I will probably go to the lesson tomorrow.",
     georgianSentence: "ალბათ ხვალ გაკვეთილზე წავალ.",
-    page: 3,
+    
   },
 
   {
@@ -138,7 +138,7 @@ export const vocabulary = [
     pronunciation: "/səʊ/",
     sentence: "I think so.",
     georgianSentence: "ასე ვფიქრობ.",
-    page: 3,
+    
   },
 
   {
@@ -148,7 +148,7 @@ export const vocabulary = [
     pronunciation: "/wʊd/",
     sentence: "I would be happy if I became a millionaire.",
     georgianSentence: "ბედნიერი ვიქნებოდი, მილიონერი რომ გავმხდარიყავი.",
-    page: 3,
+    
   },
 
   {
@@ -159,7 +159,7 @@ export const vocabulary = [
     sentence: "If I had a million dollars, I would buy a big house.",
     georgianSentence:
       "მილიონი დოლარი რომ მქონდეს, დიდ სახლს ვიყიდდი.",
-    page: 3,
+    
   },
 
   {
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "/ˌmɪljəˈneə(r)/",
     sentence: "I would be happy if I became a millionaire.",
     georgianSentence: "ბედნიერი ვიქნებოდი, მილიონერი რომ გავმხდარიყავი.",
-    page: 3,
+    
   },
 
   {
@@ -180,7 +180,7 @@ export const vocabulary = [
     sentence: "If I saw a fire in the classroom, I would get out.",
     georgianSentence:
       "კლასში ხანძარი რომ დამენახა, გარეთ გავიდოდი.",
-    page: 3,
+    
   },
 
   {
@@ -190,7 +190,7 @@ export const vocabulary = [
     pronunciation: "/kəʊld/",
     sentence: "If I had a cold, I would stay at home.",
     georgianSentence: "გაციებული რომ ვიყო, სახლში დავრჩებოდი.",
-    page: 3,
+    
   },
 
   {
@@ -201,6 +201,6 @@ export const vocabulary = [
     sentence: "If I were an accountant, I would be able to add up numbers quickly.",
     georgianSentence:
       "ბუღალტერი რომ ვიყო, რიცხვების სწრაფად შეკრებას შევძლებდი.",
-    page: 4,
+    
   },
 ];

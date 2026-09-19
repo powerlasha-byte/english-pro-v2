@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈhɒstl]",
     sentence: "We stayed in a hostel during our trip.",
     georgianSentence: "მოგზაურობის დროს ჰოსტელში დავრჩით.",
-    page: 101,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈdɪskaʊnt]",
     sentence: "I bought these shoes with a 30% discount.",
     georgianSentence: "ეს ფეხსაცმელი 30%-იანი ფასდაკლებით ვიყიდე.",
-    page: 101,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[məˈtʃʊə]",
     sentence: "She's very mature for her age.",
     georgianSentence: "თავისი ასაკისთვის ძალიან მოწიფულია.",
-    page: 101,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˌɡrəʊn ˈʌp]",
     sentence: "Children want to become grown-ups.",
     georgianSentence: "ბავშვებს დიდებად გახდომა უნდათ.",
-    page: 101,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈfaɪəmən]",
     sentence: "The fireman rescued the family.",
     georgianSentence: "მეხანძრემ ოჯახი გადაარჩინა.",
-    page: 102,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˌpʊt ˈaʊt]",
     sentence: "The firefighters quickly put out the fire.",
     georgianSentence: "მეხანძრეებმა ხანძარი სწრაფად ჩააქრეს.",
-    page: 102,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˈmesɪdʒ]",
     sentence: "Please leave me a message.",
     georgianSentence: "გთხოვ, შეტყობინება დამიტოვე.",
-    page: 102,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˌekspekˈteɪʃən]",
     sentence: "The film exceeded my expectations.",
     georgianSentence: "ფილმმა ჩემს მოლოდინს გადააჭარბა.",
-    page: 102,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈsætɪsfaɪ]",
     sentence: "The service satisfied all the customers.",
     georgianSentence: "მომსახურებამ ყველა მომხმარებელი დააკმაყოფილა.",
-    page: 102,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[weɪt]",
     sentence: "I've lost five kilos of weight.",
     georgianSentence: "ხუთი კილოგრამი დავიკელი.",
-    page: 103,
+    
   },
  
     {
@@ -97,7 +97,7 @@ export const vocabulary = [
     pronunciation: "[kʊd]",
     sentence: "I could swim when I was six years old.",
     georgianSentence: "ექვსი წლის ასაკში ცურვა შემეძლო.",
-    page: 103,
+    
   },
   {
     id: 12,
@@ -106,7 +106,7 @@ export const vocabulary = [
     pronunciation: "[bi ˈeɪbl tə]",
     sentence: "She was able to solve the problem.",
     georgianSentence: "მან პრობლემის გადაჭრა შეძლო.",
-    page: 103,
+    
   },
   {
     id: 13,
@@ -115,7 +115,7 @@ export const vocabulary = [
     pronunciation: "[breɪv]",
     sentence: "The brave firefighter saved a child.",
     georgianSentence: "მამაცმა მეხანძრემ ბავშვი გადაარჩინა.",
-    page: 103,
+    
   },
   {
     id: 14,
@@ -124,7 +124,7 @@ export const vocabulary = [
     pronunciation: "[ˈbreɪvəri]",
     sentence: "Everyone admired his bravery.",
     georgianSentence: "ყველა მის სიმამაცეს აღფრთოვანებული უყურებდა.",
-    page: 103,
+    
   },
   {
     id: 15,
@@ -133,7 +133,7 @@ export const vocabulary = [
     pronunciation: "[aʊtˈstændɪŋ]",
     sentence: "She did an outstanding job.",
     georgianSentence: "მან გამორჩეული სამუშაო შეასრულა.",
-    page: 103,
+    
   },
   {
     id: 16,
@@ -142,7 +142,7 @@ export const vocabulary = [
     pronunciation: "[ˈwʌndəfl]",
     sentence: "We had a wonderful holiday.",
     georgianSentence: "შესანიშნავი დასვენება გვქონდა.",
-    page: 104,
+    
   },
   {
     id: 17,
@@ -151,7 +151,7 @@ export const vocabulary = [
     pronunciation: "[ˌɒpəˈtjuːnəti]",
     sentence: "This job is a great opportunity.",
     georgianSentence: "ეს სამსახური შესანიშნავი შესაძლებლობაა.",
-    page: 104,
+    
   },
   {
     id: 18,
@@ -160,7 +160,7 @@ export const vocabulary = [
     pronunciation: "[ˌpɪk ˈʌp]",
     sentence: "I'll pick you up after work.",
     georgianSentence: "სამსახურის შემდეგ გამოგივლი.",
-    page: 104,
+    
   },
   {
     id: 19,
@@ -169,7 +169,7 @@ export const vocabulary = [
     pronunciation: "[ˈreskjuː]",
     sentence: "The firefighters rescued two children.",
     georgianSentence: "მეხანძრეებმა ორი ბავშვი გადაარჩინეს.",
-    page: 103,
+    
   },
   {
     id: 20,
@@ -178,6 +178,6 @@ export const vocabulary = [
     pronunciation: "[əˈtʃiːvmənt]",
     sentence: "Winning the competition was a great achievement.",
     georgianSentence: "შეჯიბრების მოგება დიდი მიღწევა იყო.",
-    page: 104,
+    
   },
 ]

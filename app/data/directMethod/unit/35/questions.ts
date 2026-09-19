@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ოდესმე თავდაცვა გისწავლია?",
     answer: "No, but I'd like to learn it one day.",
     georgianAnswer: "არა, მაგრამ ერთ დღეს მისი სწავლა მინდა.",
-    page: 133,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რატომ არის თავდაცვა მნიშვნელოვანი?",
     answer: "Because it helps people protect themselves.",
     georgianAnswer: "რადგან ადამიანებს საკუთარი თავის დაცვაში ეხმარება.",
-    page: 133,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ოდესმე სერიოზული ჭრილობა გქონია?",
     answer: "Fortunately, I've never had a serious wound.",
     georgianAnswer: "საბედნიეროდ, სერიოზული ჭრილობა არასდროს მქონია.",
-    page: 133,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რამდენი დრო სჭირდება ჭრილობის შეხორცებას?",
     answer: "It depends on how serious the wound is.",
     georgianAnswer: "ეს დამოკიდებულია იმაზე, რამდენად სერიოზულია ჭრილობა.",
-    page: 133,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "დღესდღეობით ადამიანების ყველაზე დიდი რისკი რა არის?",
     answer: "Many people take financial and health risks.",
     georgianAnswer: "ბევრი ადამიანი ფინანსურ და ჯანმრთელობის რისკებს იღებს.",
-    page: 134,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "უფრო მაღალი ხელფასისთვის სარისკო სამსახურს აირჩევდი?",
     answer: "No, I'd prefer a safer job.",
     georgianAnswer: "არა, უფრო უსაფრთხო სამსახურს ვამჯობინებდი.",
-    page: 134,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ვინ არის საუკეთესო ლიდერი, რომელსაც იცნობ?",
     answer: "My manager is a great leader.",
     georgianAnswer: "ჩემი მენეჯერი შესანიშნავი ლიდერია.",
-    page: 134,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ადამიანს კარგ ლიდერად?",
     answer: "Honesty, responsibility and good communication.",
     georgianAnswer: "პატიოსნება, პასუხისმგებლობა და კარგი კომუნიკაცია.",
-    page: 134,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "შიდა კომპანიაში მუშაობას ამჯობინებ თუ გლობალურში?",
     answer: "I'd prefer to work for a global company.",
     georgianAnswer: "გლობალურ კომპანიაში მუშაობას ვამჯობინებ.",
-    page: 135,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ოდესმე საზღვარგარეთ მუშაობა გინდა?",
     answer: "Yes, I'd definitely like to have that experience.",
     georgianAnswer: "დიახ, ნამდვილად მსურს ასეთი გამოცდილების მიღება.",
-    page: 135,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა შესაძლებლობები გინდა გქონდეს მომავალში?",
     answer: "I'd like to have more opportunities to travel and learn.",
     georgianAnswer: "მინდა მეტი შესაძლებლობა მქონდეს მოგზაურობისა და სწავლისთვის.",
-    page: 135,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რთული გამოწვევის წინაშე მდგარხარ?",
     answer: "Yes, learning English has been a big challenge.",
     georgianAnswer: "დიახ, ინგლისურის სწავლა დიდი გამოწვევა იყო.",
-    page: 135,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "რა ეხმარება ადამიანებს წარმატების მიღწევაში?",
     answer: "Hard work, discipline and patience.",
     georgianAnswer: "შრომა, დისციპლინა და მოთმინება.",
-    page: 135,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, წარმატებისთვის რისკის გაწევა აუცილებელია?",
     answer: "Sometimes, but the risks should be calculated.",
     georgianAnswer: "ზოგჯერ კი, მაგრამ რისკი გააზრებული უნდა იყოს.",
-    page: 135,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "სად ხედავ საკუთარ თავს ხუთ წელიწადში?",
     answer: "I hope to be successful in my career and fluent in English.",
     georgianAnswer: "იმედი მაქვს, კარიერაში წარმატებული ვიქნები და ინგლისურად თავისუფლად ვისაუბრებ.",
-    page: 135,
+    
   },
 ];

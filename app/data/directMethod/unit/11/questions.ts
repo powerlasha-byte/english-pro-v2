@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "ვინ არის ცნობილი ადამიანი შენს ქვეყანაში?",
     answer: "A well-known person in my country is Nino Katamadze.",
     georgianAnswer: "ჩემს ქვეყანაში ცნობილი ადამიანია ნინო ქათამაძე.",
-    page: 41,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "გინდა გახდე ცნობილი ადამიანი? რატომ ან რატომ არა?",
     answer: "Yes, I'd like to become a celebrity because I want to inspire people.",
     georgianAnswer: "დიახ, მინდა ცნობილი ადამიანი გავხდე, რადგან მსურს ხალხის შთაგონება.",
-    page: 41,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რომელი ნიჭის ქონა გინდოდა?",
     answer: "I'd like to have a talent for playing the piano.",
     georgianAnswer: "მინდოდა პიანინოზე დაკვრის ნიჭი მქონოდა.",
-    page: 43,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "შენი აზრით ნიჭი უფრო მნიშვნელოვანია თუ შრომა?",
     answer: "No, I think hard work is more important than talent.",
     georgianAnswer: "არა, ვფიქრობ, შრომა უფრო მნიშვნელოვანია, ვიდრე ნიჭი.",
-    page: 43,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გაგჭირვებია ვინმესთან დაკავშირება?",
     answer: "Yes, I have had difficulty getting hold of my friends sometimes.",
     georgianAnswer: "დიახ, ზოგჯერ მეგობრებთან დაკავშირება გამჭირვებია.",
-    page: 43,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "გყავს მწვრთნელი ან მასწავლებელი, რომელიც შთაგაგონებს?",
     answer: "Yes, my teacher inspires me to improve every day.",
     georgianAnswer: "დიახ, ჩემი მასწავლებელი ყოველდღე განვითარებას შთამაგონებს.",
-    page: 43,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რამდენად ხშირად ვარჯიშობ?",
     answer: "I work out four times a week.",
     georgianAnswer: "კვირაში ოთხჯერ ვვარჯიშობ.",
-    page: 43,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "სახლში ვარჯიში გირჩევნია თუ სპორტდარბაზში?",
     answer: "I prefer working out at the gym.",
     georgianAnswer: "სპორტდარბაზში ვარჯიში მირჩევნია.",
-    page: 43,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებ კარგი ფიზიკური ფორმის შესანარჩუნებლად?",
     answer: "I exercise regularly and eat healthy food.",
     georgianAnswer: "რეგულარულად ვვარჯიშობ და ჯანსაღ საკვებს ვიღებ.",
-    page: 43,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "ოდესმე გამოგიყენებია სახტომი თოკი სავარჯიშოდ?",
     answer: "Yes, I have. It's great for cardio.",
     georgianAnswer: "დიახ, გამომიყენებია. კარდიოსთვის ძალიან კარგია.",
-    page: 44,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "გინდოდა ცირკში გამოსვლა?",
     answer: "No, I wouldn't because it's dangerous.",
     georgianAnswer: "არა, არ მინდოდა, რადგან საშიშია.",
-    page: 44,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რა სპორტულ აღჭურვილობას იყენებ?",
     answer: "I usually use dumbbells and a skipping rope.",
     georgianAnswer: "ჩვეულებრივ ჰანტელებს და სახტომ თოკს ვიყენებ.",
-    page: 44,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "სხვათა შორის, რომელია შენი საყვარელი სპორტი?",
     answer: "My favourite sport is football.",
     georgianAnswer: "ჩემი საყვარელი სპორტი ფეხბურთია.",
-    page: 43,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ვინ არის ყველაზე ნიჭიერი სპორტსმენი, რომელსაც იცნობ?",
     answer: "I think Cristiano Ronaldo is one of the most talented athletes.",
     georgianAnswer: "ვფიქრობ, კრიშტიანუ რონალდუ ერთ-ერთი ყველაზე ნიჭიერი სპორტსმენია.",
-    page: 43,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "შენი აზრით ყველამ რეგულარულად უნდა ივარჯიშოს?",
     answer: "Yes, because regular exercise is good for your health.",
     georgianAnswer: "დიახ, რადგან რეგულარული ვარჯიში ჯანმრთელობისთვის სასარგებლოა.",
-    page: 43,
+    
   },
 ];

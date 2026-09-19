@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "გჯერა მოჩვენებების?",
     answer: "Yes, I do. / No, I don't.",
     georgianAnswer: "კი, მჯერა. / არა, არ მჯერა.",
-    page: 17,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "შეიძლება მოჩვენებები საშიშნი იყვნენ?",
     answer: "Yes, they can be scary.",
     georgianAnswer: "კი, ისინი შეიძლება საშიშნი იყვნენ.",
-    page: 17,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "ზოგი ადამიანი ამტკიცებს, რომ მოჩვენება უნახავს?",
     answer: "Yes, some people maintain that they have seen a ghost.",
     georgianAnswer: "დიახ, ზოგი ადამიანი ამტკიცებს, რომ მოჩვენება უნახავს.",
-    page: 17,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რატომ ეშინია ზოგ ადამიანს მოჩვენებების?",
     answer: "Because they represent the unknown.",
     georgianAnswer: "რადგან ისინი უცნობს წარმოადგენენ.",
-    page: 17,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რა არის აუცილებელი ბოროტება?",
     answer: "It is something unpleasant but necessary.",
     georgianAnswer: "ეს არის რაღაც არასასიამოვნო, მაგრამ აუცილებელი.",
-    page: 17,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "შეგიძლია აუცილებელი ბოროტების მაგალითი მოიყვანო?",
     answer: "Paying taxes is a necessary evil.",
     georgianAnswer: "გადასახადების გადახდა აუცილებელი ბოროტებაა.",
-    page: 17,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, რამდენი ფული სჭირდება ადამიანს ყოველ თვე?",
     answer: "It depends on the person.",
     georgianAnswer: "ეს ადამიანზეა დამოკიდებული.",
-    page: 17,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რამდენი შვილის ყოლა გინდოდა?",
     answer: "I'd like to have two children.",
     georgianAnswer: "ორი შვილის ყოლა მინდა.",
-    page: 17,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ვინ წარმოგადგენდა სასამართლოში?",
     answer: "A lawyer would represent me.",
     georgianAnswer: "ადვოკატი წარმადგენდა.",
-    page: 17,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "როგორ არის ქუჩა აღნიშნული რუკაზე?",
     answer: "A street is represented by a thin black line.",
     georgianAnswer: "ქუჩა რუკაზე თხელი შავი ხაზით არის აღნიშნული.",
-    page: 17,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რა ადგილებში არიან გიდები?",
     answer: "Museums and galleries have guides.",
     georgianAnswer: "მუზეუმებსა და გალერეებს ჰყავთ გიდები.",
-    page: 20,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რატომ ხდებიან ადამიანები ტურისტული გიდები?",
     answer: "Because they enjoy helping tourists.",
     georgianAnswer: "რადგან ტურისტების დახმარება მოსწონთ.",
-    page: 20,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "გიყვარს ღირსშესანიშნაობების დათვალიერება?",
     answer: "Yes, I enjoy sightseeing.",
     georgianAnswer: "დიახ, მიყვარს ღირსშესანიშნაობების დათვალიერება.",
-    page: 20,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რომელი ქალაქის მონახულება გინდა?",
     answer: "I'd like to visit London.",
     georgianAnswer: "ლონდონის მონახულება მინდა.",
-    page: 20,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რომელ ანბანს იყენებენ ბრმა ადამიანები?",
     answer: "They use the Braille alphabet.",
     georgianAnswer: "ისინი ბრაილის ანბანს იყენებენ.",
-    page: 20,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "რატომ სჭირდებათ ბრმა ადამიანებს მეგზური ძაღლები?",
     answer: "Because guide dogs help them move safely.",
     georgianAnswer: "რადგან მეგზური ძაღლები უსაფრთხოდ გადაადგილებაში ეხმარებიან.",
-    page: 20,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "შეუძლიათ ბრმა ადამიანებს მარტო გზის გადაკვეთა?",
     answer: "Sometimes, but guide dogs make it easier.",
     georgianAnswer: "ზოგჯერ კი, მაგრამ მეგზური ძაღლები ამარტივებენ.",
-    page: 20,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "ჰქონდათ Rolling Stones-ს წარმატებული კარიერა?",
     answer: "Yes, they have had a very successful career.",
     georgianAnswer: "დიახ, მათ ძალიან წარმატებული კარიერა ჰქონდათ.",
-    page: 20,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "გინდოდა ტურისტული გიდი გამხდარიყავი?",
     answer: "No, I'd rather work in IT.",
     georgianAnswer: "არა, მირჩევნია IT-ში ვიმუშაო.",
-    page: 20,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "მოგზაურობისთვის ინგლისურის სწავლა მნიშვნელოვანია?",
     answer: "Yes, it helps you communicate everywhere.",
     georgianAnswer: "დიახ, ყველგან კომუნიკაციაში გეხმარება.",
-    page: 20,
+    
   },
 ];

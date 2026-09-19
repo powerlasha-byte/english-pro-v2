@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/mæɡˈnɪfɪsnt/",
     sentence: "The Grand Canyon has magnificent views.",
     georgianSentence: "გრანდ კანიონს შესანიშნავი ხედები აქვს.",
-    page: 13,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ədˈvɑːntɪdʒ/",
     sentence: "Living near work is a big advantage.",
     georgianSentence: "სამსახურთან ახლოს ცხოვრება დიდი უპირატესობაა.",
-    page: 13,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/ˌdɪsədˈvɑːntɪdʒ/",
     sentence: "Noise is one disadvantage of living in the city.",
     georgianSentence: "ხმაური ქალაქში ცხოვრების ერთ-ერთი ნაკლია.",
-    page: 13,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈpenthaʊs/",
     sentence: "The penthouse is on the top floor.",
     georgianSentence: "პენტჰაუსი ზედა სართულზე მდებარეობს.",
-    page: 13,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ˈskaɪskreɪpə(r)/",
     sentence: "Dubai has many modern skyscrapers.",
     georgianSentence: "დუბაიში ბევრი თანამედროვე ცათამბჯენია.",
-    page: 13,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/flɔː(r)/",
     sentence: "Our office is on the fifth floor.",
     georgianSentence: "ჩვენი ოფისი მეხუთე სართულზეა.",
-    page: 14,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ˈstɔːri/",
     sentence: "The building has ten storeys.",
     georgianSentence: "შენობას ათი სართული აქვს.",
-    page: 14,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/ˌɡraʊnd ˈflɔː(r)/",
     sentence: "The reception is on the ground floor.",
     georgianSentence: "რეცეფცია პირველ სართულზეა.",
-    page: 14,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/kəʊp wɪð/",
     sentence: "She can cope with difficult situations.",
     georgianSentence: "მას რთულ სიტუაციებთან გამკლავება შეუძლია.",
-    page: 14,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/ˈstrætədʒi/",
     sentence: "We need a better strategy.",
     georgianSentence: "უკეთესი სტრატეგია გვჭირდება.",
-    page: 14,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/reɪz/",
     sentence: "The company plans to raise salaries.",
     georgianSentence: "კომპანია ხელფასების გაზრდას გეგმავს.",
-    page: 14,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/kənˈdɪʃn/",
     sentence: "The car is in excellent condition.",
     georgianSentence: "მანქანა შესანიშნავ მდგომარეობაშია.",
-    page: 14,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/əˈfɔːd/",
     sentence: "I can't afford a new car.",
     georgianSentence: "ახალი მანქანის ყიდვის საშუალება არ მაქვს.",
-    page: 15,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/ˌnjuːliˈwed/",
     sentence: "The newlyweds went to Italy.",
     georgianSentence: "ახლად დაქორწინებულები იტალიაში წავიდნენ.",
-    page: 15,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/ˈhʌnimuːn/",
     sentence: "They spent their honeymoon in Greece.",
     georgianSentence: "საქორწინო მოგზაურობა საბერძნეთში გაატარეს.",
-    page: 15,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/ˈkʌvə(r)/",
     sentence: "Snow covered the mountains.",
     georgianSentence: "თოვლმა მთები დაფარა.",
-    page: 15,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/kəmˈpliːt/",
     sentence: "We need complete silence.",
     georgianSentence: "სრული სიჩუმე გვჭირდება.",
-    page: 15,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/ˌhaɪd ən ˈsiːk/",
     sentence: "The children are playing hide-and-seek.",
     georgianSentence: "ბავშვები დამალობანას თამაშობენ.",
-    page: 15,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "/ruːf/",
     sentence: "The roof needs repairing.",
     georgianSentence: "სახურავს შეკეთება სჭირდება.",
-    page: 16,
+    
   },
   {
     id: 20,
@@ -177,7 +177,7 @@ export const vocabulary = [
     pronunciation: "/taɪl/",
     sentence: "The roof is covered with tiles.",
     georgianSentence: "სახურავი კრამიტითაა დაფარული.",
-    page: 16,
+    
   },
   {
     id: 21,
@@ -186,7 +186,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈpleɪs/",
     sentence: "We need to replace the old windows.",
     georgianSentence: "ძველი ფანჯრების შეცვლა გვჭირდება.",
-    page: 16,
+    
   },
 
 
@@ -198,7 +198,7 @@ export const vocabulary = [
     pronunciation: "/kənˈsɪdə(r)/",
     sentence: "Most people consider this a great advantage.",
     georgianSentence: "ადამიანების უმეტესობა ამას დიდ უპირატესობად მიიჩნევს.",
-    page: 13,
+    
   },
   {
     id: 23,
@@ -207,7 +207,7 @@ export const vocabulary = [
     pronunciation: "/vjuː/",
     sentence: "The apartment has a magnificent view.",
     georgianSentence: "ბინას შესანიშნავი ხედი აქვს.",
-    page: 13,
+    
   },
   {
     id: 24,
@@ -216,7 +216,7 @@ export const vocabulary = [
     pronunciation: "/ˈfæʃnəbl/",
     sentence: "It is fashionable to live in the city centre.",
     georgianSentence: "ქალაქის ცენტრში ცხოვრება მოდურია.",
-    page: 13,
+    
   },
   {
     id: 25,
@@ -225,7 +225,7 @@ export const vocabulary = [
     pronunciation: "/lɪft/",
     sentence: "We use the lift every day.",
     georgianSentence: "ჩვენ ყოველდღე ლიფტს ვიყენებთ.",
-    page: 13,
+    
   },
   {
     id: 26,
@@ -234,7 +234,7 @@ export const vocabulary = [
     pronunciation: "/ədˈvaɪz/",
     sentence: "The doctor advised me to rest.",
     georgianSentence: "ექიმმა დასვენება მირჩია.",
-    page: 13,
+    
   },
   {
     id: 27,
@@ -243,7 +243,7 @@ export const vocabulary = [
     pronunciation: "/ˈneɪbə(r)/",
     sentence: "Our neighbours are very friendly.",
     georgianSentence: "ჩვენი მეზობლები ძალიან მეგობრულები არიან.",
-    page: 14,
+    
   },
   {
     id: 28,
@@ -252,7 +252,7 @@ export const vocabulary = [
     pronunciation: "/ˈtræfɪk/",
     sentence: "There is a lot of traffic in the morning.",
     georgianSentence: "დილით გზებზე დიდი მოძრაობაა.",
-    page: 14,
+    
   },
   {
     id: 29,
@@ -261,7 +261,7 @@ export const vocabulary = [
     pronunciation: "/ˈsaɪləns/",
     sentence: "The library should be silent.",
     georgianSentence: "ბიბლიოთეკაში სიჩუმე უნდა იყოს.",
-    page: 15,
+    
   },
   {
     id: 30,
@@ -270,7 +270,7 @@ export const vocabulary = [
     pronunciation: "/rɪˈpeə(r)/",
     sentence: "The roof needs a repair.",
     georgianSentence: "სახურავს შეკეთება სჭირდება.",
-    page: 16,
+    
   },
   {
     id: 31,
@@ -279,7 +279,7 @@ export const vocabulary = [
     pronunciation: "/əˈpɑːtmənt/",
     sentence: "They bought a new apartment.",
     georgianSentence: "მათ ახალი ბინა იყიდეს.",
-    page: 14,
+    
   },
   {
     id: 32,
@@ -288,7 +288,7 @@ export const vocabulary = [
     pronunciation: "/ˈbɪldɪŋ/",
     sentence: "This building has twenty floors.",
     georgianSentence: "ამ შენობას ოცი სართული აქვს.",
-    page: 14,
+    
   },
   {
     id: 33,
@@ -297,7 +297,7 @@ export const vocabulary = [
     pronunciation: "/ˈkɒntrækt/",
     sentence: "She signed a new contract.",
     georgianSentence: "მან ახალ კონტრაქტს მოაწერა ხელი.",
-    page: 16,
+    
   },
   {
     id: 34,
@@ -306,7 +306,7 @@ export const vocabulary = [
     pronunciation: "/ɪmˈplɔɪiː/",
     sentence: "The company hired a new employee.",
     georgianSentence: "კომპანიამ ახალი თანამშრომელი აიყვანა.",
-    page: 16,
+    
   },
   {
     id: 35,
@@ -315,7 +315,7 @@ export const vocabulary = [
     pronunciation: "/ˈfɒrən ˈlæŋɡwɪdʒ/",
     sentence: "Learning a foreign language has many advantages.",
     georgianSentence: "უცხო ენის სწავლას ბევრი უპირატესობა აქვს.",
-    page: 16,
+    
   },
   {
     id: 36,
@@ -324,7 +324,7 @@ export const vocabulary = [
     pronunciation: "/ˈhevi ˈtræfɪk/",
     sentence: "Heavy traffic makes commuting difficult.",
     georgianSentence: "ინტენსიური მოძრაობა სამსახურში მისვლას ართულებს.",
-    page: 16,
+    
   },
   {
     id: 37,
@@ -333,7 +333,7 @@ export const vocabulary = [
     pronunciation: "/ˈkʌvə(r) wɪð/",
     sentence: "The roof is covered with tiles.",
     georgianSentence: "სახურავი კრამიტით არის დაფარული.",
-    page: 16,
+    
   },
   {
     id: 38,
@@ -342,7 +342,7 @@ export const vocabulary = [
     pronunciation: "/biː ˈeɪbl tuː/",
     sentence: "She is able to solve difficult problems.",
     georgianSentence: "მას რთული პრობლემების გადაჭრა შეუძლია.",
-    page: 14,
+    
   },
   {
     id: 39,
@@ -351,7 +351,7 @@ export const vocabulary = [
     pronunciation: "/ˈjuːst tuː/",
     sentence: "This building used to be a hotel.",
     georgianSentence: "ეს შენობა ადრე სასტუმრო იყო.",
-    page: 13,
+    
   },
   {
     id: 40,
@@ -360,7 +360,7 @@ export const vocabulary = [
     pronunciation: "/meɪn/",
     sentence: "The main disadvantage is the noise.",
     georgianSentence: "მთავარი ნაკლი ხმაურია.",
-    page: 13,
+    
   },
 ];
 

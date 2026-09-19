@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რის გაკეთებას უკრძალავენ ექიმები ადამიანებს?",
     answer: "Doctors usually forbid people from smoking or eating too much sugar.",
     georgianAnswer: "ექიმები ადამიანებს ჩვეულებრივ მოწევას და ზედმეტი შაქრის მიღებას უკრძალავენ.",
-    page: 77,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, საჯარო ადგილებში მოწევა უნდა აიკრძალოს?",
     answer: "Yes, I think smoking should be forbidden in public places.",
     georgianAnswer: "დიახ, ვფიქრობ, საჯარო ადგილებში მოწევა უნდა აიკრძალოს.",
-    page: 77,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რას გიკრძალავდნენ მშობლები ბავშვობაში?",
     answer: "They forbade me from staying out late.",
     georgianAnswer: "ისინი გვიან გარეთ დარჩენას მიკრძალავდნენ.",
-    page: 77,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "კარგად გამოგდის ხუმრობების მოყოლა?",
     answer: "Yes, I enjoy telling jokes.",
     georgianAnswer: "დიახ, ხუმრობების მოყოლა მიყვარს.",
-    page: 77,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებ, როცა ვიღაც შენს ხუმრობას ვერ იგებს?",
     answer: "I explain the joke or say 'never mind'.",
     georgianAnswer: "ვუხსნი ხუმრობას ან ვამბობ: „არა უშავს“.",
-    page: 77,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, ვინ არის ჩვენი დროის გენიოსი?",
     answer: "I think Elon Musk is one of the geniuses of our time.",
     georgianAnswer: "ვფიქრობ, ელონ მასკი ჩვენი დროის ერთ-ერთი გენიოსია.",
-    page: 78,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "სად გვხვდება ჩვეულებრივ ონკანები?",
     answer: "We usually find taps over sinks or bathtubs.",
     georgianAnswer: "ონკანები ჩვეულებრივ ნიჟარასთან ან აბაზანასთან გვხვდება.",
-    page: 78,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "გჯერა, რომ სხვა პლანეტებზე ინტელექტუალური სიცოცხლე არსებობს?",
     answer: "Yes, I think it's possible.",
     georgianAnswer: "დიახ, ვფიქრობ, ეს შესაძლებელია.",
-    page: 78,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა უნარებს ვიზიარებთ ადამიანები შიმპანზეებთან?",
     answer: "We both can use simple tools and solve problems.",
     georgianAnswer: "ორივეს შეგვიძლია მარტივი ხელსაწყოების გამოყენება და პრობლემების გადაჭრა.",
-    page: 79,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მნიშვნელოვანი კანონის პატივისცემა?",
     answer: "Because it helps keep society safe and fair.",
     georgianAnswer: "რადგან ეს საზოგადოებას უსაფრთხოსა და სამართლიანს ხდის.",
-    page: 79,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "უნდა დაარტყან თუ არა ბავშვებს ოდესმე?",
     answer: "No, I think children should be taught, not smacked.",
     georgianAnswer: "არა, ვფიქრობ, ბავშვები უნდა ასწავლონ და არა დაარტყან.",
-    page: 80,
+    
   },
   {
     id: 12,
@@ -93,6 +93,6 @@ export const questions = [
     georgianQuestion: "რატომ არ ატყობინებენ ზოგიერთ თავდასხმას პოლიციას?",
     answer: "Because some people are afraid or don't trust the police.",
     georgianAnswer: "რადგან ზოგს ეშინია ან პოლიციას არ ენდობა.",
-    page: 80,
+    
   },
 ];

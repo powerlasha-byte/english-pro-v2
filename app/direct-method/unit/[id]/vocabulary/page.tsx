@@ -1,6 +1,7 @@
 "use client";
 
 import { useParams } from "next/navigation";
+import { useState } from "react";
 
 import Layout from "@/app/components/Layout";
 import BackButton from "@/app/components/BackButton";
@@ -12,10 +13,17 @@ export default function VocabularyPage() {
 
   const { vocabulary } = getUnitData(id as string);
 
+  const [showWordTranslation, setShowWordTranslation] =
+    useState<number | null>(null);
+
+  const [showSentenceTranslation, setShowSentenceTranslation] =
+    useState<number | null>(null);
+
   return (
     <Layout>
       <div className="max-w-6xl mx-auto p-8">
 
+        {/* Back Button */}
         <div className="mb-6">
           <BackButton
             href={`/direct-method/unit/${id}`}
@@ -23,63 +31,131 @@ export default function VocabularyPage() {
           />
         </div>
 
+        {/* Title */}
         <h1 className="mb-8 text-4xl font-bold text-white">
           📖 Unit {id} Vocabulary
         </h1>
 
+        {/* Vocabulary Cards */}
         <div className="grid gap-5">
-          {vocabulary.map((word) => (
-            <div
-              key={word.id}
-              className="rounded-2xl border border-slate-700 bg-slate-900 p-6"
-            >
-              <div className="flex items-center justify-between">
-                <h2 className="text-3xl font-bold text-violet-400">
-                  {word.english}
-                </h2>
 
-                <button
-                  onClick={() => speak(word.english)}
-                  className="rounded-xl bg-violet-600 px-4 py-2 text-white transition hover:bg-violet-500"
-                >
-                  🔊
-                </button>
-              </div>
+          {vocabulary.map((word) => {
+            const wordTranslationVisible =
+              showWordTranslation === word.id;
 
-              <p className="mt-2 text-xl text-white">
-                {word.georgian}
-              </p>
+            const sentenceTranslationVisible =
+              showSentenceTranslation === word.id;
 
-              <p className="mt-2 text-slate-400">
-                {word.pronunciation}
-              </p>
+            return (
+              <div
+                key={word.id}
+                className="rounded-2xl border border-slate-700 bg-slate-900 p-6"
+              >
 
-              <div className="mt-6 flex items-start justify-between gap-4">
-                <div>
-                  <p className="text-lg text-white">
-                    {word.sentence}
-                  </p>
+                {/* ========================= */}
+                {/* WORD */}
+                {/* ========================= */}
 
-                  <p className="mt-2 text-slate-400">
-                    {word.georgianSentence}
-                  </p>
+                <div className="flex items-center justify-between gap-4">
+
+                  <h2 className="text-3xl font-bold text-violet-400">
+                    {word.english}
+                  </h2>
+
+                  <div className="flex items-center gap-2">
+
+                    {/* Word Sound */}
+                    <button
+                      onClick={() => speak(word.english)}
+                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                      title="Listen"
+                    >
+                      🔊
+                    </button>
+
+                    {/* Word Translation */}
+                    <button
+                      onClick={() =>
+                        setShowWordTranslation(
+                          wordTranslationVisible ? null : word.id
+                        )
+                      }
+                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                      title="Show translation"
+                    >
+                      🌐
+                    </button>
+
+                  </div>
                 </div>
 
-                <button
-                  onClick={() => speak(word.sentence)}
-                  className="rounded-xl bg-slate-700 px-4 py-2 text-white transition hover:bg-slate-600"
-                >
-                  🔊
-                </button>
+                {/* Word Translation */}
+                {wordTranslationVisible && (
+                  <p className="mt-2 text-xl text-white">
+                    {word.georgian}
+                  </p>
+                )}
+
+                {/* Pronunciation */}
+                <p className="mt-2 text-slate-400">
+                  {word.pronunciation}
+                </p>
+
+                {/* ========================= */}
+                {/* SENTENCE */}
+                {/* ========================= */}
+
+                <div className="mt-6 flex items-start justify-between gap-4">
+
+                  <div className="flex-1">
+
+                    {/* English Sentence */}
+                    <p className="text-lg text-white">
+                      {word.sentence}
+                    </p>
+
+                    {/* Sentence Translation */}
+                    {sentenceTranslationVisible && (
+                      <p className="mt-2 text-slate-400">
+                        {word.georgianSentence}
+                      </p>
+                    )}
+
+                  </div>
+
+                  <div className="flex items-center gap-2">
+
+                    {/* Sentence Sound */}
+                    <button
+                      onClick={() => speak(word.sentence)}
+                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                      title="Listen to example"
+                    >
+                      🔊
+                    </button>
+
+                    {/* Sentence Translation */}
+                    <button
+                      onClick={() =>
+                        setShowSentenceTranslation(
+                          sentenceTranslationVisible ? null : word.id
+                        )
+                      }
+                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                      title="Show translation"
+                    >
+                      🌐
+                    </button>
+
+                  </div>
+
+                </div>
+
               </div>
+            );
+          })}
 
-              <p className="mt-5 text-sm text-violet-400">
-                Page {word.page}
-              </p>
-            </div>
-          ))}
         </div>
-
       </div>
     </Layout>
   );

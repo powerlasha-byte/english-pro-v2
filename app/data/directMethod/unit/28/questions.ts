@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "როდის ვიყენებთ 'have something done' გამოთქმას?",
     answer: "We use it when someone does something for us.",
     georgianAnswer: "მას ვიყენებთ, როდესაც ვინმე ჩვენთვის აკეთებს რაიმეს.",
-    page: 108,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "ოდესმე პროფესიონალს შეგიჭრია თმა?",
     answer: "Yes, I always have my hair cut by a professional.",
     georgianAnswer: "დიახ, თმას ყოველთვის პროფესიონალი მჭრის.",
-    page: 108,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რამდენად ხშირად აბანინებ მანქანას?",
     answer: "I have my car washed once a week.",
     georgianAnswer: "მანქანას კვირაში ერთხელ ვაბანინებ.",
-    page: 108,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ტელეფონი გაგიკეთებია (გაგაკეთებინებია)?",
     answer: "Yes, I had my phone repaired last year.",
     georgianAnswer: "დიახ, შარშან ტელეფონი გავაკეთებინე.",
-    page: 108,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "მანქანას თავად გააკეთებდი თუ გააკეთებინებდი?",
     answer: "I'd have it repaired by a mechanic.",
     georgianAnswer: "მექანიკოსს გავაკეთებინებდი.",
-    page: 108,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ოდესმე რამე მოგპარვია?",
     answer: "No, I've never had anything stolen.",
     georgianAnswer: "არა, არასოდეს არაფერი მომპარვია.",
-    page: 108,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "რას მიაღწიე წელს?",
     answer: "I've achieved several personal goals.",
     georgianAnswer: "რამდენიმე პირად მიზანს მივაღწიე.",
-    page: 109,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "შეუძლია თუ არა შრომას წარმატების მოტანა?",
     answer: "Yes, hard work helps people achieve success.",
     georgianAnswer: "დიახ, შრომა ადამიანებს წარმატების მიღწევაში ეხმარება.",
-    page: 109,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "უნდა დაისაჯონ ბავშვები ცუდი საქციელისთვის?",
     answer: "Sometimes they should be punished fairly.",
     georgianAnswer: "ზოგჯერ სამართლიანად უნდა დაისაჯონ.",
-    page: 110,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "კარგია თუ არა დაბალი ფასების მიღწევა ხარისხის ხარჯზე?",
     answer: "No, quality is more important.",
     georgianAnswer: "არა, ხარისხი უფრო მნიშვნელოვანია.",
-    page: 110,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "კარგად აკონტროლებ შენს ხარჯებს?",
     answer: "Yes, I try to control my expenses carefully.",
     georgianAnswer: "დიახ, ვცდილობ ჩემი ხარჯები ყურადღებით ვაკონტროლო.",
-    page: 110,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რა სურს ამბიციურ ადამიანს?",
     answer: "An ambitious person wants to succeed.",
     georgianAnswer: "ამბიციურ ადამიანს წარმატების მიღწევა სურს.",
-    page: 111,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "არიან თუ არა მიზანდასახული ადამიანები წარმატებულები?",
     answer: "Many determined people become successful.",
     georgianAnswer: "ბევრი მიზანდასახული ადამიანი წარმატებულია.",
-    page: 111,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ადამიანები ადვილად უნდა ნებდებოდნენ?",
     answer: "No, they should keep trying.",
     georgianAnswer: "არა, უნდა განაგრძონ მცდელობა.",
-    page: 111,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რა ხდის ადამიანს კარგ მებრძოლად?",
     answer: "Determination and courage.",
     georgianAnswer: "მიზანდასახულობა და გამბედაობა.",
-    page: 111,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "უნდა იბრძოლონ ადამიანებმა თავიანთი ოცნებებისთვის?",
     answer: "Yes, they should never give up.",
     georgianAnswer: "დიახ, არასოდეს უნდა დანებდნენ.",
-    page: 111,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "რა ეხმარება ადამიანებს წარმატების მიღწევაში?",
     answer: "Hard work and determination.",
     georgianAnswer: "შრომა და მიზანდასახულობა.",
-    page: 111,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "გინდა საკუთარი ბიზნესის ქონა?",
     answer: "Yes, I'd like to run my own business.",
     georgianAnswer: "დიახ, მინდა საკუთარი ბიზნესი მქონდეს.",
-    page: 111,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "ამბიციური ადამიანები ჩვეულებრივ ბევრს მუშაობენ?",
     answer: "Yes, they usually work very hard.",
     georgianAnswer: "დიახ, ისინი ჩვეულებრივ ძალიან ბევრს მუშაობენ.",
-    page: 111,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რა უფრო მნიშვნელოვანია: ნიჭი თუ მიზანდასახულობა?",
     answer: "I think determination is more important.",
     georgianAnswer: "ვფიქრობ, მიზანდასახულობა უფრო მნიშვნელოვანია.",
-    page: 111,
+    
   },
 ];

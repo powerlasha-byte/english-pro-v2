@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "როგორი ადამიანი ფიქრობს ძირითადად საკუთარ სარგებელზე?",
     answer: "A selfish person concentrates mostly on their own advantage.",
     georgianAnswer: "ეგოისტი ადამიანი ძირითადად საკუთარ სარგებელზე ფიქრობს.",
-    page: 85,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "გირჩევნია საჩუქრების ჩუქება თუ მიღება? რატომ?",
     answer: "I prefer giving gifts because it makes people happy.",
     georgianAnswer: "საჩუქრების ჩუქება მირჩევნია, რადგან ეს ადამიანებს აბედნიერებს.",
-    page: 85,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა ტრადიციებს ინარჩუნებს შენი ოჯახი?",
     answer: "My family keeps many traditional holiday customs.",
     georgianAnswer: "ჩემი ოჯახი ბევრ ტრადიციულ სადღესასწაულო წეს-ჩვეულებას ინარჩუნებს.",
-    page: 85,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, ტრადიციები უნდა შევინარჩუნოთ?",
     answer: "Yes, traditions are an important part of our culture.",
     georgianAnswer: "დიახ, ტრადიციები ჩვენი კულტურის მნიშვნელოვანი ნაწილია.",
-    page: 86,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე კარგი იღბალი გქონია?",
     answer: "Yes, I have been lucky several times.",
     georgianAnswer: "დიახ, რამდენჯერმე გამიმართლა.",
-    page: 86,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ცრუმორწმუნე ხარ?",
     answer: "No, I don't believe in superstitions.",
     georgianAnswer: "არა, ცრურწმენების არ მჯერა.",
-    page: 86,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "დღეში დაახლოებით რამდენ სპამ წერილს იღებ?",
     answer: "I usually get a few spam emails every day.",
     georgianAnswer: "ჩვეულებრივ ყოველდღე რამდენიმე სპამ წერილს ვიღებ.",
-    page: 87,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რამდენი დრო გჭირდება შემოსული სპამის წასაშლელად?",
     answer: "It only takes me a minute or two.",
     georgianAnswer: "მხოლოდ ერთი-ორი წუთი მჭირდება.",
-    page: 87,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "როდის ახსენებენ მასწავლებლები ჩვეულებრივ მოსწავლეების სახელებს?",
     answer: "They usually mention them during the lesson.",
     georgianAnswer: "ჩვეულებრივ მათ გაკვეთილის დროს ახსენებენ.",
-    page: 87,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ სწავლობენ ადამიანები უცხო ენებს?",
     answer: "People learn foreign languages to communicate with others.",
     georgianAnswer: "ადამიანები უცხო ენებს სხვებთან კომუნიკაციისთვის სწავლობენ.",
-    page: 87,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "შეუძლიათ თუ არა ცხოველებს ერთმანეთთან კომუნიკაცია?",
     answer: "Yes, animals communicate in many different ways.",
     georgianAnswer: "დიახ, ცხოველები მრავალ სხვადასხვა გზით ურთიერთობენ.",
-    page: 87,
+    
   },
   {
     id: 12,
@@ -93,6 +93,6 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, შინაურ ცხოველებს შეუძლიათ პატრონებთან კომუნიკაცია?",
     answer: "Yes, I think pets understand their owners very well.",
     georgianAnswer: "დიახ, ვფიქრობ, შინაურ ცხოველებს თავიანთი პატრონები კარგად ესმით.",
-    page: 87,
+    
   },
 ];

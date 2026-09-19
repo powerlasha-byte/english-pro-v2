@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈfɪŋɡəprɪnt]",
     sentence: "The police found fingerprints at the scene.",
     georgianSentence: "პოლიციამ შემთხვევის ადგილზე თითის ანაბეჭდები იპოვა.",
-    page: 97,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ruːd]",
     sentence: "It's rude to interrupt people.",
     georgianSentence: "ადამიანების შეწყვეტა უზრდელობაა.",
-    page: 97,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[kənˈɡrætʃəleɪt]",
     sentence: "I'd like to congratulate you on your success.",
     georgianSentence: "მინდა წარმატება მოგილოცო.",
-    page: 97,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[kənˌɡrætʃəˈleɪʃən]",
     sentence: "Congratulations on your new job!",
     georgianSentence: "გილოცავ ახალ სამსახურს!",
-    page: 97,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[ˈtempə]",
     sentence: "He lost his temper during the meeting.",
     georgianSentence: "შეხვედრის დროს მოთმინება დაკარგა.",
-    page: 98,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[luːz jɔː ˈtempə]",
     sentence: "Try not to lose your temper.",
     georgianSentence: "ეცადე მოთმინება არ დაკარგო.",
-    page: 98,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[pʌntʃ]",
     sentence: "He punched the bag during training.",
     georgianSentence: "ვარჯიშის დროს მან ტომარას მუშტი დაარტყა.",
-    page: 98,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˈpʌntʃ bæɡ]",
     sentence: "The boxer trained with a punch bag.",
     georgianSentence: "მოკრივე სავარჯიშო ტომარაზე ვარჯიშობდა.",
-    page: 98,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˌaʊtˈɡəʊɪŋ]",
     sentence: "She's very outgoing and makes friends easily.",
     georgianSentence: "ის ძალიან კომუნიკაბელურია და ადვილად იძენს მეგობრებს.",
-    page: 99,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ʃaɪ]",
     sentence: "He was too shy to speak.",
     georgianSentence: "ის მეტისმეტად მორცხვი იყო სალაპარაკოდ.",
-    page: 99,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[ˈkɒnfɪdənt]",
     sentence: "She feels confident before every presentation.",
     georgianSentence: "ყოველი პრეზენტაციის წინ თავს თავდაჯერებულად გრძნობს.",
-    page: 99,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[səˈfɪstɪkeɪtɪd]",
     sentence: "The software uses sophisticated technology.",
     georgianSentence: "პროგრამა დახვეწილ ტექნოლოგიას იყენებს.",
-    page: 99,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[məˈtʃʊə]",
     sentence: "She's very mature for her age.",
     georgianSentence: "თავისი ასაკისთვის ძალიან მოწიფულია.",
-    page: 99,
+    
   },
   {
     id: 14,
@@ -123,6 +123,6 @@ export const vocabulary = [
     pronunciation: "[ˌɪməˈtʃʊə]",
     sentence: "His behaviour was immature.",
     georgianSentence: "მისი საქციელი უმწიფარი იყო.",
-    page: 99,
+    
   },
 ];

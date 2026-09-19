@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "იოგა ისეთივე საინტერესოა, როგორც ჰანგ-გლაიდინგი?",
     answer: "No, yoga isn't as exciting as hang-gliding.",
     georgianAnswer: "არა, იოგა ჰანგ-გლაიდინგივით საინტერესო არ არის.",
-    page: 69,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რომელი ექსტრემალური სპორტია ყველაზე სახიფათო?",
     answer: "I think bungee jumping is the most risky.",
     georgianAnswer: "ვფიქრობ, ბუნჯი ჯამპინგი ყველაზე სახიფათოა.",
-    page: 69,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "რა არის წყლის თხილამურებით სრიალი?",
     answer: "Waterskiing is a sport in which a person is pulled by a boat while wearing water skis.",
     georgianAnswer: "წყლის თხილამურებით სრიალი არის სპორტი, სადაც ადამიანი ნავით მიიზიდება წყლის თხილამურებით.",
-    page: 69,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რა არის თესლები?",
     answer: "Seeds are small parts of a plant from which a new plant can grow.",
     georgianAnswer: "თესლები მცენარის პატარა ნაწილებია, საიდანაც ახალი მცენარე იზრდება.",
-    page: 69,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რა არის მარცვალი?",
     answer: "Grain is seed from food plants such as wheat.",
     georgianAnswer: "მარცვალი არის საკვები მცენარეების, მაგალითად ხორბლის, თესლი.",
-    page: 69,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რომელ ხილს აქვს თესლები?",
     answer: "Plums, peaches and grapes have seeds.",
     georgianAnswer: "ქლიავს, ატამს და ყურძენს თესლები აქვს.",
-    page: 70,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "საჭიროა თუ არა ქლიავის გათლა ჭამამდე?",
     answer: "No, we don't need to peel plums before eating them.",
     georgianAnswer: "არა, ქლიავის გათლა ჭამამდე საჭირო არ არის.",
-    page: 70,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "რა არის სიტყვის 'suddenly' საპირისპირო?",
     answer: "The opposite of 'suddenly' is 'gradually'.",
     georgianAnswer: "'Suddenly'-ის საპირისპიროა 'gradually'.",
-    page: 70,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "როგორ ვამჩნევთ, რომ სეზონები იცვლება?",
     answer: "We notice because the weather gradually changes.",
     georgianAnswer: "ვამჩნევთ, რადგან ამინდი ნელ-ნელა იცვლება.",
-    page: 70,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "სასწაული იქნებოდა, თუ უსინათლო ადამიანი ისევ დაინახავდა?",
     answer: "Yes, it would be a miracle.",
     georgianAnswer: "დიახ, ეს სასწაული იქნებოდა.",
-    page: 71,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "რომელი თანამედროვე შენობა ითვლება საოცრებად?",
     answer: "The Eiffel Tower is considered a wonder.",
     georgianAnswer: "ეიფელის კოშკი საოცრებად ითვლება.",
-    page: 71,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "რომელი ბუნებრივი საოცრებით არის შენი ქვეყანა ცნობილი?",
     answer: "My country is famous for its beautiful mountains.",
     georgianAnswer: "ჩემი ქვეყანა თავისი ულამაზესი მთებით არის ცნობილი.",
-    page: 71,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "აგვარებენ თუ არა ადამიანები ხანდახან საქმეებს სასამართლოს გარეშე?",
     answer: "Yes, people sometimes settle things out of court.",
     georgianAnswer: "დიახ, ადამიანები ზოგჯერ საქმეებს სასამართლოს გარეშე აგვარებენ.",
-    page: 72,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რა ხდება, როდესაც ადამიანები ქორწინებაში პრობლემებს ვერ აგვარებენ?",
     answer: "They sometimes get divorced.",
     georgianAnswer: "ისინი ზოგჯერ ერთმანეთს შორდებიან.",
-    page: 72,
+    
   },
   {
     id: 15,
@@ -117,6 +117,6 @@ export const questions = [
     georgianQuestion: "სად ისურვებდი სამუდამოდ დასახლებას?",
     answer: "I'd like to settle down near the sea.",
     georgianAnswer: "ვისურვებდი ზღვის პირას დასახლებას.",
-    page: 72,
+    
   },
 ];

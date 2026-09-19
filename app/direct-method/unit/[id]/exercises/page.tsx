@@ -62,7 +62,7 @@ export default function ExercisesPage() {
               </div>
 
               <button
-                onClick={() => speak(exercise.sentence)}
+               onClick={() => speak(exercise.sentence.replace(/_+/g, " "))}
                 className="rounded-xl bg-violet-600 px-5 py-3 text-white transition hover:bg-violet-500"
               >
                 🔊

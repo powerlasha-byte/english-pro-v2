@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˌself dɪˈfens]",
     sentence: "She learned self-defence at a local club.",
     georgianSentence: "მან თავდაცვა ადგილობრივ კლუბში ისწავლა.",
-    page: 133,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[dɪˈfend]",
     sentence: "Everyone has the right to defend themselves.",
     georgianSentence: "ყველას აქვს საკუთარი თავის დაცვის უფლება.",
-    page: 133,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[wuːnd]",
     sentence: "The doctor treated the wound immediately.",
     georgianSentence: "ექიმმა ჭრილობა დაუყოვნებლივ დაამუშავა.",
-    page: 133,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈwuːndɪd]",
     sentence: "Several soldiers were wounded.",
     georgianSentence: "რამდენიმე ჯარისკაცი დაიჭრა.",
-    page: 133,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[hiːl]",
     sentence: "The wound healed quickly.",
     georgianSentence: "ჭრილობა სწრაფად მოშუშდა.",
-    page: 133,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈhiːlɪŋ]",
     sentence: "Healing takes time.",
     georgianSentence: "შეხორცებას დრო სჭირდება.",
-    page: 133,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[rɪsk]",
     sentence: "Smoking increases the risk of disease.",
     georgianSentence: "მოწევა დაავადების რისკს ზრდის.",
-    page: 134,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˈrɪski]",
     sentence: "It was a risky decision.",
     georgianSentence: "ეს სარისკო გადაწყვეტილება იყო.",
-    page: 134,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ˈdeɪndʒə]",
     sentence: "The children were in danger.",
     georgianSentence: "ბავშვები საფრთხეში იყვნენ.",
-    page: 134,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[ˈdeɪndʒərəs]",
     sentence: "This road is very dangerous.",
     georgianSentence: "ეს გზა ძალიან საშიშია.",
-    page: 134,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[liːd]",
     sentence: "She leads a successful team.",
     georgianSentence: "ის წარმატებულ გუნდს ხელმძღვანელობს.",
-    page: 134,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ˈliːdə]",
     sentence: "He became the team leader.",
     georgianSentence: "ის გუნდის ლიდერი გახდა.",
-    page: 134,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈliːdəʃɪp]",
     sentence: "Good leadership motivates people.",
     georgianSentence: "კარგი ლიდერობა ადამიანებს მოტივაციას აძლევს.",
-    page: 134,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ˈmɑːkɪt]",
     sentence: "The company entered a new market.",
     georgianSentence: "კომპანია ახალ ბაზარზე შევიდა.",
-    page: 135,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈɡləʊbl]",
     sentence: "It's a global company.",
     georgianSentence: "ეს გლობალური კომპანიაა.",
-    page: 135,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[dəˈmestɪk]",
     sentence: "Domestic flights are cheaper.",
     georgianSentence: "შიდა ფრენები უფრო იაფია.",
-    page: 135,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈdefɪnətli]",
     sentence: "I'll definitely come tomorrow.",
     georgianSentence: "ხვალ ნამდვილად მოვალ.",
-    page: 135,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˌɒpəˈtjuːnəti]",
     sentence: "This is a great opportunity.",
     georgianSentence: "ეს შესანიშნავი შესაძლებლობაა.",
-    page: 135,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ˈtʃælɪndʒ]",
     sentence: "Learning English is a challenge.",
     georgianSentence: "ინგლისურის სწავლა გამოწვევაა.",
-    page: 135,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[səkˈses]",
     sentence: "Hard work brings success.",
     georgianSentence: "შრომას წარმატება მოაქვს.",
-    page: 135,
+    
   },
 ];

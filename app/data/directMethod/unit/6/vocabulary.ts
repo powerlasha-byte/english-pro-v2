@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/prəˈməʊt/",
     sentence: "She was promoted to manager.",
     georgianSentence: "ის მენეჯერად დააწინაურეს.",
-    page: 21,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/prəˈməʊʃən/",
     sentence: "He got a promotion last month.",
     georgianSentence: "გასულ თვეში დაწინაურდა.",
-    page: 21,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/blaɪnd tʃɑːns/",
     sentence: "Winning was pure blind chance.",
     georgianSentence: "მოგება მხოლოდ ბრმა შემთხვევითობა იყო.",
-    page: 21,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/seɪv/",
     sentence: "I save money every month.",
     georgianSentence: "ყოველთვე ფულს ვზოგავ.",
-    page: 21,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/ˈseɪvɪŋz/",
     sentence: "She keeps her savings in the bank.",
     georgianSentence: "დანაზოგს ბანკში ინახავს.",
-    page: 21,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/ˌɔːtəˈmætɪkli/",
     sentence: "The doors close automatically.",
     georgianSentence: "კარები ავტომატურად იკეტება.",
-    page: 21,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/səˈpəʊz/",
     sentence: "I suppose you're right.",
     georgianSentence: "ვფიქრობ, მართალი ხარ.",
-    page: 21,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/səˈpəʊzɪdli/",
     sentence: "He supposedly lives abroad.",
     georgianSentence: "სავარაუდოდ, ის საზღვარგარეთ ცხოვრობს.",
-    page: 21,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˈælfəbet/",
     sentence: "Children learn the alphabet first.",
     georgianSentence: "ბავშვები ჯერ ანბანს სწავლობენ.",
-    page: 24,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/ˌælfəˈbetɪkl ˈɔːdə/",
     sentence: "Arrange the names in alphabetical order.",
     georgianSentence: "სახელები ანბანური თანმიმდევრობით დაალაგე.",
-    page: 24,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/əˈraɪvl/",
     sentence: "Our arrival was delayed.",
     georgianSentence: "ჩვენი ჩამოსვლა გადაიდო.",
-    page: 24,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/əˈraɪv/",
     sentence: "The train arrived on time.",
     georgianSentence: "მატარებელი დროულად ჩამოვიდა.",
-    page: 24,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/dɪˈpɑːtʃə/",
     sentence: "The departure is at 8 a.m.",
     georgianSentence: "გამგზავრება დილის 8 საათზეა.",
-    page: 24,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/dɪˈpɑːt/",
     sentence: "The plane departed early.",
     georgianSentence: "თვითმფრინავი ადრე გაფრინდა.",
-    page: 24,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/kjuː/",
     sentence: "We waited in the queue.",
     georgianSentence: "რიგში ვიდექით.",
-    page: 24,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/ˈeəpɔːt/",
     sentence: "The airport was very busy.",
     georgianSentence: "აეროპორტი ძალიან დატვირთული იყო.",
-    page: 24,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/ˈplætfɔːm/",
     sentence: "The train leaves from platform three.",
     georgianSentence: "მატარებელი მესამე ბაქნიდან გადის.",
-    page: 24,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/dɪˈleɪ/",
     sentence: "The flight was delayed.",
     georgianSentence: "რეისი გადაიდო.",
-    page: 24,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "/ˈʃedjuːl/",
     sentence: "Check the train schedule.",
     georgianSentence: "მატარებლის განრიგი შეამოწმე.",
-    page: 24,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "/ˈpæsɪndʒə/",
     sentence: "Every passenger needs a ticket.",
     georgianSentence: "ყველა მგზავრს ბილეთი სჭირდება.",
-    page: 24,
+    
   },
 ];

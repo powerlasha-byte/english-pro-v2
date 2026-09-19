@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈædvətaɪz]",
     sentence: "The company advertises its products online.",
     georgianSentence: "კომპანია თავის პროდუქტებს ონლაინ არეკლამებს.",
-    page: 129,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ədˈvɜːtɪsmənt]",
     sentence: "I saw an interesting advertisement on TV.",
     georgianSentence: "ტელევიზორში საინტერესო რეკლამა ვნახე.",
-    page: 129,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[ˈædvətaɪzɪŋ]",
     sentence: "Advertising helps companies attract customers.",
     georgianSentence: "რეკლამირება კომპანიებს მომხმარებლების მოზიდვაში ეხმარება.",
-    page: 129,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[diːl]",
     sentence: "We made a good business deal.",
     georgianSentence: "კარგი ბიზნეს გარიგება დავდეთ.",
-    page: 129,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[diːl wɪð]",
     sentence: "She knows how to deal with difficult situations.",
     georgianSentence: "მან იცის როგორ გაუმკლავდეს რთულ სიტუაციებს.",
-    page: 129,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[diːl ɪn]",
     sentence: "They deal in electronic equipment.",
     georgianSentence: "ისინი ელექტრონული ტექნიკით ვაჭრობენ.",
-    page: 129,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[sɪˈlekʃən]",
     sentence: "The shop has a wide selection of books.",
     georgianSentence: "მაღაზიას წიგნების დიდი არჩევანი აქვს.",
-    page: 130,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[sɪˈlekt]",
     sentence: "Please select your favourite option.",
     georgianSentence: "გთხოვ, აირჩიე შენი საყვარელი ვარიანტი.",
-    page: 130,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[skɪl]",
     sentence: "Communication is an important skill.",
     georgianSentence: "კომუნიკაცია მნიშვნელოვანი უნარია.",
-    page: 130,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[skɪld]",
     sentence: "He's a skilled engineer.",
     georgianSentence: "ის გამოცდილი ინჟინერია.",
-    page: 130,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[nɪˈɡlekt]",
     sentence: "Parents should never neglect their children.",
     georgianSentence: "მშობლებმა შვილები არასდროს უნდა უგულებელყონ.",
-    page: 130,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[nɪˈɡlektɪd]",
     sentence: "The old building was neglected for years.",
     georgianSentence: "ძველი შენობა წლების განმავლობაში უგულებელყოფილი იყო.",
-    page: 130,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˌʌnɪmˈplɔɪmənt]",
     sentence: "Unemployment has increased this year.",
     georgianSentence: "უმუშევრობა წელს გაიზარდა.",
-    page: 130,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[ˌʌnɪmˈplɔɪd]",
     sentence: "He's been unemployed for six months.",
     georgianSentence: "ის უკვე ექვსი თვეა უმუშევარია.",
-    page: 130,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ɪmˈplɔɪiː]",
     sentence: "Every employee received a bonus.",
     georgianSentence: "ყველა თანამშრომელმა პრემია მიიღო.",
-    page: 131,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[ɪmˈplɔɪə]",
     sentence: "The employer offered flexible working hours.",
     georgianSentence: "დამსაქმებელმა მოქნილი სამუშაო საათები შემოგვთავაზა.",
-    page: 131,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ˈsæləri]",
     sentence: "She earns a good salary.",
     georgianSentence: "ის კარგ ხელფასს იღებს.",
-    page: 131,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[kəˈrɪə]",
     sentence: "He's building a successful career.",
     georgianSentence: "ის წარმატებულ კარიერას იკეთებს.",
-    page: 131,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[ˌkwɒlɪfɪˈkeɪʃən]",
     sentence: "This job requires special qualifications.",
     georgianSentence: "ამ სამსახურს განსაკუთრებული კვალიფიკაცია სჭირდება.",
-    page: 131,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[ɪkˈspɪəriəns]",
     sentence: "Experience is important for this position.",
     georgianSentence: "ამ პოზიციისთვის გამოცდილება მნიშვნელოვანია.",
-    page: 131,
+    
   },
 ];

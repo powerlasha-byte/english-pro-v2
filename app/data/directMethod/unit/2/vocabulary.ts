@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "/ˈliːɡəl/",
     sentence: "You have to go to a lawyer if you need legal advice.",
     georgianSentence: "თუ იურიდიული რჩევა გჭირდება, ადვოკატთან უნდა მიხვიდე.",
-    page: 2,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "/ˈtraɪəl/",
     sentence: "Everyone has the right to a fair trial.",
     georgianSentence: "ყველას აქვს სამართლიანი სასამართლოს უფლება.",
-    page: 2,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "/feə(r)/",
     sentence: "It wouldn't be fair without evidence.",
     georgianSentence: "მტკიცებულებების გარეშე ეს სამართლიანი არ იქნებოდა.",
-    page: 2,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "/ˈevɪdəns/",
     sentence: "The judge decided based on the evidence.",
     georgianSentence: "მოსამართლემ გადაწყვეტილება მტკიცებულებების საფუძველზე მიიღო.",
-    page: 2,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "/fiːd/",
     sentence: "Dogs are fed bones and meat.",
     georgianSentence: "ძაღლებს ძვლებითა და ხორცით კვებავენ.",
-    page: 2,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "/bəʊn/",
     sentence: "The dog buried a bone in the garden.",
     georgianSentence: "ძაღლმა ბაღში ძვალი დამარხა.",
-    page: 2,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "/ʌpˈɡreɪd/",
     sentence: "Computers often need to be upgraded.",
     georgianSentence: "კომპიუტერებს ხშირად განახლება სჭირდებათ.",
-    page: 2,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "/ɪˈfɪʃnt/",
     sentence: "The new software is more efficient.",
     georgianSentence: "ახალი პროგრამა უფრო ეფექტურია.",
-    page: 2,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "/ˌæntiˈvaɪrəs/",
     sentence: "I upgrade my antivirus once a year.",
     georgianSentence: "ანტივირუსს წელიწადში ერთხელ ვაახლებ.",
-    page: 2,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "/səˈvaɪv/",
     sentence: "Many people survived the accident.",
     georgianSentence: "ბევრი ადამიანი ავარიას გადაურჩა.",
-    page: 2,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "/ˈʃɪprekd/",
     sentence: "The sailors were shipwrecked on an island.",
     georgianSentence: "მეზღვაურები კუნძულზე გემის ჩაძირვის შემდეგ აღმოჩნდნენ.",
-    page: 2,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "/ˈkærəktə(r)/",
     sentence: "The main character was very brave.",
     georgianSentence: "მთავარი პერსონაჟი ძალიან მამაცი იყო.",
-    page: 2,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "/tuːl/",
     sentence: "You need the right tool for the job.",
     georgianSentence: "ამ საქმისთვის სწორი ხელსაწყოა საჭირო.",
-    page: 2,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "/ˈaɪən/",
     sentence: "We use a steam iron for ironing clothes.",
     georgianSentence: "ტანსაცმლის გასაუთოებლად ორთქლის უთოს ვიყენებთ.",
-    page: 2,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "/ɡlæd/",
     sentence: "I'm glad to see you.",
     georgianSentence: "მიხარია შენი ნახვა.",
-    page: 2,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "/ɪkˈsentrɪk/",
     sentence: "Lady Gaga is known for her eccentric style.",
     georgianSentence: "ლედი გაგა თავისი ექსცენტრული სტილით არის ცნობილი.",
-    page: 2,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "/ədˈvaɪs/",
     sentence: "Doctors usually give good advice.",
     georgianSentence: "ექიმები ჩვეულებრივ კარგ რჩევებს იძლევიან.",
-    page: 2,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "/baɪt/",
     sentence: "Dogs sometimes bite strangers.",
     georgianSentence: "ძაღლები ზოგჯერ უცხო ადამიანებს კბენენ.",
-    page: 2,
+    
   },
   {
     id: 19,
@@ -168,6 +168,6 @@ export const vocabulary = [
     pronunciation: "/ˈkɪndəɡɑːtn/",
     sentence: "Children learn many things in kindergarten.",
     georgianSentence: "ბავშვები საბავშვო ბაღში ბევრ რამეს სწავლობენ.",
-    page: 2,
+    
   },
 ];

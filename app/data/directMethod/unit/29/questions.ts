@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რა ემართება წნევას, როცა წყალში უფრო ღრმად ჩადიხარ?",
     answer: "The pressure increases as you dive deeper.",
     georgianAnswer: "რაც უფრო ღრმად ჩადიხარ, მით უფრო იზრდება წნევა.",
-    page: 113,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთო მანქანის ტარებამდე?",
     answer: "I should check the brakes and fasten my seat belt.",
     georgianAnswer: "უნდა შევამოწმო მუხრუჭები და შევიკრა უსაფრთხოების ღვედი.",
-    page: 113,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "სტრესულ სიტუაციებში ჩვეულებრივ სიმშვიდეს ინარჩუნებ?",
     answer: "Yes, I try to stay calm.",
     georgianAnswer: "დიახ, ვცდილობ სიმშვიდე შევინარჩუნო.",
-    page: 113,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "რას ურჩევენ ექიმები ადამიანებს?",
     answer: "Doctors recommend eating healthy food and exercising regularly.",
     georgianAnswer: "ექიმები ჯანსაღ კვებას და რეგულარულ ვარჯიშს გვირჩევენ.",
-    page: 114,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "ოდესმე სერიოზული ავადმყოფობა გადაგიტანია?",
     answer: "No, fortunately I haven't.",
     georgianAnswer: "არა, საბედნიეროდ არა.",
-    page: 114,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "რა შეიძლება დაეხმაროს ჩვეულებრივი გაციების განკურნებას?",
     answer: "Rest, water and medicine can help cure a cold.",
     georgianAnswer: "დასვენება, წყალი და წამლები გაციების განკურნებაში გვეხმარება.",
-    page: 114,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ამ გაკვეთილის შემდეგ რის გაკეთებას აპირებ?",
     answer: "I'm about to continue studying English.",
     georgianAnswer: "ინგლისურის სწავლის გაგრძელებას ვაპირებ.",
-    page: 114,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "ოდესმე დაგვიწყებია ხელის მუხრუჭის გამოყენება?",
     answer: "No, I always remember to put the brake on.",
     georgianAnswer: "არა, ყოველთვის მახსოვს ხელის მუხრუჭის გამოყენება.",
-    page: 115,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გააკეთონ ადამიანებმა დასასვენებლად?",
     answer: "They should get enough sleep and spend time with family.",
     georgianAnswer: "უნდა გამოიძინონ და ოჯახთან ერთად გაატარონ დრო.",
-    page: 115,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რატომ არის ძილი მნიშვნელოვანი?",
     answer: "Because it helps our body and mind recover.",
     georgianAnswer: "რადგან ის ჩვენს სხეულსა და გონებას აღდგენაში ეხმარება.",
-    page: 115,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "ექიმის რეკომენდაციებს ითვალისწინებ?",
     answer: "Yes, I always try to follow them.",
     georgianAnswer: "დიახ, ყოველთვის ვცდილობ გავითვალისწინო.",
-    page: 115,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რა იწვევს სტრესს?",
     answer: "Too much work and lack of rest usually cause stress.",
     georgianAnswer: "ძალიან ბევრი სამუშაო და დასვენების ნაკლებობა ჩვეულებრივ სტრესს იწვევს.",
-    page: 115,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "შეუძლია თუ არა ვარჯიშს სტრესის შემცირება?",
     answer: "Yes, regular exercise helps reduce stress.",
     georgianAnswer: "დიახ, რეგულარული ვარჯიში სტრესის შემცირებაში გვეხმარება.",
-    page: 115,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ავტობუსის გაცდენასთან ძალიან ახლოს ყოფილხარ?",
     answer: "Yes, but I managed to catch it.",
     georgianAnswer: "დიახ, მაგრამ ბოლოს მაინც მივუსწარი.",
-    page: 115,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "რას აკეთებ, როცა დაღლილად გრძნობ თავს?",
     answer: "I usually relax or take a short walk.",
     georgianAnswer: "ჩვეულებრივ ვისვენებ ან ცოტა ხნით ვსეირნობ.",
-    page: 115,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "რატომ არის სუფთა ჰაერი მნიშვნელოვანი?",
     answer: "Because it helps us stay healthy.",
     georgianAnswer: "რადგან ის ჯანმრთელობის შენარჩუნებაში გვეხმარება.",
-    page: 115,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, ჯანსაღი საკვები ფასტფუდზე უკეთესია?",
     answer: "Yes, because it's better for our health.",
     georgianAnswer: "დიახ, რადგან ჩვენი ჯანმრთელობისთვის უკეთესია.",
-    page: 115,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რამდენად ხშირად ვარჯიშობ?",
     answer: "I exercise several times a week.",
     georgianAnswer: "კვირაში რამდენჯერმე ვვარჯიშობ.",
-    page: 115,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "ამ შაბათ-კვირას რის გაკეთებას აპირებ?",
     answer: "I'm about to spend time with my family.",
     georgianAnswer: "ოჯახთან ერთად დროის გატარებას ვაპირებ.",
-    page: 115,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "რა არის ჯანმრთელობის შენარჩუნების საუკეთესო გზა?",
     answer: "Eating well, exercising and getting enough sleep.",
     georgianAnswer: "ჯანსაღი კვება, ვარჯიში და საკმარისი ძილი.",
-    page: 115,
+    
   },
 ];

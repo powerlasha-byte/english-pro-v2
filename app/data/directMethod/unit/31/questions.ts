@@ -5,7 +5,7 @@ export const questions = [
     georgianQuestion: "რა ქმნის კარგ პირველ შთაბეჭდილებას?",
     answer: "A smile, confidence and good manners make a good first impression.",
     georgianAnswer: "ღიმილი, თავდაჯერებულობა და კარგი მანერები კარგ პირველ შთაბეჭდილებას ქმნის.",
-    page: 117,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     georgianQuestion: "ადამიანებს გარეგნობით აფასებ?",
     answer: "No, I prefer to know their personality first.",
     georgianAnswer: "არა, მირჩევნია ჯერ მათი ხასიათი გავიცნო.",
-    page: 117,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     georgianQuestion: "როგორი ადამიანები აღგაფრთოვანებს?",
     answer: "I admire honest, kind and hardworking people.",
     georgianAnswer: "პატიოსანი, კეთილი და შრომისმოყვარე ადამიანები მაოცებენ.",
-    page: 117,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმე არასწორად გაგიგია?",
     answer: "Yes, but we talked and solved the misunderstanding.",
     georgianAnswer: "დიახ, მაგრამ ვისაუბრეთ და გაუგებრობა მოვაგვარეთ.",
-    page: 117,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     georgianQuestion: "რატომ არის მნიშვნელოვანი, რომ მიკერძოებული არ ვიყოთ?",
     answer: "Because everyone deserves to be treated fairly.",
     georgianAnswer: "რადგან ყველა იმსახურებს სამართლიან მოპყრობას.",
-    page: 117,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     georgianQuestion: "ჩვეულებრივ რას აკეთებ მეგობრების გასამხნევებლად?",
     answer: "I support them and tell them not to give up.",
     georgianAnswer: "მათ მხარს ვუჭერ და ვეუბნები, რომ არ დანებდნენ.",
-    page: 118,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     georgianQuestion: "ყველაზე მეტად რომელი ცხოველი არ მოგწონს?",
     answer: "I dislike spiders because they frighten me.",
     georgianAnswer: "ობობები არ მომწონს, რადგან მაშინებენ.",
-    page: 118,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, გარეგნობა უფრო მნიშვნელოვანია თუ ხასიათი?",
     answer: "No, I think character is much more important.",
     georgianAnswer: "არა, ვფიქრობ, ხასიათი გაცილებით მნიშვნელოვანია.",
-    page: 118,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     georgianQuestion: "ოდესმე ვინმეზე აზრი შეგიცვლია?",
     answer: "Yes, after getting to know them better.",
     georgianAnswer: "დიახ, როცა უკეთ გავიცანი.",
-    page: 118,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     georgianQuestion: "რა თვისებები ხდის ადამიანს მიმზიდველს?",
     answer: "Kindness, confidence and honesty make a person attractive.",
     georgianAnswer: "სიკეთე, თავდაჯერებულობა და პატიოსნება ადამიანს მიმზიდველს ხდის.",
-    page: 118,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     georgianQuestion: "ვის ჰქონია ყველაზე დიდი გავლენა შენს ცხოვრებაზე?",
     answer: "My parents have had the biggest influence on my life.",
     georgianAnswer: "ჩემს ცხოვრებაზე ყველაზე დიდი გავლენა ჩემს მშობლებს ჰქონდათ.",
-    page: 119,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     georgianQuestion: "როგორ ფიქრობ, პირველი შთაბეჭდილება ყოველთვის სწორია?",
     answer: "No, people often surprise us after we know them better.",
     georgianAnswer: "არა, ადამიანები ხშირად გვაოცებენ, როცა უკეთ ვიცნობთ.",
-    page: 119,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     georgianQuestion: "როგორ შეგვიძლია გაუგებრობების თავიდან აცილება?",
     answer: "By listening carefully and communicating clearly.",
     georgianAnswer: "ყურადღებით მოსმენით და გასაგებად საუბრით.",
-    page: 119,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     georgianQuestion: "რა უნდა გავაკეთოთ, როცა ვინმე შეცდომას უშვებს?",
     answer: "We should help them instead of criticizing them.",
     georgianAnswer: "უნდა დავეხმაროთ და არა მხოლოდ გავაკრიტიკოთ.",
-    page: 119,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     georgianQuestion: "ხასიათის რომელ თვისებას აფასებ ყველაზე მეტად?",
     answer: "I value honesty the most.",
     georgianAnswer: "ყველაზე მეტად პატიოსნებას ვაფასებ.",
-    page: 119,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     georgianQuestion: "გიყვარს ახალი ადამიანების გაცნობა?",
     answer: "Yes, because I learn something new from everyone.",
     georgianAnswer: "დიახ, რადგან თითოეული ადამიანისგან რაღაც ახალს ვსწავლობ.",
-    page: 120,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     georgianQuestion: "როგორ შეიძლება ადამიანები უფრო თავდაჯერებულები გახდნენ?",
     answer: "By practising and believing in themselves.",
     georgianAnswer: "ვარჯიშით და საკუთარი თავის რწმენით.",
-    page: 120,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     georgianQuestion: "რატომ არის სიკეთე მნიშვნელოვანი?",
     answer: "Because kindness makes the world a better place.",
     georgianAnswer: "რადგან სიკეთე სამყაროს უკეთეს ადგილად აქცევს.",
-    page: 120,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     georgianQuestion: "უფრო ცნობილი იქნებოდი თუ პატივსაცემი?",
     answer: "I'd rather be respected.",
     georgianAnswer: "პატივსაცემი ყოფნა მირჩევნია.",
-    page: 120,
+    
   },
   {
     id: 20,
@@ -157,6 +157,6 @@ export const questions = [
     georgianQuestion: "ასაკის მატებასთან ერთად რა ისწავლე ადამიანების შესახებ?",
     answer: "I've learned that everyone has strengths and weaknesses.",
     georgianAnswer: "ვისწავლე, რომ ყველას აქვს ძლიერი და სუსტი მხარეები.",
-    page: 120,
+    
   },
 ];

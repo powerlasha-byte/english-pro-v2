@@ -6,7 +6,7 @@ export const vocabulary = [
     pronunciation: "[ˈniːdnt həv]",
     sentence: "You needn't have bought so much food.",
     georgianSentence: "ამდენი საჭმლის ყიდვა საჭირო არ იყო.",
-    page: 125,
+    
   },
   {
     id: 2,
@@ -15,7 +15,7 @@ export const vocabulary = [
     pronunciation: "[ˈdɪdnt niːd tə]",
     sentence: "We didn't need to hurry.",
     georgianSentence: "აჩქარება არ დაგვჭირდა.",
-    page: 125,
+    
   },
   {
     id: 3,
@@ -24,7 +24,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈsiːt]",
     sentence: "Keep the receipt in case you need to return the item.",
     georgianSentence: "შეინახე ჩეკი, თუ ნივთის დაბრუნება დაგჭირდება.",
-    page: 125,
+    
   },
   {
     id: 4,
@@ -33,7 +33,7 @@ export const vocabulary = [
     pronunciation: "[ˈriːfʌnd]",
     sentence: "The shop gave me a full refund.",
     georgianSentence: "მაღაზიამ თანხა სრულად დამიბრუნა.",
-    page: 125,
+    
   },
   {
     id: 5,
@@ -42,7 +42,7 @@ export const vocabulary = [
     pronunciation: "[rɪˈtɜːn]",
     sentence: "You can return the product within seven days.",
     georgianSentence: "პროდუქტის დაბრუნება შვიდი დღის განმავლობაში შეგიძლია.",
-    page: 126,
+    
   },
   {
     id: 6,
@@ -51,7 +51,7 @@ export const vocabulary = [
     pronunciation: "[ˈkʌstəmə]",
     sentence: "The customer asked for help.",
     georgianSentence: "მომხმარებელმა დახმარება ითხოვა.",
-    page: 126,
+    
   },
   {
     id: 7,
@@ -60,7 +60,7 @@ export const vocabulary = [
     pronunciation: "[ˈpɜːtʃəs]",
     sentence: "This was my best purchase this year.",
     georgianSentence: "ეს ჩემი საუკეთესო შენაძენი იყო წელს.",
-    page: 126,
+    
   },
   {
     id: 8,
@@ -69,7 +69,7 @@ export const vocabulary = [
     pronunciation: "[ˈbʌdʒɪt]",
     sentence: "It's important to have a monthly budget.",
     georgianSentence: "მნიშვნელოვანია ყოველთვიური ბიუჯეტის ქონა.",
-    page: 126,
+    
   },
   {
     id: 9,
@@ -78,7 +78,7 @@ export const vocabulary = [
     pronunciation: "[ɪkˈspens]",
     sentence: "Food is one of my biggest expenses.",
     georgianSentence: "საკვები ჩემი ერთ-ერთი ყველაზე დიდი ხარჯია.",
-    page: 126,
+    
   },
   {
     id: 10,
@@ -87,7 +87,7 @@ export const vocabulary = [
     pronunciation: "[seɪv ˈmʌni]",
     sentence: "I'm trying to save money for a new car.",
     georgianSentence: "ახალი მანქანისთვის ფულის დაზოგვას ვცდილობ.",
-    page: 126,
+    
   },
   {
     id: 11,
@@ -96,7 +96,7 @@ export const vocabulary = [
     pronunciation: "[weɪst]",
     sentence: "Don't waste your money on unnecessary things.",
     georgianSentence: "ფული არასაჭირო ნივთებზე ნუ დახარჯავ.",
-    page: 127,
+    
   },
   {
     id: 12,
@@ -105,7 +105,7 @@ export const vocabulary = [
     pronunciation: "[ˈʃɒpˌkiːpə]",
     sentence: "The shopkeeper was very helpful.",
     georgianSentence: "მაღაზიის მფლობელი ძალიან დამხმარე იყო.",
-    page: 127,
+    
   },
   {
     id: 13,
@@ -114,7 +114,7 @@ export const vocabulary = [
     pronunciation: "[ˈdɪskaʊnt]",
     sentence: "I bought the jacket with a 30% discount.",
     georgianSentence: "ქურთუკი 30%-იანი ფასდაკლებით ვიყიდე.",
-    page: 127,
+    
   },
   {
     id: 14,
@@ -123,7 +123,7 @@ export const vocabulary = [
     pronunciation: "[əˈfɔːd]",
     sentence: "I can't afford a new phone right now.",
     georgianSentence: "ახლა ახალი ტელეფონის ყიდვის საშუალება არ მაქვს.",
-    page: 127,
+    
   },
   {
     id: 15,
@@ -132,7 +132,7 @@ export const vocabulary = [
     pronunciation: "[ˈvæljuəbl]",
     sentence: "This watch is very valuable.",
     georgianSentence: "ეს საათი ძალიან ღირებულია.",
-    page: 128,
+    
   },
   {
     id: 16,
@@ -141,7 +141,7 @@ export const vocabulary = [
     pronunciation: "[tʃiːp]",
     sentence: "These shoes were surprisingly cheap.",
     georgianSentence: "ეს ფეხსაცმელი მოულოდნელად იაფი იყო.",
-    page: 128,
+    
   },
   {
     id: 17,
@@ -150,7 +150,7 @@ export const vocabulary = [
     pronunciation: "[ɪkˈspensɪv]",
     sentence: "That restaurant is too expensive.",
     georgianSentence: "ის რესტორანი ძალიან ძვირია.",
-    page: 128,
+    
   },
   {
     id: 18,
@@ -159,7 +159,7 @@ export const vocabulary = [
     pronunciation: "[ˈkwɒləti]",
     sentence: "The quality of this product is excellent.",
     georgianSentence: "ამ პროდუქტის ხარისხი შესანიშნავია.",
-    page: 128,
+    
   },
   {
     id: 19,
@@ -168,7 +168,7 @@ export const vocabulary = [
     pronunciation: "[kəmˈpeə]",
     sentence: "Always compare prices before buying.",
     georgianSentence: "ყიდვამდე ყოველთვის შეადარე ფასები.",
-    page: 128,
+    
   },
   {
     id: 20,
@@ -177,6 +177,6 @@ export const vocabulary = [
     pronunciation: "[ˈʃɒpɪŋ]",
     sentence: "We went shopping after work.",
     georgianSentence: "სამსახურის შემდეგ შოპინგზე წავედით.",
-    page: 128,
+    
   },
 ];

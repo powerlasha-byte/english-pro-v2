@@ -5,7 +5,7 @@ export const questions = [
     answer: "People can have a fear of flying, losing a job, or certain animals.",
     georgianQuestion: "რისი შიში შეიძლება ჰქონდეთ ადამიანებს?",
     georgianAnswer: "ადამიანებს შეიძლება ჰქონდეთ ფრენის, სამსახურის დაკარგვის ან ზოგიერთი ცხოველის შიში.",
-    page: 1,
+    
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const questions = [
     answer: "I think the average person fears the unknown more than death.",
     georgianQuestion: "შენი აზრით, საშუალო ადამიანს უფრო სიკვდილის ეშინია თუ უცნობის?",
     georgianAnswer: "ჩემი აზრით, საშუალო ადამიანს უცნობის უფრო ეშინია, ვიდრე სიკვდილის.",
-    page: 1,
+    
   },
   {
     id: 3,
@@ -21,7 +21,7 @@ export const questions = [
     answer: "Yes, schoolchildren sometimes fear telling their parents the truth about school marks.",
     georgianQuestion: "ეშინიათ თუ არა ზოგჯერ მოსწავლეებს მშობლებისთვის ნიშნების სიმართლის თქმა?",
     georgianAnswer: "დიახ, ზოგჯერ მოსწავლეებს ეშინიათ მშობლებისთვის ნიშნების სიმართლის თქმა.",
-    page: 1,
+    
   },
   {
     id: 4,
@@ -29,7 +29,7 @@ export const questions = [
     answer: "Some people fear dogs because they have been badly frightened by one.",
     georgianQuestion: "რატომ ეშინია ზოგ ადამიანს ძაღლების?",
     georgianAnswer: "რადგან ადრე რომელიმე ძაღლმა ძალიან შეაშინა.",
-    page: 1,
+    
   },
   {
     id: 5,
@@ -37,7 +37,7 @@ export const questions = [
     answer: "Yes, I scare easily.",
     georgianQuestion: "ადვილად გეშინია?",
     georgianAnswer: "დიახ, ადვილად ვშინდები.",
-    page: 1,
+    
   },
   {
     id: 6,
@@ -45,7 +45,7 @@ export const questions = [
     answer: "Yes, it would be very scary.",
     georgianQuestion: "საშიში იქნებოდა თუ კუბოში გაიღვიძებდი?",
     georgianAnswer: "დიახ, ძალიან საშიში იქნებოდა.",
-    page: 1,
+    
   },
   {
     id: 7,
@@ -53,7 +53,7 @@ export const questions = [
     answer: "The Chinese invented the toothbrush.",
     georgianQuestion: "ვინ გამოიგონა კბილის ჯაგრისი?",
     georgianAnswer: "კბილის ჯაგრისი ჩინელებმა გამოიგონეს.",
-    page: 1,
+    
   },
   {
     id: 8,
@@ -61,7 +61,7 @@ export const questions = [
     answer: "Thomas Edison was the inventor of the light bulb.",
     georgianQuestion: "ვინ იყო ნათურის გამომგონებელი?",
     georgianAnswer: "თომას ედისონი იყო ნათურის გამომგონებელი.",
-    page: 1,
+    
   },
   {
     id: 9,
@@ -69,7 +69,7 @@ export const questions = [
     answer: "The Internet is a useful invention because it helps us find information quickly.",
     georgianQuestion: "რატომ არის ინტერნეტი სასარგებლო გამოგონება?",
     georgianAnswer: "იმიტომ, რომ ის გვეხმარება სწრაფად მოვიძიოთ ინფორმაცია.",
-    page: 1,
+    
   },
   {
     id: 10,
@@ -77,7 +77,7 @@ export const questions = [
     answer: "It has encouraged people to take as many photos as they can.",
     georgianQuestion: "როგორ შეცვალა ციფრულმა კამერებმა ფოტოების გადაღების მეთოდი?",
     georgianAnswer: "მან ადამიანებს უფრო მეტი ფოტოს გადაღება წაახალისა.",
-    page: 2,
+    
   },
   {
     id: 11,
@@ -85,7 +85,7 @@ export const questions = [
     answer: "I think we would have more free time.",
     georgianQuestion: "შენი აზრით, მეტი თავისუფალი დრო გვექნებოდა თუ მობილური არ გამოეგონებინათ?",
     georgianAnswer: "ჩემი აზრით, მეტი თავისუფალი დრო გვექნებოდა.",
-    page: 2,
+    
   },
   {
     id: 12,
@@ -93,7 +93,7 @@ export const questions = [
     answer: "Yes, I had learnt to ride a bicycle before I learnt to drive a car.",
     georgianQuestion: "ველოსიპედის ტარება მანქანის ტარებამდე ისწავლე?",
     georgianAnswer: "დიახ, ველოსიპედის ტარება მანქანის ტარებამდე ვისწავლე.",
-    page: 3,
+    
   },
   {
     id: 13,
@@ -101,7 +101,7 @@ export const questions = [
     answer: "Yes, I had ridden my bike with training wheels.",
     georgianQuestion: "მანამდე დამხმარე ბორბლებით დადიოდი?",
     georgianAnswer: "დიახ, დამხმარე ბორბლებით დავდიოდი.",
-    page: 3,
+    
   },
   {
     id: 14,
@@ -109,7 +109,7 @@ export const questions = [
     answer: "Most plane crashes happen when planes take off or land.",
     georgianQuestion: "როდის ხდება თვითმფრინავების ავარიების უმეტესობა?",
     georgianAnswer: "უმეტესობა აფრენის ან დაშვების დროს ხდება.",
-    page: 3,
+    
   },
   {
     id: 15,
@@ -117,7 +117,7 @@ export const questions = [
     answer: "Yes, I'm usually a little scared.",
     georgianQuestion: "ცოტათი გეშინია თვითმფრინავის აფრენის წინ?",
     georgianAnswer: "დიახ, ცოტა მეშინია.",
-    page: 3,
+    
   },
   {
     id: 16,
@@ -125,7 +125,7 @@ export const questions = [
     answer: "Yes, after a long flight most passengers are relieved to feel the earth beneath their feet.",
     georgianQuestion: "გრძელი ფრენის შემდეგ მგზავრები შვებას გრძნობენ მიწაზე დადგომისას?",
     georgianAnswer: "დიახ, გრძელი ფრენის შემდეგ მგზავრები შვებას გრძნობენ.",
-    page: 4,
+    
   },
   {
     id: 17,
@@ -133,7 +133,7 @@ export const questions = [
     answer: "When the ship approaches land, sailors shout 'Land ahoy!'",
     georgianQuestion: "რას ყვირიან მეზღვაურები, როცა გემი ხმელეთს უახლოვდება?",
     georgianAnswer: "ისინი ყვირიან 'Land ahoy!'.",
-    page: 4,
+    
   },
   {
     id: 18,
@@ -141,7 +141,7 @@ export const questions = [
     answer: "They build underground car parks because there is little parking space in towns.",
     georgianQuestion: "რატომ აშენებენ მიწისქვეშა ავტოსადგომებს ქალაქის ცენტრებში?",
     georgianAnswer: "იმიტომ, რომ პარკინგისთვის მცირე ადგილია.",
-    page: 4,
+    
   },
   {
     id: 19,
@@ -149,7 +149,7 @@ export const questions = [
     answer: "I don't know whether there is much office space to let in this city.",
     georgianQuestion: "ამ ქალაქში ბევრი საოფისე ფართი ქირავდება?",
     georgianAnswer: "არ ვიცი, ბევრი საოფისე ფართია თუ არა.",
-    page: 4,
+    
   },
   {
     id: 20,
@@ -157,7 +157,7 @@ export const questions = [
     answer: "I think they let a square metre of office space for about ...",
     georgianQuestion: "რამდენად ქირავდება ერთი კვადრატული მეტრი საოფისე ფართი?",
     georgianAnswer: "ვფიქრობ დაახლოებით ...",
-    page: 4,
+    
   },
   {
     id: 21,
@@ -165,7 +165,7 @@ export const questions = [
     answer: "The largest land animal I have ever seen is an elephant.",
     georgianQuestion: "რომელია ყველაზე დიდი ხმელეთის ცხოველი, რომელიც გინახავს?",
     georgianAnswer: "სპილო.",
-    page: 4,
+    
   },
   {
     id: 22,
@@ -173,7 +173,7 @@ export const questions = [
     answer: "Some people believe their land is worth dying for because it is their home.",
     georgianQuestion: "რატომ ფიქრობს ზოგი ადამიანი, რომ სამშობლოსთვის სიკვდილი ღირს?",
     georgianAnswer: "რადგან მას საკუთარ სახლად მიიჩნევენ.",
-    page: 4,
+    
   },
   {
     id: 23,
@@ -181,7 +181,7 @@ export const questions = [
     answer: "Yes, the price of land is constantly growing.",
     georgianQuestion: "მიწის ფასი მუდმივად იზრდება?",
     georgianAnswer: "დიახ.",
-    page: 4,
+    
   },
   {
     id: 24,
@@ -189,7 +189,7 @@ export const questions = [
     answer: "Doctors usually advise us to eat healthy food and exercise.",
     georgianQuestion: "რას გვირჩევენ ექიმები, თუ ჯანმრთელად ყოფნა გვინდა?",
     georgianAnswer: "ჯანსაღი საკვების მიღებას და ვარჯიშს.",
-    page: 5,
+    
   },
   {
     id: 25,
@@ -197,7 +197,7 @@ export const questions = [
     answer: "People usually turn to their parents or friends.",
     georgianQuestion: "ვის მიმართავენ ადამიანები, როცა რჩევა სჭირდებათ?",
     georgianAnswer: "მშობლებს ან მეგობრებს.",
-    page: 5,
+    
   },
   {
     id: 26,
@@ -205,7 +205,7 @@ export const questions = [
     answer: "No, many smokers don't follow the advice printed on cigarette packets.",
     georgianQuestion: "ეწევიან თუ არა მწეველები სიგარეტის კოლოფზე დაწერილ რჩევას?",
     georgianAnswer: "არა, ბევრი არ ითვალისწინებს.",
-    page: 5,
+    
   },
   {
     id: 27,
@@ -213,7 +213,7 @@ export const questions = [
     answer: "The police advise people to stay at home when there is danger.",
     georgianQuestion: "როდის ურჩევს პოლიცია ხალხს სახლში დარჩენას?",
     georgianAnswer: "როდესაც საფრთხეა.",
-    page: 5,
+    
   },
   {
     id: 28,
@@ -221,7 +221,7 @@ export const questions = [
     answer: "Yes, I usually followed my parents' advice.",
     georgianQuestion: "ბავშვობაში მშობლების რჩევებს ითვალისწინებდი?",
     georgianAnswer: "დიახ, ჩვეულებრივ ვითვალისწინებდი.",
-    page: 5,
+    
   },
   {
     id: 29,
@@ -229,7 +229,7 @@ export const questions = [
     answer: "I'd advise you to practise every day and speak with native speakers.",
     georgianQuestion: "რას მირჩევდი, თუ ესპანურის სწავლა მინდოდეს?",
     georgianAnswer: "ყოველდღიურად ივარჯიშო და ესაუბრო ესპანურის მშობლიურ ენაზე მოსაუბრეებს.",
-    page: 5,
+    
   },
   {
     id: 30,
@@ -237,7 +237,7 @@ export const questions = [
     answer: "Children like going to kindergarten because they can play with other children.",
     georgianQuestion: "რატომ უყვართ ბავშვებს საბავშვო ბაღში სიარული?",
     georgianAnswer: "რადგან სხვა ბავშვებთან თამაში შეუძლიათ.",
-    page: 5,
+    
   },
   {
     id: 31,
@@ -245,6 +245,6 @@ export const questions = [
     answer: "Children often learn to write their first letters and how to read.",
     georgianQuestion: "რას სწავლობენ ბავშვები საბავშვო ბაღში?",
     georgianAnswer: "პირველი ასოების წერას და კითხვას.",
-    page: 5,
+    
   },
 ];
