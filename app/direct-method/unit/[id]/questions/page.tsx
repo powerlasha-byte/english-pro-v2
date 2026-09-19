@@ -105,11 +105,13 @@ export default function QuestionsPage() {
                 </>
               )}
 
-              {"page" in item && (
-                <p className="mt-6 text-sm text-violet-400">
-                  Page {item.page}
-                </p>
-              )}
+{"page" in item && typeof item.page === "number" && (
+  <p className="mt-6 text-sm text-violet-400">
+    Page {item.page}
+  </p>
+)}
+
+
             </div>
           ))}
         </div>
