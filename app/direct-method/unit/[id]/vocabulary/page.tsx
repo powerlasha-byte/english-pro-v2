@@ -80,10 +80,10 @@ export default function VocabularyPage() {
                           wordTranslationVisible ? null : word.id
                         )
                       }
-                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                     className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900  px-3 text-sm font-medium text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
                       title="Show translation"
                     >
-                      🌐
+                      GE
                     </button>
 
                   </div>
@@ -141,10 +141,10 @@ export default function VocabularyPage() {
                           sentenceTranslationVisible ? null : word.id
                         )
                       }
-                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                      className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900  px-3 text-sm font-medium text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
                       title="Show translation"
                     >
-                      🌐
+                      GE
                     </button>
 
                   </div>

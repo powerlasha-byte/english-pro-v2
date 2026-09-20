@@ -1,4 +1,3 @@
-
 "use client";
 
 import Link from "next/link";
@@ -20,6 +19,7 @@ type SpokenPhrase = {
   english: string;
   georgian: string;
   situation?: string;
+  situationGeorgian?: string;
 };
 
 type SpokenSection = {
@@ -111,6 +111,7 @@ export default function SpokenEnglishPage() {
           ← ყველა კატეგორია
         </Link>
 
+        {/* HEADER */}
         <header className="mb-8 rounded-3xl border border-slate-800 bg-gradient-to-br from-slate-900 via-slate-900 to-violet-950/40 p-7 sm:p-9">
           <div className="mb-4 flex h-14 w-14 items-center justify-center rounded-2xl bg-violet-500/15 text-3xl">
             🗣️
@@ -148,10 +149,12 @@ export default function SpokenEnglishPage() {
           </div>
         </header>
 
+        {/* CATEGORIES */}
         <div className="space-y-4">
           {allSections.map((section, sectionIndex) => {
             const sectionKey = `${section.id}-${sectionIndex}`;
             const isOpen = Boolean(openSections[sectionKey]);
+
             const explanationKey = `${sectionKey}-explanation`;
 
             return (
@@ -159,6 +162,7 @@ export default function SpokenEnglishPage() {
                 key={sectionKey}
                 className="overflow-hidden rounded-2xl border border-slate-800 bg-slate-900"
               >
+                {/* CATEGORY HEADER */}
                 <button
                   type="button"
                   onClick={() => toggleSection(sectionKey)}
@@ -193,25 +197,41 @@ export default function SpokenEnglishPage() {
                   </span>
                 </button>
 
+                {/* CATEGORY CONTENT */}
                 {isOpen && (
                   <div className="border-t border-slate-800">
+                    {/* EXPLANATION */}
                     <div className="p-5 sm:p-6">
-                      <p className="leading-7 text-slate-300">
-                        {section.explanation}
-                      </p>
+                      <div className="flex items-start gap-3">
+                        <p className="min-w-0 flex-1 leading-7 text-slate-300">
+                          {section.explanation}
+                        </p>
 
-                      <button
-                        type="button"
-                        onClick={() => toggleTranslation(explanationKey)}
-                        aria-expanded={Boolean(
-                          visibleTranslations[explanationKey]
-                        )}
-                        className="mt-3 rounded-lg border border-slate-700 px-3 py-1.5 text-sm text-slate-400 transition hover:border-violet-500 hover:text-violet-300"
-                      >
-                        {visibleTranslations[explanationKey]
-                          ? "დამალე ქართული ახსნა"
-                          : "GE"}
-                      </button>
+                        <button
+                          type="button"
+                          onClick={() =>
+                            speakEnglish(section.explanation)
+                          }
+                          title="მოუსმინე ახსნას"
+                          className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-violet-400/25 bg-violet-500/10 text-violet-200 transition hover:border-violet-400/60 hover:bg-violet-500/20"
+                        >
+                          🔊
+                        </button>
+                      </div>
+
+                      <div className="mt-3 flex items-center gap-2">
+                        <button
+                          type="button"
+                          onClick={() =>
+                            toggleTranslation(explanationKey)
+                          }
+                           className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900  px-3 text-sm font-medium text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                        >
+                          {visibleTranslations[explanationKey]
+                            ? "Hide"
+                            : "GE"}
+                        </button>
+                      </div>
 
                       {visibleTranslations[explanationKey] && (
                         <p className="mt-3 rounded-xl bg-slate-800 p-4 text-sm leading-6 text-slate-300">
@@ -220,54 +240,114 @@ export default function SpokenEnglishPage() {
                       )}
                     </div>
 
+                    {/* PHRASES */}
                     <div className="space-y-3 border-t border-slate-800 p-4 sm:p-6">
                       {section.phrases.map((phrase, phraseIndex) => {
                         const phraseKey = `${sectionKey}-phrase-${phraseIndex}`;
+
+                        const phraseTranslationKey = `${phraseKey}-translation`;
+
+                        const situationTranslationKey = `${phraseKey}-situation`;
 
                         return (
                           <article
                             key={phraseKey}
                             className="rounded-xl border border-slate-800 bg-slate-950/50 p-4"
                           >
-                            <div className="flex items-start gap-3">
+                            {/* PHRASE */}
+                            <div className="flex items-center gap-3">
                               <p className="min-w-0 flex-1 leading-7 text-white">
                                 {phrase.english}
                               </p>
 
-                              <button
-                                type="button"
-                                onClick={() => speakEnglish(phrase.english)}
-                                aria-label={`მოუსმინე: ${phrase.english}`}
-                                title="მოუსმინე ფრაზას"
-                                className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-violet-400/25 bg-violet-500/10 text-violet-200 transition hover:border-violet-400/60 hover:bg-violet-500/20"
-                              >
-                                🔊
-                              </button>
+                              {/* PHRASE ACTIONS */}
+                              <div className="flex w-[90px] shrink-0 items-center justify-end gap-3">
+                                <button
+                                  type="button"
+                                  onClick={() =>
+                                    speakEnglish(phrase.english)
+                                  }
+                                  aria-label={`მოუსმინე: ${phrase.english}`}
+                                  title="მოუსმინე ფრაზას"
+                                  className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-violet-400/25 bg-violet-500/10 text-violet-200 transition hover:border-violet-400/60 hover:bg-violet-500/20"
+                                >
+                                  🔊
+                                </button>
+
+                                <button
+                                  type="button"
+                                  onClick={() =>
+                                    toggleTranslation(
+                                      phraseTranslationKey
+                                    )
+                                  }
+                                   className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900  px-3 text-sm font-medium text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                                >
+                                  GE
+                                </button>
+                              </div>
                             </div>
 
-                            <button
-                              type="button"
-                              onClick={() => toggleTranslation(phraseKey)}
-                              aria-expanded={Boolean(
-                                visibleTranslations[phraseKey]
-                              )}
-                              className="mt-3 rounded-lg border border-slate-700 px-3 py-1.5 text-sm text-slate-400 transition hover:border-violet-500 hover:text-violet-300"
-                            >
-                              {visibleTranslations[phraseKey]
-                                ? "დამალე თარგმანი"
-                                : "GE"}
-                            </button>
-
-                            {visibleTranslations[phraseKey] && (
+                            {/* PHRASE TRANSLATION */}
+                            {visibleTranslations[
+                              phraseTranslationKey
+                            ] && (
                               <p className="mt-3 rounded-xl bg-slate-800 p-4 text-sm leading-6 text-slate-300">
                                 {phrase.georgian}
                               </p>
                             )}
 
+                            {/* SITUATION */}
                             {phrase.situation && (
-                              <p className="mt-3 text-xs leading-5 text-slate-500">
-                                სიტუაცია: {phrase.situation}
-                              </p>
+                              <div className="mt-4 border-t border-slate-800 pt-3">
+                                <div className="flex items-center gap-3">
+                                  <p className="min-w-0 flex-1 text-sm leading-5 text-slate-500">
+                                    <span className="font-semibold text-slate-400">
+                                      situation:
+                                    </span>{" "}
+                                    {phrase.situation}
+                                  </p>
+
+                                  {/* SITUATION ACTIONS */}
+                                  <div className="flex w-[90px] shrink-0 items-center justify-end gap-3">
+                                    <button
+                                      type="button"
+                                      onClick={() =>
+                                        speakEnglish(
+                                          phrase.situation!
+                                        )
+                                      }
+                                      title="მოუსმინე სიტუაციას"
+                                      className="flex h-9 w-9 shrink-0 items-center justify-center rounded-full border border-slate-700 bg-slate-900 text-slate-300 transition hover:border-violet-500 hover:text-violet-300"
+                                    >
+                                      🔊
+                                    </button>
+
+                                    {phrase.situationGeorgian && (
+                                      <button
+                                        type="button"
+                                        onClick={() =>
+                                          toggleTranslation(
+                                            situationTranslationKey
+                                          )
+                                        }
+                                          className="flex h-10 w-10 items-center justify-center rounded-full border border-slate-700 bg-slate-900  px-3 text-sm font-medium text-slate-300 transition hover:border-violet-500 hover:bg-slate-800 hover:text-white"
+                                      >
+                                        GE
+                                      </button>
+                                    )}
+                                  </div>
+                                </div>
+
+                                {phrase.situationGeorgian &&
+                                  visibleTranslations[
+                                    situationTranslationKey
+                                  ] && (
+                                    <p className="mt-3 rounded-xl bg-slate-800 p-3 text-sm leading-5 text-slate-300">
+                                      {phrase.situationGeorgian}
+                                    </p>
+                                  )}
+                              </div>
                             )}
                           </article>
                         );
